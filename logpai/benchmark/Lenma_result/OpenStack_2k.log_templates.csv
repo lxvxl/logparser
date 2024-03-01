@@ -1,0 +1,41 @@
+EventId,EventTemplate,Occurrences
+da76ad70,"<*> ""GET <*>HTTP<*>status: <*> len: <*> time: <*>.<*>",931
+f014e864,[instance: <*>] VM <*> (Lifecycle Event),87
+965bf0e7,[instance: <*>] VM Paused (Lifecycle Event),22
+059af893,[instance: <*>] During sync_power_state the instance has a pending task (spawning). Skip.,43
+a3174658,image <*> at (<*>checking,82
+2b115e7d,"image <*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage",82
+b47d90d9,Active base files: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,82
+1dd634b5,Creating event <*>:<*> for instance <*>,22
+80bc5050,"<*> ""POST <*>HTTP<*>status: <*> len: <*> time: <*>.<*>",64
+2cba2180,[instance: <*>] Instance spawned successfully.,22
+caf11880,[instance: <*>] Took <*>.<*> seconds to spawn the instance on the hypervisor.,22
+de5e586b,[instance: <*>] Took <*>.<*> seconds to build instance.,22
+733c51f0,Auditing locally available compute resources for node <*>.slowvm<*>.<*>.utah.cloudlab.us,15
+5d1bf6d9,"Total usable vcpus: <*>, total allocated vcpus: <*>",15
+796b232d,Final resource view: name=<*>.slowvm<*>.<*>.utah.cloudlab.us phys_ram=<*>MB used_ram=<*>MB phys_disk=<*>GB used_disk=<*>GB total_vcpus=<*> used_vcpus=<*> pci_stats=[],15
+a9db33cb,Compute_service record updated for <*>.slowvm<*>.<*>.utah.cloudlab.us:<*>.slowvm<*>.<*>.utah.cloudlab.us,15
+2bee7501,"<*> ""DELETE <*>HTTP<*>status: <*> len: <*> time: <*>.<*>",22
+fcd762c2,[instance: <*>] Terminating instance,22
+81947e14,[instance: <*>] Instance destroyed successfully.,22
+b770702d,[instance: <*>] Deleting instance files /var/lib/nova/instances/<*>_del,21
+678597eb,[instance: <*>] Deletion of <*>complete,21
+3a19cdc7,[instance: <*>] Took <*>.<*> seconds to destroy the instance on the hypervisor.,21
+5da6c282,[instance: <*>] Took <*>.<*> seconds to deallocate network for instance.,21
+f2379fc6,Unknown base file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,30
+e8b6d360,Removable base files: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,30
+f539d934,Removing base or swap file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,21
+df60e4d1,HTTP exception thrown: No instances found for any event,21
+8c960c84,"[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",21
+3e87d713,"[instance: <*>] Total memory: <*> MB, used: <*>.<*> MB",21
+0ba4e709,"[instance: <*>] memory limit: <*>.<*> MB, free: <*>.<*> MB",21
+191c5e5b,"[instance: <*>] Total disk: <*> GB, used: <*>.<*> GB",21
+6ea8885a,"[instance: <*>] <*> limit not specified, defaulting to unlimited",42
+35c92dac,"[instance: <*>] Total vcpu: <*> VCPU, used: <*>.<*> VCPU",21
+c89ed65a,[instance: <*>] Claim successful,21
+041069b7,[instance: <*>] Creating image,21
+1e115199,Successfully synced instances from host '<*>.slowvm<*>.<*>.utah.cloudlab.us'.,2
+351007fa,Running instance usage audit for host <*>.slowvm<*>.<*>.utah.cloudlab.us from <*> <*>:<*>:<*> to <*> <*>:<*>:<*>. <*> instances.,1
+2d813545,Base or swap file too young to remove: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,9
+4325664c,The instance sync for host '<*>.slowvm<*>.<*>.utah.cloudlab.us' did not match. R<*> its InstanceList.,5
+5fc05b01,"While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor.",1

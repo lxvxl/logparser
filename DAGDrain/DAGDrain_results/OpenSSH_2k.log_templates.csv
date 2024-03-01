@@ -1,0 +1,72 @@
+EventId,EventTemplate,Occurrences
+f7fe7f88,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!,85
+9302fad4,Invalid user <*> from <*>,113
+b5c76b83,input_userauth_request: invalid user webmaster [preauth],2
+0849a7d0,pam_unix(sshd:auth): check pass; user unknown,135
+e2315f39,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,110
+21bb6d0e,Failed password for invalid user <*> from <*> port <*> ssh2,135
+2491ca3e,Connection closed by <*> [preauth],34
+6b674ff1,input_userauth_request: invalid user <*> [preauth],15
+2817a946,Received disconnect from <*>: 11: <*> <*> <*>,414
+442cb468,input_userauth_request: invalid user chen [preauth],1
+066b4d3e,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= <*> <*>,384
+f831cb6d,Failed password for <*> from <*> port <*> ssh2,383
+4fbf66db,message repeated 5 times: [ Failed password for root from <*> port <*> ssh2],2
+509a487f,Disconnecting: Too many authentication failures for <*> [preauth],3
+216ab66c,PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= <*> user=root,2
+00a684b8,PAM service(sshd) ignoring max retries; <*> > 3,7
+c6df8943,input_userauth_request: invalid user pgadmin [preauth],1
+bd7e4e2c,input_userauth_request: invalid user utsims [preauth],1
+c926c7d9,Did not receive identification string from <*>,10
+80e2501a,input_userauth_request: invalid user inspur [preauth],3
+397e8932,input_userauth_request: invalid user support [preauth],6
+3a7285d3,error: Received disconnect from <*>: 3: <*>: Auth fail [preauth],2
+2c76bdac,input_userauth_request: invalid user test [preauth],5
+e2e22af4,Received disconnect from <*>: 11: Closed due to user request. [preauth],7
+2702de18,Failed none for invalid user <*> from <*> port <*> ssh2,4
+ceeca5d5,input_userauth_request: invalid user admin [preauth],21
+6ff8b88b,PAM <*> more authentication <*> logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,8
+596f3e42,input_userauth_request: invalid user default [preauth],1
+63570961,input_userauth_request: invalid user guest [preauth],3
+a007bbf5,input_userauth_request: invalid user matlab [preauth],3
+d7242a1b,error: Received disconnect from <*>: 14: No more user authentication methods available. [preauth],45
+0451ad55,input_userauth_request: invalid user user [preauth],4
+176ce241,input_userauth_request: invalid user anonymous [preauth],2
+019ec990,input_userauth_request: invalid user ubnt [preauth],2
+65362bb7,input_userauth_request: invalid user cisco [preauth],2
+b13609e1,input_userauth_request: invalid user operator [preauth],1
+a65ca278,input_userauth_request: invalid user monitor [preauth],1
+524dc383,input_userauth_request: invalid user ftpuser [preauth],2
+421a0080,input_userauth_request: invalid user pi [preauth],1
+a5daa932,input_userauth_request: invalid user PlcmSpIp [preauth],1
+4ea524ec,input_userauth_request: invalid user Management [preauth],1
+5934618a,input_userauth_request: invalid user api [preauth],1
+ef6b8e85,input_userauth_request: invalid user eoor [preauth],1
+b94349a6,input_userauth_request: invalid user butter [preauth],1
+baf29009,input_userauth_request: invalid user redhat [preauth],1
+5451c5db,input_userauth_request: invalid user oracle [preauth],6
+3d25d1fe,input_userauth_request: invalid user postgres [preauth],1
+def3e17f,input_userauth_request: invalid user nagios [preauth],1
+8ccd857f,input_userauth_request: invalid user www [preauth],1
+a3a59f4c,input_userauth_request: invalid user abc [preauth],1
+cd013ec5,input_userauth_request: invalid user ted [preauth],1
+5b22478e,input_userauth_request: invalid user vnc [preauth],1
+587bbf97,input_userauth_request: invalid user ghost [preauth],1
+83681370,input_userauth_request: invalid user ubuntu [preauth],2
+df1176a8,input_userauth_request: invalid user deploy [preauth],2
+a4501b2c,input_userauth_request: invalid user oralce [preauth],1
+35ca9280,input_userauth_request: invalid user bssh [preauth],1
+12f85ebb,input_userauth_request: invalid user magnos [preauth],2
+38277a2d,input_userauth_request: invalid user ingrid [preauth],1
+75a8a095,input_userauth_request: invalid user jay [preauth],1
+1e9a4fa4,input_userauth_request: invalid user cyrus [preauth],1
+c4947f9f,input_userauth_request: invalid user FILTER [preauth],1
+bb75510d,Accepted password for fztu from <*> port 49116 ssh2,1
+4ca88b08,pam_unix(sshd:session): session opened for user fztu by (uid=0),1
+cfe22f2e,pam_unix(sshd:session): session closed for user fztu,1
+dbcdd02a,input_userauth_request: invalid user zhangyan [preauth],1
+89199bf3,input_userauth_request: invalid user dff [preauth],1
+9436c7f4,input_userauth_request: invalid user cheng [preauth],1
+7ab1b426,input_userauth_request: invalid user boot [preauth],1
+884880ba,input_userauth_request: invalid user sandeep [preauth],1
+f32f0642,fatal: Write failed: Connection reset by peer [preauth],1

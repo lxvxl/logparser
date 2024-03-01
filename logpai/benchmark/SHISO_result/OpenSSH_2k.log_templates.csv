@@ -1,0 +1,30 @@
+EventId,EventTemplate,Occurrences
+f7fe7f88,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!,85
+9302fad4,Invalid user <*> from <*>,112
+6b674ff1,input_userauth_request: invalid user <*> [preauth],112
+0849a7d0,pam_unix(sshd:auth): check pass; user unknown,135
+4d525d0f,Invalid user test9 from <*>,1
+be596394,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>.<*> user=root,1
+e2315f39,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,110
+ca409192,Failed <*> for invalid user <*> from <*> port <*> ssh2,138
+2491ca3e,Connection closed by <*> [preauth],34
+e32bc5bf,Failed password for invalid user test9 from <*> port 36060 ssh2,1
+72925f85,input_userauth_request: invalid user test9 [preauth],1
+4ca88b08,pam_unix(sshd:session): session opened for user fztu by (uid=0),1
+cfe22f2e,pam_unix(sshd:session): session closed for user fztu,1
+f32f0642,fatal: Write failed: Connection reset by peer [preauth],1
+e35a70fe,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> <*>,383
+afd2f664,Received disconnect from <*>: 11: disconnected by user,1
+f831cb6d,Failed password for <*> from <*> port <*> ssh2,383
+4fbf66db,message repeated 5 times: [ Failed password for root from <*> port <*> ssh2],2
+509a487f,Disconnecting: Too many authentication failures for <*> [preauth],3
+132cfcc3,PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>.<*> user=root,1
+c5704dd9,Received disconnect from <*>: 11: Bye Bye [preauth],413
+00a684b8,PAM service(sshd) ignoring max retries; <*> > 3,7
+c926c7d9,Did not receive identification string from <*>,10
+e2e22af4,Received disconnect from <*>: 11: Closed due to user request. [preauth],7
+bb75510d,Accepted password for fztu from <*> port 49116 ssh2,1
+3a7285d3,error: Received disconnect from <*>: 3: <*>: Auth fail [preauth],2
+d7242a1b,error: Received disconnect from <*>: 14: No more user authentication methods available. [preauth],45
+6ff8b88b,PAM <*> more authentication <*> logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,8
+ee103b8a,PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*> user=root,1

@@ -1,0 +1,66 @@
+EventId,EventTemplate,Occurrences
+82346f79,Loaded Servicing Stack v6.1.7601.23505 with Core : C : \Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7601.23505_none_681aa442f6fed7f0\cbscore.dll,2
+c3dce4d6,<*> 2016/9/27 : 20 : 30 : <*> WcpInitialize (wcp.dll version 0.0.0.6) called (stack (ADDR)b5d <*> <*> (ADDR) (ADDR) (ADDR)),2
+0e05fb0b,00000002 <*> : <*> : <*> : <*> WcpInitialize (wcp.dll version 0.0.0.6) called (stack (ADDR)b5d (ADDR)ade (ADDR)984 (ADDR)665 (ADDR) (ADDR)),2
+2d8b5399,Ending TrustedInstaller initialization.,2
+ddb70245,Starting the TrustedInstaller main loop.,2
+70236f55,TrustedInstaller service starts successfully.,2
+1d6a7aa9,SQM : Initializing online with Windows opt-in : False,2
+7cf3e9e1,SQM : Cleaning up report files older than 10 days.,2
+28803839,SQM : Requesting upload of all unsent reports.,2
+9131c74b,"SQM : Failed to start upload with file pattern : C : \Windows\servicing\sqm\*_std.sqm, flags : <*>[HRESULT = (ADDR) - E_FAIL]",2
+6cd63a06,SQM : Failed to start standard sample upload. [HRESULT = (ADDR) - E_FAIL],2
+92ec1267,"SQM : Queued 0 file(s) for upload with pattern : C : \Windows\servicing\sqm\*_all.sqm, flags : 0x6",2
+a6e5870a,SQM : Warning : Failed to upload all unsent reports. [HRESULT = (ADDR) - E_FAIL],2
+6342ae85,"No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending.",2
+a6e998ff,NonStart : Checking to ensure startup processing was not required.,2
+82206fcd,"00000004 IAdvancedInstallerAwareStore_ResolvePendingTransactions (call 1) (flags = 00000004, progress = NULL, phase = 0, pdwDisposition = <*>",2
+99c9fe74,"00000005 Creating NT transaction (seq 1), objectname [6]""(null)""",2
+aaa92e16,"00000006 Created NT transaction (seq 1) result (ADDR), handle <*>",2
+572d64f2,00000007 2016/9/27 : 20 : 30 : 31.462 CSI perf trace :,1
+33b069dc,"NonStart : Success, startup processing not required as expected.",2
+0249909f,Startup processing thread terminated normally,2
+3d2b00fb,00000008 CSI Store 4991456 ((ADDR)004c29e0) initialized,1
+97e9ce44,Session : <*> initialized by client WindowsUpdateAgent.,608
+8e8298b5,Warning : Unrecognized packageExtended attribute.,280
+9a352f6a,Expecting attribute name [HRESULT = (ADDR) - CBS_E_MANIFEST_INVALID_ITEM],224
+618c7fbc,Failed to get next element [HRESULT = (ADDR) - CBS_E_MANIFEST_INVALID_ITEM],224
+edd806da,Failed to internally open package. [HRESULT = (ADDR) - CBS_E_INVALID_PACKAGE],18
+cb20057f,Read out cached package applicability for package : <*> ApplicableState : <*> CurrentState : <*>,558
+e495b5ef,Failed to create backup log cab. [HRESULT = (ADDR) - ERROR_INVALID_FUNCTION],2
+e37f82f0,Reboot mark refs incremented to : 1,1
+9a33072c,Scavenge : Starts,1
+c00116fa,"00000009 2016/9/27 : 20 : 40 : 53.744 CSI Transaction <*>initialized for deployment engine {d16d444c-56d8-11d5-882d-0080c847b195} with flags 00000002 and client id [10]""TI6.0_0 : 0/""",1
+2fc22df5,Scavenge : Begin CSI Store,1
+7965244f,0000000a Performing 1 operations; 1 are not lock/unlock and follow :,1
+8ac976fd,"0000000b Store coherency cookie matches last scavenge cookie, skipping scavenge.",1
+b31ffc82,0000000c ICSITransaction : : Commit calling IStorePendingTransaction : : Apply - coldpatching=FALSE applyflags=7,1
+2d1164d0,"0000000d Creating NT transaction (seq 2), objectname [6]""(null)""",1
+260df832,"0000000e Created NT transaction (seq 2) result (ADDR), handle 0xb8",1
+fa98a133,0000000f 2016/9/27 : 20 : 40 : 54.786 CSI perf trace :,1
+cc3e2430,"Scavenge : Completed, disposition : 0X1",1
+46ccb3c8,00000010 2016/9/27 : 20 : 40 : 54.787 CSI Transaction <*>destroyed,1
+5fc49ff5,Reboot mark refs : 0,1
+ecc5604d,Idle processing thread terminated normally,1
+1915371f,Ending the TrustedInstaller main loop.,1
+0c5a20ae,Starting TrustedInstaller finalization.,1
+c5141d88,Ending TrustedInstaller finalization.,1
+05f90e58,Starting TrustedInstaller initialization.,1
+2156b967,<*> 2016/9/28 : 16 : 00 : <*> WcpInitialize (wcp.dll version 0.0.0.6) called (stack (ADDR)b5d <*> <*> (ADDR) (ADDR) (ADDR)),2
+8d7bfcea,00000007 2016/9/28 : 16 : 00 : 46.260 CSI perf trace :,1
+a4085b5c,"Loading offline registry hive : SOFTWARE, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SOFTWARE' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\SOFTWARE'.",1
+8f5f8591,"Loading offline registry hive : SYSTEM, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SYSTEM' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\SYSTEM'.",1
+a16798f8,"Loading offline registry hive : SECURITY, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SECURITY' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\SECURITY'.",1
+e8102372,"Loading offline registry hive : SAM, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SAM' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\SAM'.",1
+2d540df4,"Loading offline registry hive : COMPONENTS, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/COMPONENTS' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\COMPONENTS'.",1
+92914b21,"Loading offline registry hive : DEFAULT, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/DEFAULT' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\DEFAULT'.",1
+4a890b96,"Loading offline registry hive : ntuser.dat, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Users/default/ntuser.dat' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Users\default\ntuser.dat'.",1
+6961119e,"Loading offline registry hive : schema.dat, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/system32/smi/store/Machine/schema.dat' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\system32\smi\store\Machine\schema.dat'.",1
+243b9413,Offline image is : read-only,1
+a0ab2bd7,"Disabling manifest caching, because the image is not writeable.",1
+c01303e7,00000008 2016/9/28 : 16 : 00 : 46.635 PopulateComponentFamiliesKey - Begin,1
+9c465d30,00000009 2016/9/28 : 16 : 01 : 03.072 PopulateComponentFamiliesKey - End,1
+150606c8,0000000a CSI Store 17159600 ((ADDR)0105d5b0) initialized,1
+37bc5aee,Session : 11152_142416105 initialized by client SPP.,1
+abac05d7,Unloading offline registry hive : <*>,8
+fc277c0d,0000000b CSI Store 3065408 ((ADDR)002ec640) initialized,1

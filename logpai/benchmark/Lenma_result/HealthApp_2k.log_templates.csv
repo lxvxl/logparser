@@ -1,0 +1,536 @@
+EventId,EventTemplate,Occurrences
+6c42c5b0,onStandStepChanged 3579,3
+eeb5b2b3,onExtend:1514038530000 <*> 0 4,3
+2b47aca5,onReceive action: android.intent.action.SCREEN_ON,17
+22b9413d,processHandleBroadcastAction action:android.intent.action.SCREEN_ON,17
+6634c941,flush sensor data,17
+1753ecfa,getTodayTotalDetailSteps = <*>,242
+795d04bd,setTodayTotalDetailSteps=<*>,241
+2ca2fba0,calculateCaloriesWithCache totalCalories=126775,1
+91d871fe,calculateAltitudeWithCache totalAltitude=240,217
+7ca632d2,REPORT : <*> <*> <*> 240,135
+0bc40afc,onStandStepChanged 3580,1
+7fde7cd8,calculateCaloriesWithCache totalCalories=126797,1
+6c892664,onStandStepChanged 3581,1
+f84368ba,onExtend:1514038531000 <*> 0 4,2
+669f98e1,calculateCaloriesWithCache totalCalories=126818,1
+1e148afe,onStandStepChanged 3583,1
+6b69044a,calculateCaloriesWithCache totalCalories=126861,1
+f69d5bef,onStandStepChanged 3584,1
+85e17b16,onExtend:1514038532000 1 0 4,1
+b71a0db8,calculateCaloriesWithCache totalCalories=126882,1
+5d1f2fe6,onStandStepChanged 3585,1
+4603a62e,onExtend:1514038533000 1 0 4,2
+990acd2b,calculateCaloriesWithCache totalCalories=126904,1
+4cf31680,onStandStepChanged 3586,1
+7a037846,calculateCaloriesWithCache totalCalories=126925,1
+8eab2278,onStandStepChanged 3587,1
+a701bdec,onExtend:1514038534000 1 0 4,1
+84a586ef,calculateCaloriesWithCache totalCalories=126947,1
+c780eeaf,onStandStepChanged 3588,1
+3cf0ffe6,onExtend:1514038535000 1 0 4,2
+4adf002e,onReceive action: android.intent.action.SCREEN_OFF,17
+39fe8ddb,onStandStepChanged 3589,3
+b259634b,calculateCaloriesWithCache totalCalories=126989,2
+9ef768ab,isScreenOn true,1
+0bb73e48,"screen status unknown,think screen on",1
+cc4a0813,onExtend:1514038536000 <*> 0 4,3
+ceea0b63,onStandStepChanged 3590,1
+afb3f8b4,calculateCaloriesWithCache totalCalories=127011,1
+caf263c6,onStandStepChanged 3591,1
+0751f179,calculateCaloriesWithCache totalCalories=127032,1
+3541bb55,onStandStepChanged 3592,1
+3b968995,onExtend:1514038537000 1 0 4,1
+124e9e16,calculateCaloriesWithCache totalCalories=127054,1
+520f3176,onStandStepChanged 3593,1
+ffafb9e0,onExtend:1514038538000 1 0 4,2
+af20bab4,calculateCaloriesWithCache totalCalories=127075,1
+25c5dfcd,onStandStepChanged 3594,1
+37675495,calculateCaloriesWithCache totalCalories=127097,1
+3b6918e6,onStandStepChanged 3595,1
+789d7bb0,onExtend:1514038539000 1 0 4,2
+d31bbb41,calculateCaloriesWithCache totalCalories=127118,1
+137e4081,onStandStepChanged 3596,1
+b31f23d2,calculateCaloriesWithCache totalCalories=127139,1
+5bb796b3,onStandStepChanged 3597,1
+33dba84a,onExtend:1514038540000 1 0 4,1
+7871c575,calculateCaloriesWithCache totalCalories=127161,1
+777f5cfd,onStandStepChanged 3598,1
+3a317957,onExtend:1514038541000 1 0 4,2
+aa931526,calculateCaloriesWithCache totalCalories=127182,1
+22765a2e,onStandStepChanged 3599,1
+f80bd2bf,calculateCaloriesWithCache totalCalories=127204,1
+fd90276a,onStandStepChanged 3600,1
+4bad9bdc,onExtend:1514038542000 1 0 4,2
+beacec27,calculateCaloriesWithCache totalCalories=127225,1
+ee671c8a,onStandStepChanged 3601,1
+fc820ba8,calculateCaloriesWithCache totalCalories=127246,1
+410078ac,onStandStepChanged 3602,1
+3543a301,onExtend:1514038543000 1 0 4,1
+d2c098d9,calculateCaloriesWithCache totalCalories=127268,1
+8cce291e,onStandStepChanged 3603,1
+aa45dcd8,onExtend:1514038544000 1 0 4,2
+456935df,calculateCaloriesWithCache totalCalories=127289,1
+82101a5c,onStandStepChanged 3604,1
+1855daee,calculateCaloriesWithCache totalCalories=127311,1
+f06f851e,onStandStepChanged 3605,1
+eac628c5,onExtend:1514038545000 1 0 4,1
+0cb3035e,calculateCaloriesWithCache totalCalories=127332,1
+fa2eab6f,onStandStepChanged 3606,1
+5ba49f8a,onExtend:1514038546000 1 0 4,2
+8fda6c91,calculateCaloriesWithCache totalCalories=127354,1
+1c83ddaf,onStandStepChanged 3607,1
+808425a5,calculateCaloriesWithCache totalCalories=127375,1
+89e2369b,onStandStepChanged 3608,1
+aec7fcc8,onExtend:1514038547000 1 0 4,1
+7864f020,calculateCaloriesWithCache totalCalories=127396,1
+754d4338,onStandStepChanged 3609,1
+0eb53261,onExtend:1514038548000 1 0 4,2
+4d3e90e3,calculateCaloriesWithCache totalCalories=127418,1
+fe7f7cf4,onStandStepChanged 3610,1
+d085e312,calculateCaloriesWithCache totalCalories=127439,1
+8c1daeb6,onStandStepChanged 3611,1
+3c47c6a1,onExtend:1514038549000 1 0 4,1
+f9d99248,calculateCaloriesWithCache totalCalories=127461,1
+d8c0caa1,onStandStepChanged 3612,1
+1b1e1425,onExtend:1514038550000 1 0 4,2
+299528ac,calculateCaloriesWithCache totalCalories=127482,1
+324be45f,onStandStepChanged 3613,1
+cc09d737,calculateCaloriesWithCache totalCalories=127504,1
+c8486374,onStandStepChanged 3614,1
+814fa73d,onExtend:1514038551000 1 0 4,1
+d9eb3365,calculateCaloriesWithCache totalCalories=127525,1
+03057633,onStandStepChanged 3616,1
+22922d0c,onExtend:1514038552000 2 0 4,1
+6808126a,calculateCaloriesWithCache totalCalories=127568,1
+885e4153,onStandStepChanged 3617,1
+4a08bc5a,onExtend:1514038553000 1 0 4,1
+5f3fa331,calculateCaloriesWithCache totalCalories=127589,1
+799c7a1e,onStandStepChanged 3619,1
+220cbc1a,onExtend:1514038554000 2 0 4,1
+b0ef9c0a,calculateCaloriesWithCache totalCalories=127632,1
+0e8101ad,onStandStepChanged 3620,1
+56f5fcdb,onExtend:1514038555000 1 0 4,1
+0830ec65,calculateCaloriesWithCache totalCalories=127653,1
+1467309e,onStandStepChanged 3622,1
+f2512594,onExtend:1514038556000 2 0 4,2
+7c1bc734,calculateCaloriesWithCache totalCalories=127696,1
+bf3196a1,onStandStepChanged 3624,1
+ea856e7b,calculateCaloriesWithCache totalCalories=127739,1
+94e134e3,onStandStepChanged 3625,1
+789e8ee3,onExtend:1514038558000 1 0 4,1
+d8b31256,calculateCaloriesWithCache totalCalories=127761,1
+b54912ef,onStandStepChanged 3626,3
+d8aebede,onExtend:1514038560000 1 0 4,1
+bb92344f,processHandleBroadcastAction action:android.intent.action.TIME_TICK,144
+b2b3ff89,calculateCaloriesWithCache totalCalories=127782,3
+2a7e4be6,onExtend:1514038561000 0 0 0,1
+60f49d56,onExtend:1514038639000 0 0 4,1
+9d07a2ea,onStandStepChanged 3628,1
+c22cbfbc,onExtend:1514038641000 2 0 4,2
+e5b957fe,calculateCaloriesWithCache totalCalories=127824,1
+52be8017,onStandStepChanged 3630,1
+6460ca58,calculateCaloriesWithCache totalCalories=127867,1
+f15fad71,onStandStepChanged 3632,1
+fc09fee1,onExtend:1514038642000 2 0 4,2
+9166831a,calculateCaloriesWithCache totalCalories=127910,1
+9954173e,onStandStepChanged 3634,1
+d070f59a,calculateCaloriesWithCache totalCalories=127953,1
+78effece,onStandStepChanged 3636,1
+d085c707,onExtend:1514038643000 2 0 4,2
+ece267a2,calculateCaloriesWithCache totalCalories=127996,1
+477b396a,onStandStepChanged 3638,1
+d3f7bec7,calculateCaloriesWithCache totalCalories=128039,1
+5d0135aa,onStandStepChanged 3640,1
+3f524b68,onExtend:1514038644000 2 0 4,2
+4fe87b92,calculateCaloriesWithCache totalCalories=128081,1
+8f0f1f28,onStandStepChanged 3642,1
+bbecd236,calculateCaloriesWithCache totalCalories=128124,1
+36c8437d,onStandStepChanged 3643,1
+9828ef7a,onExtend:1514038645000 <*> 0 4,2
+dfa0b0a2,calculateCaloriesWithCache totalCalories=128146,1
+46c1359a,onStandStepChanged 3646,2
+718e8426,calculateCaloriesWithCache totalCalories=128210,2
+cd8a4cb4,onExtend:1514038648000 0 0 0,1
+6230a863,onStandStepChanged 3647,1
+5312b86c,onExtend:1514038665000 1 0 4,1
+6a4c68e3,calculateCaloriesWithCache totalCalories=128231,1
+9636b408,onStandStepChanged 3649,1
+b37b3f2d,onExtend:1514038666000 2 0 4,2
+fa4ffadf,calculateCaloriesWithCache totalCalories=128274,1
+86e6552a,onStandStepChanged 3651,1
+ddaad1cf,calculateCaloriesWithCache totalCalories=128317,1
+814070e0,onStandStepChanged 3653,1
+39fe8253,onExtend:1514038667000 2 0 4,2
+5d725118,calculateCaloriesWithCache totalCalories=128360,1
+ec1ff036,onStandStepChanged 3655,1
+28e3dbe6,calculateCaloriesWithCache totalCalories=128403,1
+9a2effd6,onStandStepChanged 3656,1
+12100b63,onExtend:1514038668000 <*> 0 4,2
+b8406591,calculateCaloriesWithCache totalCalories=128424,1
+554b43c8,onStandStepChanged 3658,1
+e42fdc04,calculateCaloriesWithCache totalCalories=128467,1
+38d0d812,onStandStepChanged 3660,1
+519ba1cd,onExtend:1514038669000 2 0 4,2
+97ad15f4,calculateCaloriesWithCache totalCalories=128510,1
+cba4a834,onStandStepChanged 3662,1
+a2655f17,calculateCaloriesWithCache totalCalories=128553,1
+4c79cff1,onStandStepChanged 3664,1
+da20318c,onExtend:1514038670000 2 0 4,2
+44bd9314,calculateCaloriesWithCache totalCalories=128595,1
+b8b82a6d,onStandStepChanged 3666,1
+55ac5b7d,calculateCaloriesWithCache totalCalories=128638,1
+10a1b6a5,onStandStepChanged 3667,1
+275fb413,onExtend:1514038671000 <*> 0 4,2
+48bab717,calculateCaloriesWithCache totalCalories=128660,1
+e87ee8d5,onStandStepChanged 3669,1
+67b5ba6d,calculateCaloriesWithCache totalCalories=128703,1
+9e45aa66,onStandStepChanged 3671,1
+f70e3552,onExtend:1514038672000 2 0 4,2
+47e3ba2c,calculateCaloriesWithCache totalCalories=128745,1
+51e27f40,onStandStepChanged 3673,1
+aa458a5f,calculateCaloriesWithCache totalCalories=128788,1
+926da31e,onStandStepChanged 3674,1
+2ae67a87,onExtend:1514038673000 1 0 4,1
+a75683b9,calculateCaloriesWithCache totalCalories=128810,1
+b3dee5f6,onStandStepChanged 3675,1
+0cfbf775,onExtend:1514038674000 1 0 4,1
+a31f14e9,calculateCaloriesWithCache totalCalories=128831,1
+e0df6514,onStandStepChanged 3676,1
+4e43c156,onExtend:1514038675000 1 0 4,1
+cf0f20c6,calculateCaloriesWithCache totalCalories=128853,1
+331c2840,onStandStepChanged 3677,1
+d55d9712,onExtend:1514038676000 1 0 4,1
+dfe2ea56,calculateCaloriesWithCache totalCalories=128874,1
+96276607,onStandStepChanged 3678,1
+d9f16759,onExtend:1514038677000 1 0 4,1
+c358df29,calculateCaloriesWithCache totalCalories=128895,1
+6573a5fd,onStandStepChanged 3679,1
+e94499ab,onExtend:1514038678000 <*> 0 4,2
+f9167db3,calculateCaloriesWithCache totalCalories=128917,1
+7778ed5b,onStandStepChanged 3681,1
+d6993123,calculateCaloriesWithCache totalCalories=128960,1
+1994e676,onStandStepChanged 3683,1
+bff5b38d,onExtend:1514038680000 2 0 4,1
+c9ec7389,calculateCaloriesWithCache totalCalories=129002,1
+29668536,onStandStepChanged 3684,1
+12e84235,onExtend:1514038682000 1 0 4,1
+627ffe6d,calculateCaloriesWithCache totalCalories=129024,1
+c28c7c24,onStandStepChanged 3685,1
+6c04f2ae,onExtend:1514038683000 1 0 4,1
+d224d547,calculateCaloriesWithCache totalCalories=129045,1
+16aac647,onStandStepChanged 3686,2
+25779845,onExtend:1514038686000 1 0 4,1
+de2e539f,calculateCaloriesWithCache totalCalories=129067,2
+e7ab792d,onExtend:1514038686000 0 0 0,1
+88e961cb,onStandStepChanged 3689,1
+4d0b8f2a,onExtend:1514038748000 3 0 4,1
+955a504e,calculateCaloriesWithCache totalCalories=129131,1
+afe9245b,onStandStepChanged 3694,1
+32df1bfd,onExtend:1514038749000 <*> 0 4,2
+d89ffea8,calculateCaloriesWithCache totalCalories=129238,1
+5735654d,onStandStepChanged 3696,1
+a8ce97d1,calculateCaloriesWithCache totalCalories=129281,1
+9e97abf1,onStandStepChanged 3698,1
+2d768e17,onExtend:1514038750000 2 0 4,2
+e4472a44,calculateCaloriesWithCache totalCalories=129324,1
+eff59415,onStandStepChanged 3700,1
+53bf00cc,calculateCaloriesWithCache totalCalories=129366,1
+e84dd8e3,onStandStepChanged 3702,1
+74465c13,onExtend:1514038751000 2 0 4,2
+6e8a9e6d,calculateCaloriesWithCache totalCalories=129409,1
+7395b569,onStandStepChanged 3704,1
+47313827,calculateCaloriesWithCache totalCalories=129452,1
+6f1c4b32,onStandStepChanged 3707,1
+dd64dd37,onExtend:1514038752000 <*> 0 4,2
+1f41564a,calculateCaloriesWithCache totalCalories=129516,1
+c1911ff6,onStandStepChanged 3711,1
+c6a6cadc,calculateCaloriesWithCache totalCalories=129602,1
+1711a4c1,onStandStepChanged 3712,1
+4cd1731b,onExtend:1514038753000 1 0 4,1
+71ad3a09,calculateCaloriesWithCache totalCalories=129623,1
+12a979e1,onStandStepChanged 3726,2
+cd5c3175,onExtend:1514038755000 14 0 4,1
+cdbfd2fb,calculateCaloriesWithCache totalCalories=129923,2
+98e5aa46,onExtend:1514038756000 0 0 0,1
+f09be756,onStandStepChanged 3732,4
+74f941e8,onExtend:1514038756000 6 0 4,1
+e70e3610,onExtend:1514038798000 0 0 4,2
+7a89e783,calculateCaloriesWithCache totalCalories=130052,2
+7956d059,onStandStepChanged 3735,1
+eac893df,flushTempCacheToDB by stand,1
+7df26697,Alarm uploadStaticsToDB totalSteps=7163Calories:153367Floor:240Distance:5112,1
+7c7ad874,writeDataToDB size 327,1
+1868a0cb,"upLoadOneMinuteDataToEngine time=25233975,0,93,0,20002",1
+c6836cc4,"upLoadOneMinuteDataToEngine time=25233976,0,1,0,20002",1
+c712502e,"upLoadOneMinuteDataToEngine time=25233977,0,55,0,20002",1
+056de3ac,"upLoadOneMinuteDataToEngine time=25233978,0,5,0,20002",1
+353867e9,"upLoadOneMinuteDataToEngine time=25233979,0,46,0,20002",1
+9b7a55a6,getBinderPackageName packageName = com.huawei.health,8
+475be3f3,"getAppContext() isAppValid health or wear, packageName = com.huawei.health",2
+13f00c2f,onExtend:1514038799000 <*> 0 4,2
+ca903752,insertHiHealthData() checkAppType 0 appID = 1,2
+a613d7ba,"insertHiHealthData() size = <*> = 1,One Data Type = <*> = com.huawei.health,writeStatType = 0",2
+8c0dc904,"saveHealthDetailData() deviceID = 2,clientID=1,id=1",2
+e8ea99e5,"saveStatData() type <*> = 1513958400000,statClient = 2,who is 1",4
+52487aa9,"new date =20171223, <*>",17
+6f64e22f,"saveHealthDetailData() saveOneDetailData fail hiHealthData = 1513958400000,type = <*>",2
+9df09250,bulkSaveDetailHiHealthData() size = <*> = <*>,2
+4a9dfe0e,startListenerChange subscribeList = [1],2
+32ee7d3e,"insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = 4,errorMessage = ERR_DATA_INSERT",1
+ca8855cb,insertHiHealthData() end totalTime = <*>,2
+ab11e60b,uploadStaticsToDB() onResult type = 4 obj=true,1
+54c4741d,uploadStaticsToDB failed message=true,1
+e342acad,checkInsertStatus <*> or <*> is enough,4
+30f5d7d9,"stepSyncOrNot appSynTimes is 0, statsyncTimes is 0",2
+4d4b91de,"startInsertSportSync start auto sync,app is 1",2
+470c8eb3,"checkFirstSyncByType no such data in db ,type is 1 deviceCode is 0",2
+63f3a3c7,"startInsertSportSync first 500 steps sync,do all sync",2
+71855771,"startSync hiSyncOption = <*> syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1",5
+524c139a,needAutoSync autoSyncSwitch is open,5
+d0b64be7,"initDataPrivacy the dataPrivacy switch is open, start push health data!",5
+e6ab0fb3,initDataPrivacy the dataPrivacy is true,5
+b1b18eaa,"initUserPrivacy the userPrivacy switch is open, start push user data!",5
+dd58f637,initUserPrivacy the userPrivacy is true,5
+3e025495,ifCanSync not! no cloud version,5
+f3cdfdb2,sendSyncFailedBroadcast,5
+3c855dcc,"saveRealTimeHealthDatasStat() size = 1,totalTime = 48",1
+e7ddc9ac,InsertCallBack() onSuccess type = 0 data=true,1
+78886a16,InsertEvent success begin:25233975 end:25233979,1
+c347d32e,setWriteDBLastDataMinute=25233979,1
+b12efd18,setWriteDBLastDataMinute success,1
+7757427e,flush2DB result success,1
+7301431a,calculateCaloriesWithCache totalCalories=130116,1
+dd57e4d6,onStandStepChanged 3737,1
+c6db12bd,calculateCaloriesWithCache totalCalories=130159,1
+09c20dbc,onStandStepChanged 3739,1
+d7fabd3c,onExtend:1514038800000 <*> 0 4,2
+c03a1a07,calculateCaloriesWithCache totalCalories=130201,1
+3a3509a6,onStandStepChanged 3742,1
+0c007b47,calculateCaloriesWithCache totalCalories=130266,1
+38e8629b,onStandStepChanged 3745,1
+5c660acb,onExtend:1514038801000 <*> 0 4,2
+62d79974,calculateCaloriesWithCache totalCalories=130330,1
+5efda13f,onStandStepChanged 3746,1
+c7ace2d3,calculateCaloriesWithCache totalCalories=130351,1
+8bba02af,onStandStepChanged 3748,1
+aa6bf683,onExtend:1514038802000 <*> 0 4,2
+453d597d,calculateCaloriesWithCache totalCalories=130394,1
+c8350a74,onStandStepChanged 3751,1
+0a4c080c,calculateCaloriesWithCache totalCalories=130458,1
+319872f7,onStandStepChanged 3753,1
+cad0b633,onExtend:1514038803000 2 0 4,2
+383c707c,calculateCaloriesWithCache totalCalories=130501,1
+3ee101e1,onStandStepChanged 3755,1
+f1b8da33,calculateCaloriesWithCache totalCalories=130544,1
+6c09badb,onStandStepChanged 3757,1
+a3b2ddc6,onExtend:1514038804000 2 0 4,1
+24c324ab,calculateCaloriesWithCache totalCalories=130587,1
+eca107da,onStandStepChanged 3758,1
+5eae44f3,onExtend:1514038805000 1 0 4,1
+1c5e7133,calculateCaloriesWithCache totalCalories=130608,1
+1fe5ee00,onStandStepChanged 3759,1
+ed3a3b92,onExtend:1514038806000 1 0 4,1
+fcc74825,calculateCaloriesWithCache totalCalories=130630,1
+c9a6d2bb,onStandStepChanged 3760,1
+b060d5e6,onExtend:1514038808000 1 0 4,2
+99e3b41f,calculateCaloriesWithCache totalCalories=130651,1
+4ee7a1f3,onStandStepChanged 3761,59
+6dbd5131,calculateCaloriesWithCache totalCalories=130673,48
+8ad9c755,onExtend:1514038813000 0 0 0,1
+60cc9253,onExtend:1514038816000 0 0 5,1
+305cd66f,onExtend:1514038819000 0 0 5,1
+f56e762f,onExtend:1514038879000 0 0 5,1
+f7d60b48,onExtend:1514038939000 0 0 5,1
+aa3d6dbf,onExtend:1514038999000 0 0 5,1
+5f9a91b5,onExtend:1514039059000 0 0 0,1
+6f67cbb2,onExtend:1514039062000 0 0 0,1
+94756a5b,onExtend:1514039091000 0 0 5,1
+6e80debd,onExtend:1514039093000 0 0 0,1
+6b42b4c8,onExtend:1514039098000 0 0 5,1
+38715fe9,onExtend:1514039112000 0 0 5,1
+e84663c8,onExtend:1514039172000 0 0 5,1
+01e4e6f1,onExtend:1514039232000 0 0 5,1
+885a9ebc,onExtend:1514039292000 0 0 5,1
+ba0f510d,onExtend:1514039352000 0 0 5,1
+43cae0db,onExtend:1514039412000 0 0 0,1
+b991c3b7,onExtend:1514039424000 0 0 0,1
+5bf0e018,onExtend:1514039492000 0 0 5,1
+457d8208,onExtend:1514039515000 0 0 0,1
+753adf36,onExtend:1514039575000 0 0 0,1
+f48267a0,onExtend:1514039520000 0 0 0,1
+cb38d619,"timeStamp back,extendReportTimeStamp=1514039575000",1
+1ebb3cdf,startTimer start autoSync,3
+7ee86d6e,stepSyncOrNot appSynTimes is 0,3
+87b2a0d3,onExtend:1514039590000 0 0 5,1
+a6415698,onExtend:1514039626000 0 0 0,2
+a3ffe899,onExtend:1514039834000 0 0 5,1
+5174088e,onExtend:1514039857000 0 0 5,1
+79a385cf,onExtend:1514039917000 0 0 5,1
+3e877eaa,onExtend:1514039977000 0 0 0,1
+f2982b7f,onExtend:1514039965000 0 0 0,1
+9717aa7e,"timeStamp back,extendReportTimeStamp=1514039977000",1
+63a71e43,onExtend:1514040348000 0 0 5,1
+d3270163,onExtend:1514040354000 0 0 0,1
+cee17bdf,onExtend:1514040662000 0 0 5,1
+37296016,onExtend:1514040697000 0 0 0,2
+f018fe2f,onExtend:1514040700000 0 0 0,1
+53086bb0,onExtend:1514040708000 0 0 5,1
+a4dc1a6b,onExtend:1514040766000 0 0 <*>,3
+3bedfc3e,onExtend:1514040772000 0 0 5,1
+dfab9de0,onExtend:1514040776000 0 0 5,1
+5d44a38a,onExtend:1514040836000 0 0 0,1
+48aed43c,onExtend:1514040781000 0 0 0,1
+b9bf0443,"timeStamp back,extendReportTimeStamp=1514040836000",1
+1e42c211,onExtend:1514040786000 0 0 5,1
+23e63f75,onExtend:1514040793000 0 0 <*>,3
+449f0942,onExtend:1514040895000 0 0 5,1
+ce27ace8,onExtend:1514040956000 0 0 <*>,3
+ad6c324a,onExtend:1514040966000 0 0 5,1
+8e104e24,onExtend:1514041026000 0 0 5,1
+ff487108,onExtend:1514041086000 0 0 5,1
+0c49c424,onExtend:1514041146000 0 0 5,1
+437dce63,onExtend:1514041206000 0 0 5,1
+a012ca6d,onExtend:1514041266000 0 0 5,1
+697b3cce,onExtend:1514041326000 0 0 5,1
+7373534b,onExtend:1514041386000 0 0 5,1
+a317308e,onExtend:1514041446000 0 0 5,1
+a9767b44,onExtend:1514041506000 0 0 5,1
+8853245e,onExtend:1514041566000 0 0 5,1
+5f16cf12,onExtend:1514041626000 0 0 5,1
+ea9f0b12,onExtend:1514041627000 0 0 <*>,2
+f89d1cd5,getTodaySportData mStepsRecordManager=com.huawei.health.g.c@8a2a501,6
+10c192de,onExtend:1514041699000 0 0 5,1
+15ed2c25,onExtend:1514041722000 0 0 5,1
+06b728bf,onExtend:1514041782000 0 0 5,1
+a083f941,onExtend:1514041842000 0 0 5,1
+e52055bc,onExtend:1514041902000 0 0 5,1
+e02fed0e,onExtend:1514041962000 0 0 5,1
+ae24e6ce,onExtend:1514042022000 0 0 5,1
+d1a2ae84,onExtend:1514042082000 0 0 5,1
+1bdafea5,onExtend:1514042064000 0 0 <*>,2
+b600e8e4,"timeStamp back,extendReportTimeStamp=1514042082000",1
+c2ac05bc,onStandStepChanged 3763,1
+57c34422,onExtend:1514042082000 2 0 0,1
+2dcbb407,calculateCaloriesWithCache totalCalories=130715,1
+1f571540,onStandStepChanged 3764,1
+f00183c9,onExtend:1514042082000 1 0 4,1
+c9f3141f,calculateCaloriesWithCache totalCalories=130737,1
+93b30e47,onStandStepChanged 3765,1
+85d975fd,onExtend:1514042083000 <*> 0 4,2
+1c4e9dd5,calculateCaloriesWithCache totalCalories=130758,1
+b7e474a9,onStandStepChanged 3768,1
+1ce57603,calculateCaloriesWithCache totalCalories=130822,1
+13b7bb17,onStandStepChanged 3770,1
+6063fcc9,onExtend:1514042084000 2 0 4,2
+b1f451d7,calculateCaloriesWithCache totalCalories=130865,1
+e867755e,onStandStepChanged 3772,1
+c0f2279c,calculateCaloriesWithCache totalCalories=130908,1
+e4c78e5e,onStandStepChanged 3774,1
+51ebe7f4,onExtend:1514042085000 <*> 0 4,2
+1bc1ae51,calculateCaloriesWithCache totalCalories=130951,1
+88e25965,onStandStepChanged 3777,1
+a9612c87,calculateCaloriesWithCache totalCalories=131015,1
+06d18194,onStandStepChanged 3780,1
+a74c79b6,onExtend:1514042086000 3 0 4,2
+6d353c1f,calculateCaloriesWithCache totalCalories=131079,1
+bcb7f6db,onStandStepChanged 3783,1
+07def72d,calculateCaloriesWithCache totalCalories=131144,1
+92197ac7,onStandStepChanged 3784,1
+53ae73a5,onExtend:1514042087000 1 0 4,1
+ca6eadf2,calculateCaloriesWithCache totalCalories=131165,1
+21cb3b4f,onStandStepChanged 3786,73
+53b44984,onExtend:1514042088000 2 0 4,1
+78754fb2,calculateCaloriesWithCache totalCalories=131208,47
+640539cc,onExtend:1514042091000 0 0 0,1
+ab43045a,onExtend:1514042182000 0 0 5,1
+62019089,onExtend:1514042205000 0 0 5,1
+119b319f,onExtend:1514042265000 0 0 0,1
+e4c4c0cf,onExtend:1514042261000 0 0 0,1
+e09cf7dd,"timeStamp back,extendReportTimeStamp=1514042265000",1
+a4dd80d3,onExtend:1514042262000 0 0 0,2
+707dec85,onExtend:1514042360000 0 0 5,1
+7317fd10,onExtend:1514042361000 0 0 0,1
+d9c496e3,onExtend:1514042595000 0 0 5,1
+ababdec9,onExtend:1514042599000 0 0 0,1
+5eaaf2c0,onExtend:1514042944000 0 0 5,1
+edfda017,onExtend:1514042945000 0 0 0,1
+6c814e71,onExtend:1514043434000 0 0 5,1
+b4a6abd8,onExtend:1514043436000 0 0 0,1
+7dbf371b,onExtend:1514043610000 0 0 5,1
+4c1f51dc,onExtend:1514043614000 0 0 0,1
+1881479e,onExtend:1514043759000 0 0 0,1
+a4bc71cc,onExtend:1514043967000 0 0 5,1
+47273017,onExtend:1514043974000 0 0 0,1
+70d346a3,onExtend:1514044249000 0 0 0,1
+5d326e84,onExtend:1514044377000 0 0 5,1
+1e60a0c3,onExtend:1514044380000 0 0 0,1
+8b708517,onExtend:1514044395000 0 0 5,1
+39b3dbca,onExtend:1514044397000 0 0 0,1
+51db6002,onExtend:1514044405000 0 0 5,1
+52adba05,onExtend:1514044411000 0 0 0,1
+2bfff14c,onExtend:1514044420000 0 0 5,1
+a837aedd,onExtend:1514044422000 0 0 0,1
+ae49d1b7,onExtend:1514044431000 0 0 5,1
+1fa4df96,onExtend:1514044437000 0 0 0,1
+153e54f1,onExtend:1514044468000 0 0 5,1
+ed530312,onExtend:1514044469000 0 0 0,1
+f626b7d0,onExtend:1514044474000 0 0 5,1
+1a07f16b,onExtend:1514044475000 0 0 0,1
+17e55ce3,onExtend:1514044485000 0 0 5,1
+dd3ce6ca,onExtend:1514044487000 0 0 0,1
+609475e4,onExtend:1514044494000 0 0 5,1
+6dc5e3bc,onExtend:1514044496000 0 0 0,1
+99a097fc,onExtend:1514044524000 0 0 5,1
+9e2d2fb1,onExtend:1514044525000 0 0 0,1
+81667a34,onExtend:1514044572000 0 0 5,1
+9e866b8c,onExtend:1514044573000 0 0 0,1
+e40deb75,onExtend:1514044588000 0 0 5,1
+3b8addb4,onExtend:1514044595000 0 0 0,1
+84abea69,onExtend:1514044654000 0 0 5,1
+d461f004,onExtend:1514044662000 0 0 0,1
+cf29941a,theDayChanged 1514044800216,1
+d780fa56,initEnviroument,1
+0d3bb433,getStepCounterStatus,1
+f9f43dbd,getStepCounterStatus= true,1
+ccc7cc41,reStartStepCounter,1
+b3496112,registersensorsuccess: true,1
+de4ca9b6,clear(),1
+3b252bdf,getTodayBasicStandardSteps= <*>,2
+94414ec8,tryToRecordAsBasicStepData bWrite true,1
+effa7584,getDiffTotalSteps= <*>,2
+6c65f59a,setBasicStandardSteps basicStandardStep=3786 restartSteps=0,1
+4063453d,setDiffTotalSteps=0,1
+e7bf8300,tryToReloadTodayBasicSteps1514044800223|3786|0|0,1
+fa376c8f,reload : 3786 restar 0,1
+20d10ec2,calculateCaloriesWithCache totalCalories=0,24
+b76daf52,calculateAltitudeWithCache totalAltitude=0,24
+f197c529,REPORT : 0 0 0 0,1
+0b49370e,next day:steps0mLastReport7214,1
+087aa8c4,setGoalNotifiShownRecord 1514044800237 false,1
+ec409a1d,closeNotification...,1
+3e9558d5,deleteHealthNotification(),1
+c40d921b,onExtend:1514044801000 0 0 0,1
+261bc15e,onExtend:1514044805000 0 0 5,1
+ce3071cb,onExtend:1514044806000 0 0 0,1
+8770d324,onExtend:1514045123000 0 0 0,1
+91a6ded8,onExtend:1514045177000 0 0 0,1
+b72d7fad,onExtend:1514045222000 0 0 5,1
+78a4b28d,onExtend:1514045224000 0 0 0,1
+fbcf3618,onExtend:1514045240000 0 0 5,1
+e0299c1a,onExtend:1514045241000 0 0 0,1
+cb4b2ca0,onExtend:1514045344000 0 0 5,1
+1ecc9603,onExtend:1514045346000 0 0 0,1
+e655fc3e,onExtend:1514045374000 0 0 5,1
+50f6a7cc,onExtend:1514045375000 0 0 0,1
+5f46d64a,onExtend:1514045409000 0 0 5,1
+d70c4bf6,onExtend:1514045410000 0 0 0,1
+8b5c5013,onExtend:1514045442000 0 0 5,1
+797edc00,onExtend:1514045443000 0 0 0,1
+89fb7e04,onExtend:1514045516000 0 0 5,1
+74282190,onExtend:1514045517000 0 0 0,1
+7c9816d2,onExtend:1514045753000 0 0 0,1
+568f3560,onExtend:1514046316000 0 0 5,1
+3d5f5036,onExtend:1514046317000 0 0 0,1
+ca0c7d7d,onExtend:1514046505000 0 0 5,1
+c35376a0,"checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 20171224 oldDay is 20171223",1
