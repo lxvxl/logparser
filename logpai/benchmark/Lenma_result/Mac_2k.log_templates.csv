@@ -390,7 +390,7 @@ fd0d448e,full wake <*> (reason <*> <*> ms,2
 32fa6e26,19:17:46.405 : BTLE scanner Powered Off,1
 824640a4,20:03:05.179 : BTLE scanner Powered Off,1
 ff6b2e99,FA||Url||taskID[2019353677] dealloc,1
-0aeb9117,"Page bounds {{0, 0}, {400, 400}}",2
+6c08dac7,"Page bounds {{0, 0} {400, 400}}",2
 75983cf1,Failed to connect <*> outlet from <*> to <*> missing setter or instance variable,2
 19b680b4,[<*>] [Account xpc_ben@163.com@https://<*>/caldav/principals/users/xpc_ben%40163.com/ timed out when executing operation: <CalDAVAccountRefreshQueueableOperation: 0x7fa11f9f2290; Sequence: 0>],1
 8c397ce3,"[<*>] [Account refresh failed with error: Error Domain=CoreDAVHTTPStatusErrorDomain Code=502 ""(null)"" UserInfo={AccountName=163, CalDAVErrFromRefresh=YES, CoreDAVHTTPHeaders=<CFBasicHash 0x7fa11fe7a810 [0x7fff7abc1440]>{type = immutable dict, count = 5, entries => 0 : Connection = <CFString 0x7fff7ab1aea0 [0x7fff7abc1440]>{contents = ""keep-alive""} 3 : Content-Type = text/html 4 : Content-Length = 166 5 : Server = nginx 6 : Date = <CFString 0x7fa11ac2ab80 [0x7fff7abc1440]>{contents = ""Fri, 07 Jul 2017 05:32:43 GMT""} } }]",1
@@ -447,6 +447,6 @@ e529b8fd,FA||Url||taskID[2019353853] dealloc,1
 9b8363ee,"Unable to simultaneously satisfy constraints: ( ""<NSAutoresizingMaskLayoutConstraint:0x7f9d574e5370 h=-&- v=-&- V:[NSScrollView:0x7f9d64abe480]-(11)-| (Names: '|':NSView:0x7f9d6a9cc340 )>"", ""<NSAutoresizingMaskLayoutConstraint:0x7f9d7561a270 h=-&- v=-&- V:|-(45)-[NSScrollView:0x7f9d64abe480] (Names: '|':NSView:0x7f9d6a9cc340 )>"", ""<NSAutoresizingMaskLayoutConstraint:0x7f9d6aa2cf10 h=-&- v=--& V:[NSView:0x7f9d53160e30(0)]>"", ""<NSAutoresizingMaskLayoutConstraint:0x7f9d75652870 h=-&- v=-&- V:|-(0)-[NSView:0x7f9d6a9cc340] (Names: '|':NSView:0x7f9d53160e30 )>"", ""<NSAutoresizingMaskLayoutConstraint:0x7f9d77ef8f50 h=-&- v=-&- V:[NSView:0x7f9d6a9cc340]-(0)-| (Names: '|':NSView:0x7f9d53160e30 )>"" ) Will attempt to recover by breaking constraint <NSAutoresizingMaskLayoutConstraint:0x7f9d7561a270 h=-&- v=-&- V:|-(45)-[NSScrollView:0x7f9d64abe480] (Names: '|':NSView:0x7f9d6a9cc340 )> Set the NSUserDefault NSConstraintBasedLayoutVisualizeMutuallyExclusiveConstraints to YES to have -[NSWindow visualizeConstraints:] automatically called when this happens. And/or, break on objc_exception_throw to catch this in the debugger.",1
 91953c70,2017-07-08 06:26:32.364 GoogleSoftwareUpdateAgent[39159/0x7000002a0000] [lvl=2] -[KSAgentApp(KeystoneDelegate) updateEngineFinishedWithErrors:] Keystone finished: errors=0,1
 5ef39c91,2017-07-08 06:26:32.365 GoogleSoftwareUpdateAgent[39159/0x7000002a0000] [lvl=2] -[KSAgentApp(KeystoneThread) runKeystonesInThreadWithArg:] About to run checks for any other apps.,1
-83fee496,"Arranged view frame: {{0, 0}, {260, 877}}",1
+becb7b30,"Arranged view frame: {{0, 0} {260, 877}}",1
 02c49b58,CCProfileMonitor::setStreamEventHandler,1
 97de6a1b,Telling CSI to go low power.,1

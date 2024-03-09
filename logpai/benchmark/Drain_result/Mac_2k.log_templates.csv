@@ -338,7 +338,7 @@ c4d6ff57,FA||Url||taskID[2019353659] dealloc,1
 7b985a7d,"PM response took 129 ms (10018, QQ)",1
 2f201f0e,FA||Url||taskID[2019353677] dealloc,1
 9ff2c699,"2017-07-06 20:46:03.869 GoogleSoftwareUpdateAgent[37316/0x7000002a0000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher start fetch from URL: ""https://<*>/service/update2?cup2hreq=5e15fbe422c816bef7c133cfffdb516e16923579b9be2dfae4d7d8d211b25017&cup2key=7:780377214""",1
-75040252,"Page bounds {{0, 0}, {400, 400}}",2
+6961350e,"Page bounds {{0, 0} {400, 400}}",2
 b2490040,Failed to connect <*> outlet from <*> to <*> missing setter or instance variable,2
 05ec6822,[<*>] [Account xpc_ben@163.com@https://<*>/caldav/principals/users/xpc_ben%40163.com/ timed out when executing operation: <CalDAVAccountRefreshQueueableOperation: 0x7fa11f9f2290; Sequence: 0>],1
 48645cf1,"[<*>] [Account refresh failed with error: Error Domain=CoreDAVHTTPStatusErrorDomain Code=502 ""(null)"" UserInfo={AccountName=163, CalDAVErrFromRefresh=YES, CoreDAVHTTPHeaders=<CFBasicHash 0x7fa11fe7a810 [0x7fff7abc1440]>{type = immutable dict, count = 5, entries => 0 : Connection = <CFString 0x7fff7ab1aea0 [0x7fff7abc1440]>{contents = ""keep-alive""} 3 : Content-Type = text/html 4 : Content-Length = 166 5 : Server = nginx 6 : Date = <CFString 0x7fa11ac2ab80 [0x7fff7abc1440]>{contents = ""Fri, 07 Jul 2017 05:32:43 GMT""} } }]",1
@@ -390,6 +390,6 @@ aca1b330,[HID] [MT] AppleActuatorHIDEventDriver::start entered,1
 cf35782f,"Unable to simultaneously satisfy constraints: ( ""<NSAutoresizingMaskLayoutConstraint:0x7f9d574e5370 h=-&- v=-&- V:[NSScrollView:0x7f9d64abe480]-(11)-| (Names: '|':NSView:0x7f9d6a9cc340 )>"", ""<NSAutoresizingMaskLayoutConstraint:0x7f9d7561a270 h=-&- v=-&- V:|-(45)-[NSScrollView:0x7f9d64abe480] (Names: '|':NSView:0x7f9d6a9cc340 )>"", ""<NSAutoresizingMaskLayoutConstraint:0x7f9d6aa2cf10 h=-&- v=--& V:[NSView:0x7f9d53160e30(0)]>"", ""<NSAutoresizingMaskLayoutConstraint:0x7f9d75652870 h=-&- v=-&- V:|-(0)-[NSView:0x7f9d6a9cc340] (Names: '|':NSView:0x7f9d53160e30 )>"", ""<NSAutoresizingMaskLayoutConstraint:0x7f9d77ef8f50 h=-&- v=-&- V:[NSView:0x7f9d6a9cc340]-(0)-| (Names: '|':NSView:0x7f9d53160e30 )>"" ) Will attempt to recover by breaking constraint <NSAutoresizingMaskLayoutConstraint:0x7f9d7561a270 h=-&- v=-&- V:|-(45)-[NSScrollView:0x7f9d64abe480] (Names: '|':NSView:0x7f9d6a9cc340 )> Set the NSUserDefault NSConstraintBasedLayoutVisualizeMutuallyExclusiveConstraints to YES to have -[NSWindow visualizeConstraints:] automatically called when this happens. And/or, break on objc_exception_throw to catch this in the debugger.",1
 81437d63,2017-07-08 06:26:32.364 GoogleSoftwareUpdateAgent[39159/0x7000002a0000] [lvl=2] -[KSAgentApp(KeystoneDelegate) updateEngineFinishedWithErrors:] Keystone finished: errors=0,1
 571f2aee,2017-07-08 06:26:32.365 GoogleSoftwareUpdateAgent[39159/0x7000002a0000] [lvl=2] -[KSAgentApp(KeystoneThread) runKeystonesInThreadWithArg:] About to run checks for any other apps.,1
-d936b6d4,"Arranged view frame: {{0, 0}, {260, 877}}",1
+5086e4cd,"Arranged view frame: {{0, 0} {260, 877}}",1
 baac63ed,CCProfileMonitor::setStreamEventHandler,1
 2bc6deed,Telling CSI to go low power.,1

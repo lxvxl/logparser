@@ -1,0 +1,49 @@
+EventId,EventTemplate,Occurrences
+E0,"('Loaded', 'Servicing', 'Stack', '<*>', 'with', 'Core:', 'C:', '\\Windows\\winsxs\\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7601.23505_none_681aa442f6fed7f0\\cbscore.dll')",2
+E1,"('<*>', '<*>', '<*>', '<*>', 'CSI', 'perf', 'trace:', '')",3
+E2,"('NonStart:', 'Success,', 'startup', 'processing', 'not', 'required', 'as', 'expected.')",2
+E3,"('<*>', '<*>', '<*>', '<*>', 'WcpInitialize', '(wcp.dll', 'version', '<*>', 'called', '(stack', '<*>')",6
+E4,"('Failed', 'to', 'get', 'next', 'element', '[', 'HRESULT', '=', '<*>', 'CBS_E_MANIFEST_INVALID_ITEM]', '')",224
+E5,"('Failed', 'to', 'internally', 'open', 'package.', '[', 'HRESULT', '=', '<*>', 'CBS_E_INVALID_PACKAGE]', '')",18
+E6,"('<*>', 'Performing', '<*>', 'operations;', '<*>', 'are', 'not', 'lock/unlock', 'and', 'follow:', '')",1
+E7,"('Ending', 'TrustedInstaller', 'initialization.')",2
+E8,"('Starting', 'TrustedInstaller', 'finalization.')",1
+E9,"('Ending', 'TrustedInstaller', 'finalization.')",1
+E10,"('Starting', 'TrustedInstaller', 'initialization.')",1
+E11,"('<*>', 'the', 'TrustedInstaller', 'main', 'loop.')",3
+E12,"('<*>', 'processing', 'thread', 'terminated', 'normally')",3
+E13,"('<*>', 'CSI', 'Store', '<*>', '<*>')",3
+E14,"('Unloading', 'offline', 'registry', 'hive:', '<*>')",8
+E15,"('TrustedInstaller', 'service', 'starts', 'successfully.')",2
+E16,"('Warning:', 'Unrecognized', 'packageExtended', 'attribute.')",280
+E17,"('Scavenge:', 'Begin', 'CSI', 'Store')",1
+E18,"('Scavenge:', 'Completed,', 'disposition:', '<*>')",1
+E19,"('Reboot', 'mark', 'refs:', '<*>')",1
+E20,"('Offline', 'image', 'is:', 'read-only')",1
+E21,"('SQM:', 'Initializing', 'online', 'with', 'Windows', 'opt-in:', 'False')",2
+E22,"('SQM:', 'Requesting', 'upload', 'of', 'all', 'unsent', 'reports.')",2
+E23,"('<*>', '<*>', '<*>', '<*>', 'CSI', 'Transaction', '<*>')",1
+E24,"('<*>', '<*>', '<*>', '<*>', 'PopulateComponentFamiliesKey', '-', 'Begin')",1
+E25,"('<*>', '<*>', '<*>', '<*>', 'PopulateComponentFamiliesKey', '-', 'End')",1
+E26,"('SQM:', 'Cleaning', 'up', 'report', 'files', 'older', 'than', '<*>', 'days.')",2
+E27,"('NonStart:', 'Checking', 'to', 'ensure', 'startup', 'processing', 'was', 'not', 'required.')",2
+E28,"('<*>', 'Created', 'NT', 'transaction', '(seq', '<*>', 'result', '<*>', '<*>')",3
+E29,"('Expecting', 'attribute', 'name', '[', 'HRESULT', '=', '<*>', 'CBS_E_MANIFEST_INVALID_ITEM]', '')",224
+E30,"('Disabling', 'manifest', 'caching,', 'because', 'the', 'image', 'is', 'not', 'writeable.')",1
+E31,"('SQM:', 'Failed', 'to', 'start', 'upload', 'with', 'file', 'pattern:', 'C:', '\\Windows\\servicing\\sqm\\*_std.sqm,', 'flags:', '<*>', 'HRESULT', '=', '<*>', 'E_FAIL]', '')",2
+E32,"('SQM:', 'Failed', 'to', 'start', 'standard', 'sample', 'upload.', '[', 'HRESULT', '=', '<*>', 'E_FAIL]', '')",2
+E33,"('<*>', 'ICSITransaction:', ':', 'Commit', 'calling', 'IStorePendingTransaction:', ':', 'Apply', '-', 'coldpatching=', 'FALSE', 'applyflags=', '<*>')",1
+E34,"('SQM:', 'Queued', '<*>', 'file(s)', 'for', 'upload', 'with', 'pattern:', 'C:', '\\Windows\\servicing\\sqm\\*_all.sqm,', 'flags:', '<*>')",2
+E35,"('Read', 'out', 'cached', 'package', 'applicability', 'for', 'package:', '<*>', 'ApplicableState:', '<*>', 'CurrentState:', '<*>')",558
+E36,"('Failed', 'to', 'create', 'backup', 'log', 'cab.', '[', 'HRESULT', '=', '<*>', 'ERROR_INVALID_FUNCTION]', '')",2
+E37,"('Loading', 'offline', 'registry', 'hive:', '<*>', 'into', 'registry', 'key', '<*>', 'from', 'path', '<*>')",8
+E38,"('SQM:', 'Warning:', 'Failed', 'to', 'upload', 'all', 'unsent', 'reports.', '[', 'HRESULT', '=', '<*>', 'E_FAIL]', '')",2
+E39,"('No', 'startup', 'processing', 'required,', 'TrustedInstaller', 'service', 'was', 'not', 'set', 'as', 'autostart,', 'or', 'else', 'a', 'reboot', 'is', 'still', 'pending.')",2
+E40,"('<*>', 'IAdvancedInstallerAwareStore_ResolvePendingTransactions', '(call', '<*>', '(flags', '=', '<*>', 'progress', '=', 'NULL,', 'phase', '=', '<*>', 'pdwDisposition', '=', '<*>')",2
+E41,"('<*>', 'Creating', 'NT', 'transaction', '(seq', '<*>', 'objectname', '[', '<*>', '""(null)""')",3
+E42,"('<*>', 'Store', 'coherency', 'cookie', 'matches', 'last', 'scavenge', 'cookie,', 'skipping', 'scavenge.')",1
+E43,"('Session:', '<*>', 'initialized', 'by', 'client', 'WindowsUpdateAgent.')",608
+E44,"('Session:', '<*>', 'initialized', 'by', 'client', 'SPP.')",1
+E45,"('Reboot', 'mark', 'refs', 'incremented', 'to:', '<*>')",1
+E46,"('Scavenge:', 'Starts')",1
+E47,"('<*>', '<*>', '<*>', '<*>', 'CSI', 'Transaction', '<*>', 'for', 'deployment', 'engine', '<*>', 'with', 'flags', '<*>', 'and', 'client', 'id', '[', '<*>', '<*>', '<*>')",1

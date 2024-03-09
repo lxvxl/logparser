@@ -1,38 +1,38 @@
 EventId,EventTemplate,Occurrences
-231762c7,"<*> ""GET <*>HTTP<*>status <*> len <*> time <*>.<*>",931
-68900064,[instance (INST)] VM <*> (Lifecycle Event),109
-8d12f4d0,[instance (INST)] During sync_power_state the instance has a pending task (spawning). Skip.,43
-a16852a5,image (INST) at (<*>checking,82
-55de4304,"image (INST) at (<*>in use on this node <*> local, <*> on other nodes sharing this instance storage",82
-181762c5,Active base files /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,82
-74aabb51,Creating event network-vif-plugged (INST) for instance (INST),22
-4dba6664,"<*> ""POST <*>HTTP<*>status <*> len <*> time <*>.<*>",64
-0cc7e96d,[instance (INST)] Instance spawned successfully.,22
-717ca5a8,[instance (INST)] Took <*>.<*> seconds to <*> the instance on the hypervisor.,43
-04f16e94,[instance (INST)] Took <*>.<*> seconds to build instance.,22
+7d8b6b51,"While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor.",1
+6fdecc45,Running instance usage audit for host cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us from <*>-<*>-<*> <*> <*> <*> to <*>-<*>-<*> <*> <*> <*>. <*> instances.,1
+732653ea,Successfully synced instances from host 'cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us'.,2
+41c623ba,The instance sync for host 'cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us' did not match. Re-created its InstanceList.,5
+e6ff7645,Base or swap file too young to remove /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,9
 304a219c,Auditing locally available compute resources for node cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us,15
 76316dc9,"Total usable vcpus <*>, total allocated vcpus <*>",15
 c61d7e85,Final resource view name=cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us phys_ram=<*>MB used_ram=<*>MB phys_disk=<*>GB used_disk=<*>GB total_vcpus=<*> used_vcpus=<*> pci_stats=[],15
 2cd466e5,Compute_service record updated for cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us,15
-3aa67099,"<*> ""DELETE <*>HTTP<*>status <*> len <*> time <*>.<*>",22
-600f9834,[instance (INST)] Terminating instance,22
-f9b80a5d,[instance (INST)] Instance destroyed successfully.,22
-741c3d38,[instance (INST)] Deleting instance files /var/lib/nova/instances/(INST)_del,21
+91e7fd0d,[instance (INST)] Creating image,21
+d89aabcf,[instance (INST)] Claim successful,21
+d917ccaa,"[instance (INST)] Total vcpu <*> VCPU, used <*>.<*> VCPU",21
+0eedd8d9,"[instance (INST)] Total disk <*> GB, used <*>.<*> GB",21
 27cf4823,[instance (INST)] Deletion of <*>complete,21
+829a8040,HTTP exception thrown No instances found for any event,21
+2e06fecb,Removing base or swap file /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,21
 6cacaad0,[instance (INST)] Took <*>.<*> seconds to deallocate network for instance.,21
+131c0427,"[instance (INST)] Attempting claim memory <*> MB, disk <*> GB, vcpus <*> CPU",21
+741c3d38,[instance (INST)] Deleting instance files /var/lib/nova/instances/(INST)_del,21
+600f9834,[instance (INST)] Terminating instance,22
+3aa67099,"<*> ""DELETE <*>HTTP<*>status <*> len <*> time <*>.<*>",22
+04f16e94,[instance (INST)] Took <*>.<*> seconds to build instance.,22
+0cc7e96d,[instance (INST)] Instance spawned successfully.,22
+f9b80a5d,[instance (INST)] Instance destroyed successfully.,22
+74aabb51,Creating event network-vif-plugged (INST) for instance (INST),22
 ef22ecc0,Unknown base file /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,30
 6d4eba6f,Removable base files /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,30
-2e06fecb,Removing base or swap file /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,21
-829a8040,HTTP exception thrown No instances found for any event,21
-131c0427,"[instance (INST)] Attempting claim memory <*> MB, disk <*> GB, vcpus <*> CPU",21
 166f9f09,"[instance (INST)] <*> <*> <*> MB, <*> <*>.<*> MB",42
-0eedd8d9,"[instance (INST)] Total disk <*> GB, used <*>.<*> GB",21
 5849d917,"[instance (INST)] <*> limit not specified, defaulting to unlimited",42
-d917ccaa,"[instance (INST)] Total vcpu <*> VCPU, used <*>.<*> VCPU",21
-d89aabcf,[instance (INST)] Claim successful,21
-91e7fd0d,[instance (INST)] Creating image,21
-732653ea,Successfully synced instances from host 'cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us'.,2
-6fdecc45,Running instance usage audit for host cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us from <*>-<*>-<*> <*> <*> <*> to <*>-<*>-<*> <*> <*> <*>. <*> instances.,1
-e6ff7645,Base or swap file too young to remove /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,9
-41c623ba,The instance sync for host 'cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us' did not match. Re-created its InstanceList.,5
-7d8b6b51,"While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor.",1
+717ca5a8,[instance (INST)] Took <*>.<*> seconds to <*> the instance on the hypervisor.,43
+8d12f4d0,[instance (INST)] During sync_power_state the instance has a pending task (spawning). Skip.,43
+4dba6664,"<*> ""POST <*>HTTP<*>status <*> len <*> time <*>.<*>",64
+a16852a5,image (INST) at (<*>checking,82
+181762c5,Active base files /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,82
+55de4304,"image (INST) at (<*>in use on this node <*> local, <*> on other nodes sharing this instance storage",82
+68900064,[instance (INST)] VM <*> (Lifecycle Event),109
+231762c7,"<*> ""GET <*>HTTP<*>status <*> len <*> time <*>.<*>",931

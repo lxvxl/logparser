@@ -1,0 +1,114 @@
+EventId,EventTemplate
+62ad472f,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+615baea1,acquire lock=<*> flags=<*> <*> <*> <*> ws=null uid=<*> pid=<*>
+49906470,ready=truepolicy=<*>wakefulness=<*>wksummary=<*>uasummary=<*>bootcompleted=trueboostinprogress=falsewaitmodeenable=falsemode=falsemanual=<*>auto=-<*>adj=<*>.0userId=<*>
+2f7082b2,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+a4ec7e5b,<*> <*> <*>
+fb195195,<*> <*> <*> <*> <*>
+95cfd139,release:lock=<*> flg=<*> <*> <*> <*> ws=null uid=<*> pid=<*>
+fd0d7ffe,updateClipping isOverlap:false getTopPadding=<*>.<*> Translation=-<*>.<*>
+b794132a,updateDimmedActivatedHideSensitive overlap:false
+7bf44fc6,getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output
+40a2c70c,release:lock=<*> flg=<*> <*> <*> ws=WorkSource{<*>} uid=<*> pid=<*>
+1b0f0b05,setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*> fullscreenStackBounds=Rect(<*> <*> - <*> <*>) dockedStackBounds=Rect(<*> <*> - <*> <*>)
+3c2ee2af,cancelAutohide
+786f24ec,notifyUiVisibilityChanged:vis=<*> SystemUiVisibility=<*>
+e329ac21,Destroying surface <*> <*> <*> called by <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+40f144e0,Destroying surface <*> called by com.android.server.wm.WindowStateAnimator.destroySurface:<*> com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:<*> <*> <*> <*> <*> <*> <*>
+0da61b5f,userActivityNoUpdateLocked: eventTime=<*> event=<*> flags=<*> uid=<*>
+be2214fc,<*> <*> <*> <*> <*> <*>
+9d892b9c,<*> <*> <*> <*> <*> <*> <*> <*> <*>
+4bea79c0,startAnimation begin
+d8791e4b,startAnimation end
+bbb6e477,release:lock=<*> flg=<*> <*> <*> ws=null uid=<*> pid=<*>
+8d7c0e6b,<*> <*> <*> <*> <*> <*> <*>
+0ce98313,<*> <*> <*> <*>
+f5e864e3,"acquire lock=<*> flags=<*> tag=""RILJ_ACK_WL"" name=com.android.phone ws=null uid=<*> pid=<*>"
+78791997,shouldBlockLocation running ...
+324966b5,shouldBlockLocation ret:false
+bcab3745,"Releasing suspend blocker ""PowerManagerService.WakeLocks""."
+34b29107,HBM brightnessIn =<*>
+b7ebad24,HBM brightnessOut =<*>
+bef06d27,Animating brightness: target=<*> rate=<*>
+482e1e93,suspendAutohide
+5d9de38a,interceptKeyTq keycode=<*> interactive=true keyguardActive=false <*> <*> <*> <*> <*>
+2c085b79,interceptKeyBeforeQueueing: key <*>  result : <*>
+8d7445f8,resumeSuspendedAutohide
+eeec1449,querySoundEffectsEnabled...
+8ab1b688,acquire lock=<*> flags=<*> <*> <*> ws=WorkSource{<*>} uid=<*> pid=<*>
+86d02085,"Acquiring suspend blocker ""PowerManagerService.WakeLocks""."
+ade15b9a,schedulePeek
+33c7b245,getRingtonePlayer...
+71585e7e,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+f0f3fe8c,overlapAmount:<*>.<*> previousNotificationEnd:<*>.<*> newYTranslation:-<*>.<*> location:<*> i:<*> getTopPadding:<*>.<*> getLocationOnScreen():-<*>
+d2ad5ca0,state.clipTopAmount:<*> i:<*>
+0c2ab4f3,updateClipping isOverlap:true getTopPadding=<*>.<*> Translation=-<*>.<*>
+643ab8b3,updateDimmedActivatedHideSensitive overlap:true
+f02115d0,onExpandingStarted
+cd7563b4,onTrackingStarted
+033c96ee,Destroying surface <*> called by com.android.server.wm.WindowStateAnimator.destroySurface:<*> com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:<*> com.android.server.wm.WindowState.removeLocked:<*> com.android.server.wm.WindowManagerService.removeWindowInnerLocked:<*> com.android.server.wm.WindowManagerService.removeWindowInnerLocked:<*> com.android.server.wm.WindowManagerService.removeWindowLocked:<*> com.android.server.wm.WindowManagerService.removeWindowLocked:<*> com.android.server.wm.WindowManagerService.removeWindow:<*>
+2783b2ed,state.clipTopAmount:-<*> i:<*>
+522cc439,cancelPeek: false
+263f405d,onTrackingStopped: true
+b5721111,onExpandingFinished
+9c97e0e9,updateClipping isOverlap:false getTopPadding=<*>.<*> Translation=<*>.<*>
+fbd5de68,onNotificationVisibilityChanged called
+db28c715,playSoundEffect effectType: <*>
+1f1c0422,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+06c4f169,onNotificationClick called
+a266a3d7,cancelNotificationindex:<*>
+1f8fd5d4,cancelNotificationLocked:<*>|com.tencent.mobileqq|<*>|null|<*>
+51e2a296,cancelNotificationLockedremove =com.tencent.mobileqq
+40bef34f,<*> <*> <*> <*> <*> <*> <*> - <*> <*> <*> <*> <*> <*> <*> <*>
+43082f96,removeNotification:<*>|com.tencent.mobileqq|<*>|null|<*>
+6126da27,updateNotificationShade: total=<*> active=<*>
+cdc53ca7,The change in focus caused us to need to do <*> <*> <*>
+b4f3261c,setLightsOn(true)
+99e75217,removeNotificationChildren
+d217a9a8,Skipping withExcluded: false tr.intent:Intent { flg=<*> cmp=com.android.systemui/.recents.RecentsActivity bnds=[<*><*>][<*><*>] }
+e0c22fbb,Skipping withExcluded: false tr.intent:Intent { act=android.intent.action.MAIN flg=<*> cmp=com.android.incallui/.InCallActivity (has extras) }
+2251b2af,Skipping withExcluded: false tr.intent:Intent { flg=<*> cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }
+69916ec9,Skipping withExcluded: false tr.intent:Intent { flg=<*> <*> (has extras) }
+2f20022d,Skipping withExcluded: false tr.intent:Intent { <*> <*> <*> <*> (has extras) }
+77137a83,Skipping withExcluded: false tr.intent:Intent { <*> <*> <*> <*> <*> (has extras) }
+d245e34a,getRecentTasks: num=<*>flags=<*>totalTasks=<*>
+1794e808,getRecentTasks: topActivity=ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}
+c994820a,cancelNotificationWithTag pid <*>uid = <*>tag = nullpkg =com.tencent.mobileqqid =<*>
+852bd468,cancelNotificationindex:-<*>
+f8f8bbff,makeExpandedInvisible: mExpandedVisible=true
+fbb3c9bb,closeQs
+18084d2f,instantCollapse
+fc6b3dda,getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output
+a6b9ef39,isMusicActive...
+c8b0c426,acquire lock=<*> flags=<*> <*> <*> ws=null uid=<*> pid=<*>
+219ced65,isBluetoothA2dpOn...
+ce34163a,isBluetoothScoOn...
+16ade1fc,stopWifiDisplayScanLocked record.mWifiDisplayScanRequested=false
+710052a8,stopWifiDisplayScanLocked mWifiDisplayScanRequestCount=<*>
+eadc277d,getMode...
+f9bf5b1a,setSpeakerphoneOn on:true
+3e03b5e1,handleTimeUpdate
+f77cea60,Destroying surface Surface(name=PopupWindow:<*>) called by com.android.server.wm.WindowStateAnimator.destroySurface:<*> com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:<*> com.android.server.wm.WindowState.removeLocked:<*> com.android.server.wm.WindowManagerService.removeWindowInnerLocked:<*> com.android.server.wm.WindowManagerService.removeWindowInnerLocked:<*> com.android.server.wm.WindowManagerService.removeWindowLocked:<*> com.android.server.wm.WindowManagerService.removeWindowLocked:<*> com.android.server.wm.WindowManagerService.removeWindow:<*>
+73d6de92,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+13d3f523,unregisterAudioFocusListener...
+504c331a,abandonAudioFocus
+de1af8bf,<*> <*> <*> <*> <*> <*> <*> <*>
+99718fbd,getRingerMode...
+a3dd1b16,addNotification key=<*>|com.tencent.mobileqq|<*>|null|<*>
+3a97dc6f,mHeadsUpExistenceChangedRunnable
+36dc96c6,onNotificationExpansionChanged called
+e674b30b,getRecentTasks: topActivity=ComponentInfo{com.example.android.notepad/com.example.android.notepad.NoteEditor}
+17d10445,Destroying surface Surface(name=PopupWindow:<*>) called by com.android.server.wm.WindowStateAnimator.destroySurface:<*> com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:<*> <*> <*> <*> <*> <*> <*>
+a5f1c3f0,shouldBlockLocation ret:true
+82e013db,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+d639dd08,isWiredHeadsetOn...
+807c2bd1,<*> <*> <*>)
+f9e8e96e,updateChargingLocked: charging=false
+13c17994,onReceive action:android.intent.action.BATTERY_CHANGED
+f790bcce,ApStaDisabledState what=<*>
+96d275e9,DefaultState what=<*>
+e23c2601,handleBatteryUpdate
+ce7969a9,addNotification key=<*>|com.tencent.mm|<*>|null|<*>
+1c105b63,<*> <*> <*> <*> <*> <*> <*> <*> <*> { flg=<*> <*> (has extras) }
+8e52da4a,makeExpandedInvisible: mExpandedVisible=false
+cdc0f9d7,getRecentTasks: topActivity=ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}

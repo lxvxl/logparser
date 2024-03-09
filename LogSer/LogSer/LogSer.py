@@ -13,6 +13,8 @@ import hashlib
 from datetime import datetime
 import math
 
+import io
+
 
 class Logcluster:
     def __init__(self, logTemplate=[], logIDL=None):
@@ -29,6 +31,7 @@ class Node:
         self.depth = depth
         self.digitOrtoken = digitOrtoken
 
+template_regex_map = {}
 class LogParser:
     def __init__(self, log_format, indir='./', outdir='./result/', depth=4, ht=0.4, 
                  maxChild=100, rex=[], keep_para=True, jt = 1.0, postProcessFunc = None, replaceD = {}):
@@ -47,6 +50,7 @@ class LogParser:
         self.replaceD = replaceD
     
     def level(self, s:str):
+        '''measure the posibility that the token is a parameter'''
         l = 0
         for char in s:
             if char.isdigit():
@@ -253,7 +257,17 @@ class LogParser:
         print('开始提取参数')
         if self.keep_para:
             self.df_log["ParameterList"] = self.df_log.apply(self.get_parameter_list, axis=1)
-        self.df_log.to_csv(os.path.join(self.savePath, self.logName + '_structured.csv'), index=False)
+            self.df_log.to_csv(os.path.join(self.savePath, self.logName + '_structured.csv'), index=False)
+            #更节省内存的输出方法
+            '''with open(os.path.join(self.savePath, self.logName + '_structured.csv'), 'w') as f:
+                f.write(",".join(self.df_log.columns) + ",ParameterList\n")
+                for index, row in self.df_log.iterrows():
+                    processed_parameter = self.get_parameter_list(row)  # 假设这里是处理每一行数据的方法
+                    f.write(row.to_csv() + f",\"{processed_parameter}\"\n")
+                    if index % 100000 == 0:
+                        print(f'已提取{index}条日志的参数')'''
+        else:
+            self.df_log.to_csv(os.path.join(self.savePath, self.logName + '_structured.csv'), index=False)
         print('提取参数完毕')
 
         occ_dict = dict(self.df_log['EventTemplate'].value_counts())
@@ -261,6 +275,7 @@ class LogParser:
         df_event['EventTemplate'] = self.df_log['EventTemplate'].unique()
         df_event['EventId'] = df_event['EventTemplate'].map(lambda x: hashlib.md5(x.encode('utf-8')).hexdigest()[0:8])
         df_event['Occurrences'] = df_event['EventTemplate'].map(occ_dict)
+        df_event.sort_values(by='Occurrences', inplace=True)
         df_event.to_csv(os.path.join(self.savePath, self.logName + '_templates.csv'), index=False, columns=["EventId", "EventTemplate", "Occurrences"])
 
     def parse(self, logName):
@@ -296,7 +311,7 @@ class LogParser:
                     matchCluster.logTemplate = newTemplate
 
             count += 1
-            if count % 1000 == 0 or count == len(self.df_log):
+            if count % 10000 == 0 or count == len(self.df_log):
                 print('Processed {0:.1f}% of log lines.'.format(count * 100.0 / len(self.df_log)))
 
         if not os.path.exists(self.savePath):
@@ -317,11 +332,15 @@ class LogParser:
         return line
 
     def get_parameter_list(self, row):
-        template_regex = row["EventTemplate"]
+        template = template_regex = row["EventTemplate"]
         if "<*>" not in template_regex: return []
-        template_regex = re.sub(r'([^A-Za-z0-9])', r'\\\1', template_regex)
-        template_regex = re.sub(r'\\ +', ' ?', template_regex)
-        template_regex = "^" + template_regex.replace("\<\*\>", "(.*?)") + "$"
+        if template in template_regex_map.keys(): 
+            template_regex = template_regex_map[template]
+        else:
+            template_regex = re.sub(r'([^A-Za-z0-9])', r'\\\1', template_regex)
+            template_regex = re.sub(r'\\ +', ' ?', template_regex)
+            template_regex = "^" + template_regex.replace("\<\*\>", "(.*?)") + "$"
+            template_regex_map[template] = template_regex
         parameter_list = re.findall(template_regex, re.sub(' +', ' ', row["Content"]))
         parameter_list = parameter_list[0] if parameter_list else ()
         parameter_list = list(parameter_list) if isinstance(parameter_list, tuple) else [parameter_list]

@@ -1,0 +1,35 @@
+EventId,EventTemplate,Occurrences
+e47340d4,Receiving block (BLK) src : /<*> : <*> dest : /<*> : 50010,424222
+a5146e07,BLOCK* NameSystem.allocateBlock : <*> (BLK),142526
+d3976bf5,PacketResponder <*> for block (BLK) terminating,418103
+5a79c3d2,Received block (BLK) of size <*> from /<*>,418077
+0410fb6b,BLOCK* NameSystem.addStoredBlock : blockMap updated : <*> : 50010 is added to (BLK) size <*>,420102
+b4e935f8,Received block (BLK) src : /<*> : <*> dest : /<*> : 50010 of size <*>,771
+3511e296,<*> : 50010 <*> <*> block (BLK) to /<*> <*>,271644
+f96e0815,"<*> : 50010 Starting thread to transfer block (BLK) to <*> : 50010, <*> : 50010",58
+979ae3c8,BLOCK* ask <*> : 50010 to replicate (BLK) to datanode(s) <*> : 50010 <*>,725
+8f24aa61,Verification succeeded for (BLK),59696
+b5751b42,PacketResponder (BLK) <*> Exception <*>,5
+4f0377e9,writeBlock (BLK) received exception java.io.IOException : Could not read from stream,1427
+c83fddbf,Deleting block (BLK) file <*>,317187
+c90795c9,Receiving empty packet for block (BLK),342
+44ed4af4,Exception in receiveBlock for block (BLK) java.io.IOException : Connection reset by peer,14
+dcaa6407,writeBlock (BLK) received exception java.io.IOException : Connection reset by peer,14
+d49e2fe9,PacketResponder (BLK) 2 Exception java.net.SocketTimeoutException : 120000 millis timeout while waiting for channel to be ready for read. ch : java.nio.channels.SocketChannel[connected local=/<*> : <*> remote=/<*> : 50010],4
+47e43c92,<*> <*> <*> <*> java.io.InterruptedIOException : Interruped while waiting for IO on channel java.nio.channels.SocketChannel[connected local=/<*> : <*> remote=/<*> : <*> <*> <*> millis timeout left.,14
+32c02afb,Exception in receiveBlock for block (BLK) java.io.EOFException,6
+4f6a8110,writeBlock (BLK) received exception java.io.EOFException,6
+aa8aa063,Changing block file offset of block (BLK) from 0 to <*> meta file offset to <*>,11
+a22378cb,<*> : 50010 : Exception writing block (BLK) to mirror <*> : 50010,5
+2f8fc2d5,PacketResponder (BLK) <*> Exception java.io.IOException : Broken pipe,4
+680a97ff,"writeBlock (BLK) received exception java.io.IOException : Block (BLK) is valid, and cannot be written to.",7
+82e8dd4c,<*> : 50010 : Failed to transfer (BLK) to <*> : 50010 got java.io.IOException : Connection reset by peer,7
+bc190ce5,BLOCK* NameSystem.delete : (BLK) is added to invalidSet of <*> : 50010,316560
+c127dc76,Unexpected error trying to delete block (BLK). BlockInfo not found in volumeMap.,1450
+77422362,BLOCK* NameSystem.addStoredBlock : addStoredBlock request received for (BLK) on <*> : 50010 size <*> But it does not belong to any file.,1250
+fbee9fd0,<*> : 50010 : Got exception while serving (BLK) to /<*> :,205754
+210664b1,PacketResponder (BLK) 1 Exception java.io.IOException : Connection reset by peer,2
+ddf014bd,<*> <*> (BLK) <*> java.net.SocketTimeoutException : 490000 millis timeout while waiting for channel to be ready for write. ch : java.nio.channels.SocketChannel[connected local=/<*> : 43873 remote=/<*> : 50010],2
+177cb5e3,Reopen Block (BLK),1
+e23f321a,BLOCK* Removing block (BLK) from neededReplications as it does not belong to any file.,3
+2982ae70,PendingReplicationMonitor timed out block (BLK),1

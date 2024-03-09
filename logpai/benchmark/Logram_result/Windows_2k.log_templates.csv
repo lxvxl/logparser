@@ -1,0 +1,32 @@
+EventId,EventTemplate
+8d7c0e6b,<*> <*> <*> <*> <*> <*> <*>
+de1af8bf,<*> <*> <*> <*> <*> <*> <*> <*>
+a4ec7e5b,<*> <*> <*>
+fb195195,<*> <*> <*> <*> <*>
+0ce98313,<*> <*> <*> <*>
+9d892b9c,<*> <*> <*> <*> <*> <*> <*> <*> <*>
+adcd59d5,<*> Failed to <*> <*> <*> <*> <*> <*> <*> <*> = <*>- <*>
+a9a41405,<*> Failed to <*> <*> <*> <*> [HRESULT = <*>- <*>
+2f7082b2,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+f02aa632,<*> <*> Failed to <*> <*> <*> <*> [HRESULT = <*>- <*>
+023c9167,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+be644734,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+b79a54e6,<*> <*> initialized by client WindowsUpdateAgent.
+39b783c8,Warning: Unrecognized packageExtended attribute.
+565f9069,Expecting attribute name [HRESULT = <*>- CBS_E_MANIFEST_INVALID_ITEM]
+9c9f9113,Failed to get next element [HRESULT = <*>- CBS_E_MANIFEST_INVALID_ITEM]
+39c8b4cc,Failed to internally open package. [HRESULT = <*>- CBS_E_INVALID_PACKAGE]
+d1dc3106,Read out cached package applicability for package: <*> ApplicableState: 112 CurrentState:112
+fa6525a9,Read out cached package applicability for package: <*> ApplicableState: 80 CurrentState:112
+7c391f4a,Read out cached package applicability for package: <*> ApplicableState: 80 CurrentState:0
+cf9329ed,Read out cached package applicability for package: <*> ApplicableState: 0 CurrentState:0
+a995de1e,Read out cached package applicability for package: <*> ApplicableState: 112 CurrentState:0
+d944a733,Read out cached package applicability for package: <*> <*> <*> CurrentState:0
+f067b53e,Failed to <*> <*> <*> <*> [HRESULT = <*>- <*>
+be2214fc,<*> <*> <*> <*> <*> <*>
+8599e10a,Scavenge: Starts
+f18edf6e,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+82e013db,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*>
+1d5b30ad,<*> offline registry hive: <*> <*> <*> <*> <*> <*> <*> <*>
+f3601512,<*> <*> initialized by client <*>
+e60c6392,<*> offline registry hive: <*>

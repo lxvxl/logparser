@@ -30,8 +30,9 @@ df60e4d1,HTTP exception thrown: No instances found for any event,21
 3e87d713,"[instance: <*>] Total memory: <*> MB, used: <*>.<*> MB",21
 0ba4e709,"[instance: <*>] memory limit: <*>.<*> MB, free: <*>.<*> MB",21
 191c5e5b,"[instance: <*>] Total disk: <*> GB, used: <*>.<*> GB",21
-6ea8885a,"[instance: <*>] <*> limit not specified, defaulting to unlimited",42
+b0ab62f3,"[instance: <*>] disk limit not specified, defaulting to unlimited",21
 35c92dac,"[instance: <*>] Total vcpu: <*> VCPU, used: <*>.<*> VCPU",21
+ef5780c2,"[instance: <*>] vcpu limit not specified, defaulting to unlimited",21
 c89ed65a,[instance: <*>] Claim successful,21
 041069b7,[instance: <*>] Creating image,21
 1e115199,Successfully synced instances from host '<*>.slowvm<*>.<*>.utah.cloudlab.us'.,2

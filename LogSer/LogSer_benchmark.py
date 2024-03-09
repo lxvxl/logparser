@@ -127,18 +127,21 @@ benchmark_settings = {
         'log_format': '<Month> <Date> <Time> <Level> <Component>(\[<PID>\])?: <Content>',
         'regex': [r'(\d+\.){3}\d+', r'\d{2}:\d{2}:\d{2}'],
         'st': 0.4,
-        'tau': 1,
+        'tau': 0.99,
         'depth': 6,
         'replaceD': {
-            ':':' : ',
+            #':':' : ',
             ';':' ',
             ',':' ',
-            '_':' '
+            '_':' ',
+            '\(':' ( ',
+            '\)':' ) ',
+            '=': ' = '
         }       
         },
 
-    'Andriod': {
-        'log_file': 'Andriod/Andriod_2k.log',
+    'Android': {
+        'log_file': 'Android/Android_2k.log',
         'log_format': '<Date> <Time>  <Pid>  <Tid> <Level> <Component>: <Content>',
         'regex': [r'(/[\w-]+)+', r'([\w-]+\.){2,}[\w-]+', r'\b(\-?\+?\d+)\b|\b0[Xx][a-fA-F\d]+\b|\b[a-fA-F\d]{4,}\b'],
         'st': 0.6,
@@ -158,11 +161,12 @@ benchmark_settings = {
         'log_format': '<Time>\|<Component>\|<Pid>\|<Content>',
         'regex': [],
         'st': 0.25,
-        'tau': 0.8,
+        'tau': 1,
         'depth': 4,
         'replaceD': {
             '=': ' = ',
-            '##':' '
+            #'##':' ',
+            ':': ' : '
         }
         },
 
@@ -199,7 +203,9 @@ benchmark_settings = {
         'replaceD': {
             ':':' : ',
             '_':' ',
-            '=':' = '
+            '=':' = ',
+            '\[': '[ ',
+            '\]': ' ]'
         }   
         },
 
@@ -233,7 +239,7 @@ benchmark_settings = {
         },
 }
 
-input_dir = 'logs'
+input_dir = r'E:\日志解析-大修\logparser\data\loghub_2k_corrected'
 output_dir = 'LogSer_results'
 bechmark_result = []
 if __name__ == '__main__':
@@ -251,7 +257,8 @@ if __name__ == '__main__':
         start_time = datetime.now()
         parser.parse(os.path.basename(benchmark_settings[dataset]['log_file']))
         parse_time = (datetime.now() - start_time).total_seconds()
-        Precision, Recall, F1_measure, accuracy = evaluator.evaluate( groundtruth=os.path.join(input_dir, benchmark_settings[dataset]['log_file'] + '_structured.csv'),
+        Precision, Recall, F1_measure, accuracy = evaluator.evaluate(
+                    groundtruth=os.path.join(input_dir, benchmark_settings[dataset]['log_file'] + '_structured_corrected.csv'),
                     parsedresult=os.path.join(output_dir, dataset + '_2k.log' + '_structured.csv')
                     )    
         QL, LL = LOSS_evaluate.loss(pd.read_csv(os.path.join(output_dir, dataset + '_2k.log' + '_templates.csv')))

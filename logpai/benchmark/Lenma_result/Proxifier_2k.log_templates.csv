@@ -22,19 +22,22 @@ f920642c,<*> open through proxy <*> SOCKS5,2
 acb1c774,"<*> close, 1237 bytes (<*>) sent, 676064 bytes (<*>) received, lifetime <*>",1
 82cb0e46,"<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>",8
 f6a58231,"<*> close, 1006 bytes sent, 6198 bytes (<*>) received, lifetime <*>",1
-4b5587b7,"<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",4
+973223fe,"<*> close, 1015 bytes sent, 590 bytes received, lifetime <*>",1
 0404f441,"<*> close, 8673 bytes (<*>) sent, 116640 bytes (<*>) received, lifetime <*>",1
 361469dc,"<*> close, <*> bytes sent, <*> bytes (<*>) received, lifetime <*>",6
-361469dc,"<*> close, <*> bytes sent, <*> bytes (<*>) received, lifetime <*>",3
+ea58e066,"<*> close, 1002 bytes sent, 12309 bytes (<*>) received, lifetime <*>",1
 23733370,"<*> close, 1555 bytes (<*>) sent, 457464 bytes (<*>) received, lifetime <*>",1
-6cf30437,"<*> error : Could not connect through proxy <*> - Proxy server cannot establish a connection with the target, status code <*>",17
+cd24478e,"<*> error : Could not connect through proxy <*> - Proxy server cannot establish a connection with the target, status code 403",14
 82cb0e46,"<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>",5
 1d42d2f0,"<*> close, 2928 bytes (<*>) sent, 567520 bytes (<*>) received, lifetime <*>",1
 5f308d6b,"<*> close, 1010 bytes sent, 5219 bytes (<*>) received, lifetime <*>",1
 ff20aed6,"<*> close, 2464 bytes (<*>) sent, 1010 bytes received, lifetime <*>",1
+015dc259,"<*> close, 1007 bytes sent, 355 bytes received, lifetime <*>",1
 6cd3f9b5,"<*> close, 7437 bytes (<*>) sent, 2235596 bytes (<*>) received, lifetime <*>",1
 ffba8dad,"<*> close, 1023 bytes sent, 4076 bytes (<*>) received, lifetime <*>",1
 88ad5cfe,"<*> close, 1584 bytes (<*>) sent, 256548 bytes (<*>) received, lifetime <*>",1
+8b3fbfcb,"<*> close, 1008 bytes sent, 21970 bytes (<*>) received, lifetime <*>",1
+4c1bbaff,"<*> close, 1010 bytes sent, 21976 bytes (<*>) received, lifetime <*>",1
 04756a4f,"<*> close, 1408 bytes (<*>) sent, 0 bytes received, lifetime <*>",1
 e9ecb2a8,"<*> close, 3094 bytes (<*>) sent, 1014 bytes received, lifetime <*>",1
 15f1025a,"<*> close, 6719 bytes (<*>) sent, 644545 bytes (<*>) received, lifetime <*>",1
@@ -42,6 +45,7 @@ a33c407f,"<*> close, 1021 bytes sent, 4906 bytes (<*>) received, lifetime <*>",2
 e4043498,"<*> close, 2836 bytes (<*>) sent, 125622 bytes (<*>) received, lifetime <*>",1
 82cb0e46,"<*> close, <*> bytes (<*>) sent, <*> bytes (<*>) received, lifetime <*>",2
 58230b47,"<*> close, 6956 bytes (<*>) sent, 101059 bytes (<*>) received, lifetime <*>",1
+3aa24400,"<*> close, 1020 bytes sent, 607 bytes received, lifetime <*>",2
 5f9087f9,"<*> close, 861480 bytes (<*>) sent, 5464 bytes (<*>) received, lifetime <*>",1
 b1ce16ac,"<*> close, 9987 bytes (<*>) sent, 148343 bytes (<*>) received, lifetime <*>",1
 9c957480,"<*> close, 2331 bytes (<*>) sent, 440133 bytes (<*>) received, lifetime <*>",1
@@ -55,6 +59,7 @@ e91d61d6,awqiizxequsixgr:80 error : Could not connect to proxy <*> - Could not r
 e4067a98,wpad:80 error : Could not connect to proxy <*> - Could not resolve <*> error 11001,1
 1dd21352,"<*> close, 3281 bytes (<*>) sent, 102173 bytes (<*>) received, lifetime <*>",1
 9532b585,"<*> close, 2130 bytes (<*>) sent, 1009 bytes received, lifetime <*>",1
+d2f538f8,"<*> error : Could not connect through proxy <*> - Proxy server cannot establish a connection with the target, status code 503",3
 72ab5a3f,"<*> close, 6014 bytes (<*>) sent, 904350 bytes (<*>) received, lifetime <*>",1
 0caaf44a,"<*> close, 3732 bytes (<*>) sent, 804155 bytes (<*>) received, lifetime <*>",1
 becf861f,"<*> close, 2867 bytes (<*>) sent, 1014 bytes received, lifetime <*>",2

@@ -163,7 +163,7 @@ b55176d9,jemmytest,10
 016decae,AppleCamIn::wakeEventHandlerThread,12
 e194959f,IOHibernatePollerOpen(0),2
 58631be9,vm_compressor_fastwake_warmup (581519 - 591525) - starting,1
-75040252,"Page bounds {{0, 0}, {400, 400}}",2
+6961350e,"Page bounds {{0, 0} {400, 400}}",2
 93ccf765,hibernate_setup(0) took <*> ms,2
 47ab2462,payload Data 07 00,1
 28f62078,kern_open_file_for_direct_io took 6 ms,1
@@ -424,7 +424,7 @@ c35492ee,efi pagecount 72,2
 0b27452f,CoreAnimation: timed out fence 5fe83,1
 ce18263c,IOPolledFilePollersOpen(0) 6 ms,1
 f81e9894,Host controller terminated,1
-d936b6d4,"Arranged view frame: {{0, 0}, {260, 877}}",1
+5086e4cd,"Arranged view frame: {{0, 0} {260, 877}}",1
 98709a6a,Daemon connection invalidated!,1
 96f4868d,ChromeExistion main isUndetectWithCommand = 1,2
 87c0c275,Unrecognized XSSimpleTypeDefinition: OneOff,2

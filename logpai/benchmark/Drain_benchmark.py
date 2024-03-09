@@ -8,7 +8,7 @@ import pandas as pd
 from datetime import datetime
 
 
-input_dir = '../logs/' # The input directory of log file
+input_dir = r'E:\日志解析-大修\logparser\data\loghub_2k_corrected' # The input directory of log file
 output_dir = 'Drain_result/' # The output directory of parsing results
 
 benchmark_settings = {
@@ -84,8 +84,8 @@ benchmark_settings = {
         'depth': 6        
         },
 
-    'Andriod': {
-        'log_file': 'Andriod/Andriod_2k.log',
+    'Android': {
+        'log_file': 'Android/Android_2k.log',
         'log_format': '<Date> <Time>  <Pid>  <Tid> <Level> <Component>: <Content>',
         'regex': [r'(/[\w-]+)+', r'([\w-]+\.){2,}[\w-]+', r'\b(\-?\+?\d+)\b|\b0[Xx][a-fA-F\d]+\b|\b[a-fA-F\d]{4,}\b'],
         'st': 0.2,
@@ -142,7 +142,7 @@ benchmark_settings = {
 }
 
 bechmark_result = []
-for dataset, setting in benchmark_settings.iteritems():
+for dataset, setting in benchmark_settings.items():
     print('\n=== Evaluation on %s ==='%dataset)
     indir = os.path.join(input_dir, os.path.dirname(setting['log_file']))
     log_file = os.path.basename(setting['log_file'])
@@ -153,7 +153,7 @@ for dataset, setting in benchmark_settings.iteritems():
     time = (datetime.now() - start_time).total_seconds()
     
     Precision, Recall, F1_measure, accuracy = evaluator.evaluate(
-                           groundtruth=os.path.join(indir, log_file + '_structured.csv'),
+                           groundtruth=os.path.join(indir, log_file + '_structured_corrected.csv'),
                            parsedresult=os.path.join(output_dir, log_file + '_structured.csv')
                            )
     QL, LL = evaluator.loss(pd.read_csv(os.path.join(output_dir, log_file + '_templates.csv')))

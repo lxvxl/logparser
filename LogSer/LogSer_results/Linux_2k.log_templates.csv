@@ -1,115 +1,116 @@
 EventId,EventTemplate,Occurrences
-5b208a8d,authentication failure logname= uid=0 euid=0 tty=NODEVssh ruser= <*>,117
-632d754a,check pass user unknown,117
-d783fd25,authentication failure logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>,372
-09789b2b,session opened for user <*> by <*>,123
-27624832,session closed for user <*>,123
-a757c0c2,ALERT exited abnormally with [1],43
-f3df99b4,connection from <*> <*> at <*> <*> <*> <*> : <*> : <*> 2005,909
-f930132e,User unknown timed out after 900 seconds at Sat Jun 18 02 : 23 : 10 2005,1
+d849c4d4,Memory: 125312k/129720k available ( 1540k kernel code 3860k reserved 599k data 144k init 0k highmem ),1
+607eef3d,PCI: Using configuration type 1,1
+eea2d0be,PCI: PCI BIOS revision 2.10 entry at 0xfc0ce last bus = 1,1
+853b751d,NET: Registered protocol family 16,1
+60696e47,POSIX conformance testing by UNIFIX,1
+80734f26,Initializing random number generator: succeeded,1
+0dfe904f,Checking 'hlt' instruction... OK.,1
+5de744ee,Enabling unmasked SIMD FPU exception support... done.,1
+1d8fe60a,Enabling fast FPU save and restore... done.,1
+5dbe1e7b,CPU: Intel Pentium III ( Coppermine ) stepping 06,1
+67e6196c,Intel machine check reporting enabled on CPU#0.,1
+53650236,Intel machine check architecture supported.,1
+15e7f54d,mtrr: v2.0 ( 20020519 ),1
+d678ffa6,CPU: L2 cache: 256K,1
+e8f0327c,Mount-cache hash table entries: 512 ( order: 0 4096 bytes ),1
+33b4b281,Inode-cache hash table entries: 8192 ( order: 3 32768 bytes ),1
+acd4b190,Dentry cache hash table entries: 16384 ( order: 4 65536 bytes ),1
+00c09a87,rpc.idmapd startup succeeded,1
+48a493b0,Capability LSM initialized,1
+87fcba76,selinux register security: Registering secondary module capability,1
+a31006da,Failure registering capabilities with the kernel,1
+6d457c69,There is already a security framework initialized register security failed.,1
+426f668c,SELinux: Starting in permissive mode,1
+158c34d8,SELinux: Initializing.,1
+3c5e98a7,Security Scaffold v1.0.0 initialized,1
+e80ae37f,CPU: L1 I cache: 16K L1 D cache: 16K,1
+4ed240a7,ACPI: Subsystem revision 20040326,1
+cf383357,ACPI: Interpreter disabled.,1
+3b95b63d,Linux Plug and Play Support v0.97 ( c ) Adam Belay,1
+2e3d6c0c,isapnp: No Plug & Play device found,1
+2bf1954b,isapnp: Scanning for PnP cards...,1
+da8037ce,pci hotplug: PCI Hot Plug PCI Core version: 0.5,1
+2b566107,Initializing Cryptographic API,1
+6999d396,SELinux: Registering netfilter hooks,1
+18712230,Dquot-cache hash table entries: 1024 ( order 0 4096 bytes ),1
+4e2cf38f,VFS: Disk quotas dquot 6.5.1,1
+f3b4bfda,Bringing up loopback interface: succeeded,1
+cab2fc96,Total HugeTLB memory allocated 0,1
+db9d37a1,sdpd v1.5 started,1
+3307aa8a,sdpd startup succeeded,1
+a9d64ca2,Setting network parameters: succeeded,1
+e75dd365,audit ( 1122475266.4294965305:0 ) : initialized,1
+dbae5392,hcid startup succeeded,1
+1a06754d,HCI daemon ver 2.4 started,1
+d1ec3c98,kernel.core uses pid = 1,1
+2b590d41,audit: initializing netlink socket ( disabled ),1
+61546724,apm: BIOS version 1.2 Flags 0x03 ( Driver version 1.16ac ),1
+2e450820,PCI: Using IRQ router PIIX/ICH [8086/2410] at 0000:00:1f.0,1
+4fb9993c,Transparent bridge - 0000:00:1e.0,1
+2858f73a,PCI: Probing PCI hardware ( bus 00 ),1
+1f72ed8d,PCI: Probing PCI hardware,1
+ea8a8d97,PCI: Invalid ACPI-PCI IRQ routing table,1
+cafc1bbd,ACPI: ACPI tables contain no PCI IRQ routing entries,1
+ee129c71,Starting pcmcia: succeeded,1
+8eff90b2,Calibrating delay loop... 1445.88 BogoMIPS,1
+25be35b6,Real Time Clock Driver v1.12,1
+ad163127,Linux agpgart interface v0.100 ( c ) Dave Jones,1
+25830347,rpc.statd startup succeeded,1
+42e1da55,zapping low mappings.,1
+6b643c98,126MB LOWMEM available.,1
+9b11616a,0MB HIGHMEM available.,1
+8c537990,BIOS-provided physical RAM map:,1
+325d0565,Linux version 2.6.5-1.358 ( bhcompile@bugs.build.redhat.com ) ( gcc version 3.3.3 20040412 ( Red Hat Linux 3.3.3-7 ) ) #1 Sat May 8 <*> EDT 2004,1
+41cbeeb8,klogd 1.4.1 log source = /proc/kmsg started.,1
+a5b547df,Console: colour VGA+ 80x25,1
+03649f38,Couldn't authenticate user,1
+aa96bf18,authentication failure logname = uid = 0 euid = 0 tty = :0 ruser = rhost =,1
+e2234786,ROOT LOGIN ON tty2,1
+a4389a03,session opened for user root by LOGIN ( uid = 0 ),1
+c80127b9,imps2: Auto-detected intellimouse PS/2,1
+7c5f6003,*** info [mice.c ( 1766 ) ]:,1
+64e68fc2,Received SNMP packet ( s ) from <*>,1
+57c497f6,User unknown timed out after 900 seconds at Sat Jun 18 <*> 2005,1
+abd14c95,klogd startup succeeded,1
+a9678e83,On node 0 totalpages: 32430,1
+91fea51a,syslogd startup succeeded,1
+9c1d956c,Normal zone: 28334 pages LIFO batch:6,1
+85959353,Using tsc for high-res timesource,1
+8c112e82,Version 1.0.6 Starting,1
+b6fd22c2,Detected 731.219 MHz processor.,1
+4e020e42,PID hash table entries: 512 ( order 9: 4096 bytes ),1
+7d73b4c5,portmap startup succeeded,1
+dd77c5c9,DMA zone: 4096 pages LIFO batch:1,1
+fe3c862d,Initializing CPU#0,1
+4845b66c,mapped 4G/4G trampoline to ffff3000.,1
+be158aca,CPU 0 irqstacks hard = 02345000 soft = 02344000,1
+d7763055,irqbalance startup succeeded,1
+3149afdd,HighMem zone: 0 pages LIFO batch:1,1
+ea3f2a3d,Kernel command line: ro root = LABEL = / rhgb quiet,1
+90cdab58,DMI 2.3 present.,1
+3c5b4adb,ACPI disabled because your bios is from 2000 and too old,1
+de6cd9cf,Built 1 zonelists,1
+2dc02775,You can enable it with acpi = force,1
+9998416d,warning: can't get client address: Connection reset by peer,2
+5369f272,ANONYMOUS FTP LOGIN FROM <*> ( anonymous ),2
+f1205e3c,usbcore: registered new driver <*>,2
+49d3f0f9,BIOS-e820: <*> - <*> ( usable ),2
+1bdb277e,BIOS-e820: <*> - <*> ( reserved ),3
+3d002f62,removing device node <*>,4
+0fcef860,getpeername ( ftpd ) : Transport endpoint is not connected,4
+961489c4,creating device node <*>,4
 e05fcc23,cupsd shutdown succeeded,6
 adc372d2,cupsd startup succeeded,6
 6f97e9d4,restart.,7
-4f67b71e,Received SNMP packet(s) from <*>,1
-275bd586,Authentication failed from <*> (<*>) : Permission denied in replay cache code,8
-dea5ca56,Kerberos authentication failed,23
-0dd77dc5,Authentication failed from <*> (<*>) : Software caused connection abort,15
-acdeb4d4,*** info [mice.c(1766)] :,1
-6aa855f7,imps2 : Auto-detected intellimouse PS/2,1
-e2234786,ROOT LOGIN ON tty2,1
-3d002f62,removing device node <*>,4
-961489c4,creating device node <*>,4
-06f2a9de,authentication failure logname= uid=0 euid=0 tty= : 0 ruser= rhost=,1
-03649f38,Couldn't authenticate user,1
-d867e360,ANONYMOUS FTP LOGIN FROM <*> (anonymous),2
+89d42be5,Authentication failed from <*> ( <*> ) : Permission denied in replay cache code,8
+a908e634,Authentication failed from <*> ( <*> ) : Software caused connection abort,15
 a82d5ea6,notify question section contains no SOA,16
-b52c142c,getpeername (ftpd) : Transport endpoint is not connected,4
-0d6b973a,warning : can't get client address : Connection reset by peer,2
-91fea51a,syslogd startup succeeded,1
-41cbeeb8,klogd 1.4.1 log source = /proc/kmsg started.,1
-af031059,Linux version 2.6.5-1.358 (bhcompile@bugs.build.redhat.com) (gcc version 3.3.3 20040412 (Red Hat Linux 3.3.3-7)) #1 Sat May 8 09 : 04 : 50 EDT 2004,1
-de615978,BIOS-provided physical RAM map :,1
-da90b6c4,BIOS-e820 : <*> - <*> (usable),2
-867529c6,BIOS-e820 : <*> - <*> (reserved),3
-9b11616a,0MB HIGHMEM available.,1
-6b643c98,126MB LOWMEM available.,1
-42e1da55,zapping low mappings.,1
-abd14c95,klogd startup succeeded,1
-36598e47,On node 0 totalpages : 32430,1
-21903e1a,DMA zone : 4096 pages LIFO batch : 1,1
-caf1af50,Normal zone : 28334 pages LIFO batch : 6,1
-d7763055,irqbalance startup succeeded,1
-fad5492d,HighMem zone : 0 pages LIFO batch : 1,1
-90cdab58,DMI 2.3 present.,1
-3c5b4adb,ACPI disabled because your bios is from 2000 and too old,1
-29249ae3,You can enable it with acpi=force,1
-de6cd9cf,Built 1 zonelists,1
-a996c788,Kernel command line : ro root=LABEL=/ rhgb quiet,1
-4845b66c,mapped 4G/4G trampoline to ffff3000.,1
-fe3c862d,Initializing CPU#0,1
-a4515a51,CPU 0 irqstacks hard=02345000 soft=02344000,1
-7d73b4c5,portmap startup succeeded,1
-4d14a80f,PID hash table entries : 512 (order 9 : 4096 bytes),1
-b6fd22c2,Detected 731.219 MHz processor.,1
-8c112e82,Version 1.0.6 Starting,1
-85959353,Using tsc for high-res timesource,1
-25830347,rpc.statd startup succeeded,1
-2c4f71ff,Console : colour VGA+ 80x25,1
-92e936a1,Memory : 125312k/129720k available (1540k kernel code 3860k reserved 599k data 144k init 0k highmem),1
-8eff90b2,Calibrating delay loop... 1445.88 BogoMIPS,1
-3c5e98a7,Security Scaffold v1.0.0 initialized,1
-8c6f7d09,SELinux : Initializing.,1
-4615e4c7,SELinux : Starting in permissive mode,1
-6d457c69,There is already a security framework initialized register security failed.,1
-a31006da,Failure registering capabilities with the kernel,1
-e4466fee,selinux register security : Registering secondary module capability,1
-48a493b0,Capability LSM initialized,1
-00c09a87,rpc.idmapd startup succeeded,1
-5e544043,Dentry cache hash table entries : 16384 (order : 4 65536 bytes),1
-3bc1b8ee,Inode-cache hash table entries : 8192 (order : 3 32768 bytes),1
-6acd8ce8,Mount-cache hash table entries : 512 (order : 0 4096 bytes),1
-fd4f548c,CPU : L1 I cache : 16K L1 D cache : 16K,1
-b431523b,CPU : L2 cache : 256K,1
-53650236,Intel machine check architecture supported.,1
-67e6196c,Intel machine check reporting enabled on CPU#0.,1
-608545f7,CPU : Intel Pentium III (Coppermine) stepping 06,1
-1d8fe60a,Enabling fast FPU save and restore... done.,1
-5de744ee,Enabling unmasked SIMD FPU exception support... done.,1
-0dfe904f,Checking 'hlt' instruction... OK.,1
-c1be0f9d,Initializing random number generator : succeeded,1
-60696e47,POSIX conformance testing by UNIFIX,1
-a6737c94,NET : Registered protocol family 16,1
-483532b4,PCI : PCI BIOS revision 2.10 entry at 0xfc0ce last bus=1,1
-0f0160bb,PCI : Using configuration type 1,1
-63700af1,mtrr : v2.0 (20020519),1
-6b4764c7,ACPI : Subsystem revision 20040326,1
-5a5569d2,ACPI : Interpreter disabled.,1
-18330ef6,Linux Plug and Play Support v0.97 (c) Adam Belay,1
-d584ea88,Starting pcmcia : succeeded,1
-ade5fa2d,usbcore : registered new driver <*>,2
-88a43155,ACPI : ACPI tables contain no PCI IRQ routing entries,1
-c422ec15,PCI : Invalid ACPI-PCI IRQ routing table,1
-758a79fc,PCI : Probing PCI hardware,1
-e34b20f1,PCI : Probing PCI hardware (bus 00),1
-531f9ee8,Transparent bridge - 0000 : 00 : 1e.0,1
-3bac4f9e,PCI : Using IRQ router PIIX/ICH [8086/2410] at 0000 : 00 : 1f.0,1
-819ac27f,apm : BIOS version 1.2 Flags 0x03 (Driver version 1.16ac),1
-709f0f53,audit : initializing netlink socket (disabled),1
-d1ec3c98,kernel.core uses pid = 1,1
-1a06754d,HCI daemon ver 2.4 started,1
-dbae5392,hcid startup succeeded,1
-1931276c,audit(1122475266.4294965305 : 0) : initialized,1
-4b328525,Setting network parameters : succeeded,1
-3307aa8a,sdpd startup succeeded,1
-db9d37a1,sdpd v1.5 started,1
-cab2fc96,Total HugeTLB memory allocated 0,1
-3d3c29f0,Bringing up loopback interface : succeeded,1
-b3b9fc38,VFS : Disk quotas dquot 6.5.1,1
-d6e30e14,Dquot-cache hash table entries : 1024 (order 0 4096 bytes),1
-2d33f558,SELinux : Registering netfilter hooks,1
-2b566107,Initializing Cryptographic API,1
-ec6c177a,pci hotplug : PCI Hot Plug PCI Core version : 0.5,1
-111fb21f,isapnp : Scanning for PnP cards...,1
-80cc7236,isapnp : No Plug & Play device found,1
-25be35b6,Real Time Clock Driver v1.12,1
-e27b23bc,Linux agpgart interface v0.100 (c) Dave Jones,1
+dea5ca56,Kerberos authentication failed,23
+a757c0c2,ALERT exited abnormally with [1],43
+632d754a,check pass user unknown,117
+637ca600,authentication failure logname = uid = 0 euid = 0 tty = NODEVssh ruser = rhost = <*>,117
+4ac69790,session opened for user <*> by ( uid = <*> ),122
+27624832,session closed for user <*>,123
+014ade47,authentication failure logname = uid = 0 euid = 0 tty = NODEVssh ruser = rhost = <*> user = <*>,372
+fbcd9ab5,connection from <*> ( <*> ) at <*> <*> <*> <*> 2005,909
