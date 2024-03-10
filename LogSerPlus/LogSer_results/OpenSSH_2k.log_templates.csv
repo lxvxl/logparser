@@ -1,0 +1,27 @@
+EventId,EventTemplate,Occurrences
+30ff5bd8,fatal : Write failed : Connection reset by peer [ preauth ],1
+9953b95f,Received disconnect from <*> : 11 : disconnected by user,1
+6aa07542,pam unix(sshd : session) : session opened for user fztu by (uid = 0),1
+bb75510d,Accepted password for fztu from <*> port 49116 ssh2,1
+5423f13a,pam unix(sshd : session) : session closed for user fztu,1
+aec77c98,error : Received disconnect from <*> : 3 : <*> : Auth fail [ preauth ],2
+c526298a,message repeated 5 times : [ Failed password for root from <*> port <*> ssh2 ],2
+3cfc8bd2,PAM 5 more authentication failures; logname = uid = 0 euid = 0 tty = ssh ruser = rhost = <*> user = root,2
+8d805189,Disconnecting : Too many authentication failures for <*> [ preauth ],3
+2028cb27,Received disconnect from <*> : 11 : Closed due to user request. [ preauth ],7
+00a684b8,PAM service(sshd) ignoring max retries; <*> > 3,7
+bc04ce08,PAM <*> more authentication <*> logname = uid = 0 euid = 0 tty = ssh ruser = rhost = <*>,8
+c926c7d9,Did not receive identification string from <*>,10
+ca409192,Failed <*> for invalid user <*> from <*> port <*> ssh2,17
+90b73551,Connection closed by <*> [ preauth ],34
+1ceb4a76,error : Received disconnect from <*> : 14 : No more user authentication methods available. [ preauth ],45
+09118d4b,Failed <*> for invalid user admin from <*> port <*> ssh2,45
+21bb6d0e,Failed password for invalid user <*> from <*> port <*> ssh2,77
+5185ab59,reverse mapping checking getaddrinfo for <*> [ <*> ] failed - POSSIBLE BREAK-IN ATTEMPT!,85
+868d6643,pam unix(sshd : auth) : authentication failure; logname = uid = 0 euid = 0 tty = ssh ruser = rhost = <*>,110
+02071d23,input userauth request : invalid user <*> [ preauth ],113
+9302fad4,Invalid user <*> from <*>,113
+1df5e4d2,pam unix(sshd : auth) : check pass; user unknown,135
+f831cb6d,Failed password for <*> from <*> port <*> ssh2,383
+6c25e480,pam unix(sshd : auth) : authentication failure; logname = uid = 0 euid = 0 tty = ssh ruser = rhost = <*> user = <*>,384
+174da145,Received disconnect from <*> : 11 : Bye Bye [ preauth ],413

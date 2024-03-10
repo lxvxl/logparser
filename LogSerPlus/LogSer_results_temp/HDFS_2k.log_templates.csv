@@ -1,0 +1,521 @@
+EventId,EventTemplate,Occurrences
+af5b3250,Receiving block (BLK) src : /<*> : 60086 dest : /<*> : 50010,1
+619c0560,Received block (BLK) of size 28503188 from /<*>,1
+55a5c15e,Receiving block (BLK) src : /<*> : 41476 dest : /<*> : 50010,1
+d911eeaa,Receiving block (BLK) src : /<*> : 58823 dest : /<*> : 50010,1
+f4ae0cd1,Receiving block (BLK) src : /<*> : 57548 dest : /<*> : 50010,1
+44ba25eb,Receiving block (BLK) src : /<*> : 57634 dest : /<*> : 50010,1
+f415609c,Receiving block (BLK) src : /<*> : 36862 dest : /<*> : 50010,1
+7b1a1ec5,Receiving block (BLK) src : /<*> : 50095 dest : /<*> : 50010,1
+bcacc8d2,Receiving block (BLK) src : /<*> : 36039 dest : /<*> : 50010,1
+e30f99d7,Receiving block (BLK) src : /<*> : 45279 dest : /<*> : 50010,1
+cb77f874,Received block (BLK) of size 28494398 from /<*>,1
+61288839,BLOCK* NameSystem.addStoredBlock : blockMap updated : <*> : 50010 is added to (BLK) size 28482383,1
+aba777ea,Receiving block (BLK) src : /<*> : 59430 dest : /<*> : 50010,1
+886ce836,Receiving block (BLK) src : /<*> : 40478 dest : /<*> : 50010,1
+66fc5206,Receiving block (BLK) src : /<*> : 38873 dest : /<*> : 50010,1
+a146b2b4,Receiving block (BLK) src : /<*> : 42992 dest : /<*> : 50010,1
+75a702d4,BLOCK* NameSystem.allocateBlock : /user/root/randtxt4/_temporary/_task_200811101024_0010_m_000881_0/part-00881. (BLK),1
+20dd3318,Received block (BLK) of size 28497700 from /<*>,1
+ce7338f0,Receiving block (BLK) src : /<*> : 40530 dest : /<*> : 50010,1
+e018c1cb,Receiving block (BLK) src : /<*> : 48077 dest : /<*> : 50010,1
+cf3eba89,BLOCK* NameSystem.allocateBlock : /user/root/randtxt4/_temporary/_task_200811101024_0010_m_000222_0/part-00222. (BLK),1
+e3890649,Receiving block (BLK) src : /<*> : 42064 dest : /<*> : 50010,1
+c3aca5fa,Receiving block (BLK) src : /<*> : 50205 dest : /<*> : 50010,1
+d064db84,Receiving block (BLK) src : /<*> : 59148 dest : /<*> : 50010,1
+f4dec364,Receiving block (BLK) src : /<*> : 40031 dest : /<*> : 50010,1
+ec31454d,BLOCK* NameSystem.allocateBlock : /user/root/rand4/_temporary/_task_200811101024_0009_m_001574_0/part-01574. (BLK),1
+46ee11b5,BLOCK* NameSystem.allocateBlock : /user/root/rand4/_temporary/_task_200811101024_0009_m_001611_0/part-01611. (BLK),1
+54cd4723,BLOCK* NameSystem.allocateBlock : /user/root/rand4/_temporary/_task_200811101024_0009_m_001398_0/part-01398. (BLK),1
+4655d97b,Receiving block (BLK) src : /<*> : 37701 dest : /<*> : 50010,1
+f708f087,Receiving block (BLK) src : /<*> : 60870 dest : /<*> : 50010,1
+f42ab2b3,Receiving block (BLK) src : /<*> : 48457 dest : /<*> : 50010,1
+98a9512b,BLOCK* NameSystem.allocateBlock : /user/root/randtxt4/_temporary/_task_200811101024_0010_m_001716_0/part-01716. (BLK),1
+82c48082,Receiving block (BLK) src : /<*> : 48114 dest : /<*> : 50010,1
+0bf9aa88,BLOCK* NameSystem.allocateBlock : /user/root/rand5/_temporary/_task_200811101024_0011_m_001730_0/part-01730. (BLK),1
+3dc27f8a,BLOCK* NameSystem.addStoredBlock : blockMap updated : <*> : 50010 is added to (BLK) size 3534443,1
+7cfa800c,Receiving block (BLK) src : /<*> : 41058 dest : /<*> : 50010,1
+729e74ac,Receiving block (BLK) src : /<*> : 36091 dest : /<*> : 50010,1
+be9b14e2,BLOCK* NameSystem.allocateBlock : /user/root/rand5/_temporary/_task_200811101024_0011_m_001408_0/part-01408. (BLK),1
+d94f2337,Receiving block (BLK) src : /<*> : 50389 dest : /<*> : 50010,1
+aee92e74,Receiving block (BLK) src : /<*> : 41233 dest : /<*> : 50010,1
+24bcfb2b,Receiving block (BLK) src : /<*> : 42756 dest : /<*> : 50010,1
+30411f95,Receiving block (BLK) src : /<*> : 60409 dest : /<*> : 50010,1
+3d2ed7bf,BLOCK* NameSystem.addStoredBlock : blockMap updated : <*> : 50010 is added to (BLK) size 3546628,1
+e435988c,Receiving block (BLK) src : /<*> : 58610 dest : /<*> : 50010,1
+0db88146,Receiving block (BLK) src : /<*> : 33914 dest : /<*> : 50010,1
+a28f4c3d,Receiving block (BLK) src : /<*> : 41751 dest : /<*> : 50010,1
+bce47d69,Receiving block (BLK) src : /<*> : 43274 dest : /<*> : 50010,1
+89426f91,Receiving block (BLK) src : /<*> : 32889 dest : /<*> : 50010,1
+85b0284d,Receiving block (BLK) src : /<*> : 34409 dest : /<*> : 50010,1
+f66d1718,BLOCK* NameSystem.allocateBlock : /user/root/rand5/_temporary/_task_200811101024_0011_m_000541_0/part-00541. (BLK),1
+aadc048b,Receiving block (BLK) src : /<*> : 35844 dest : /<*> : 50010,1
+73a558fa,BLOCK* NameSystem.allocateBlock : /user/root/rand5/_temporary/_task_200811101024_0011_m_000040_0/part-00040. (BLK),1
+ffbda060,Receiving block (BLK) src : /<*> : 52815 dest : /<*> : 50010,1
+00528044,Receiving block (BLK) src : /<*> : 33333 dest : /<*> : 50010,1
+70746d58,Receiving block (BLK) src : /<*> : 35440 dest : /<*> : 50010,1
+95d31957,Receiving block (BLK) src : /<*> : 33345 dest : /<*> : 50010,1
+b798b6a1,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir44/(BLK),1
+4d21a78a,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir49/(BLK),1
+482e7d99,Receiving block (BLK) src : /<*> : 54184 dest : /<*> : 50010,1
+b59a09ca,Received block (BLK) of size 28485342 from /<*>,1
+8feb6877,Receiving block (BLK) src : /<*> : 52516 dest : /<*> : 50010,1
+fed12534,Received block (BLK) src : /<*> : 37362 dest : /<*> : 50010 of size 67108864,1
+d4229bfe,Receiving block (BLK) src : /<*> : 42160 dest : /<*> : 50010,1
+b2825be2,Receiving block (BLK) src : /<*> : 33553 dest : /<*> : 50010,1
+1c5f9c6c,Receiving block (BLK) src : /<*> : 53441 dest : /<*> : 50010,1
+eb117dc2,Receiving block (BLK) src : /<*> : 50649 dest : /<*> : 50010,1
+45ae805f,Receiving block (BLK) src : /<*> : 59433 dest : /<*> : 50010,1
+ed3aae52,Receiving block (BLK) src : /<*> : 47340 dest : /<*> : 50010,1
+88d7e656,Receiving block (BLK) src : /<*> : 39459 dest : /<*> : 50010,1
+b4411bcb,Receiving block (BLK) src : /<*> : 41293 dest : /<*> : 50010,1
+7a611d41,BLOCK* NameSystem.addStoredBlock : blockMap updated : <*> : 50010 is added to (BLK) size 28500222,1
+397794a5,BLOCK* NameSystem.allocateBlock : /user/root/randtxt3/_temporary/_task_200811101024_0007_m_000585_0/part-00585. (BLK),1
+c5db8924,Receiving block (BLK) src : /<*> : 34485 dest : /<*> : 50010,1
+17304a75,Receiving block (BLK) src : /<*> : 44200 dest : /<*> : 50010,1
+afeba5b1,Receiving block (BLK) src : /<*> : 53560 dest : /<*> : 50010,1
+cd008f6e,Receiving block (BLK) src : /<*> : 56915 dest : /<*> : 50010,1
+a5c9457d,Receiving block (BLK) src : /<*> : 46161 dest : /<*> : 50010,1
+b16313a9,Received block (BLK) of size 28496610 from /<*>,1
+de3285ef,Receiving block (BLK) src : /<*> : 51334 dest : /<*> : 50010,1
+d9da7acf,Receiving block (BLK) src : /<*> : 52151 dest : /<*> : 50010,1
+0190f4b0,Receiving block (BLK) src : /<*> : 46278 dest : /<*> : 50010,1
+3c0d4ed0,Receiving block (BLK) src : /<*> : 34762 dest : /<*> : 50010,1
+7cca09d3,BLOCK* NameSystem.allocateBlock : /user/root/randtxt3/_temporary/_task_200811101024_0007_m_000374_0/part-00374. (BLK),1
+41ff3f4a,BLOCK* NameSystem.allocateBlock : /user/root/randtxt3/_temporary/_task_200811101024_0007_m_000190_0/part-00190. (BLK),1
+6b69475e,Receiving block (BLK) src : /<*> : 59714 dest : /<*> : 50010,1
+8ce51d54,Receiving block (BLK) src : /<*> : 50933 dest : /<*> : 50010,1
+6ffdfb6c,BLOCK* NameSystem.allocateBlock : /user/root/rand3/_temporary/_task_200811101024_0005_m_001824_0/part-01824. (BLK),1
+66f9b8a5,Receiving block (BLK) src : /<*> : 33326 dest : /<*> : 50010,1
+4ef18729,Receiving block (BLK) src : /<*> : 58721 dest : /<*> : 50010,1
+72cf1c39,Receiving block (BLK) src : /<*> : 58714 dest : /<*> : 50010,1
+38da64d9,Receiving block (BLK) src : /<*> : 48721 dest : /<*> : 50010,1
+f48c9649,Receiving block (BLK) src : /<*> : 53270 dest : /<*> : 50010,1
+7ff53f2a,BLOCK* NameSystem.allocateBlock : /user/root/rand3/_temporary/_task_200811101024_0005_m_001655_0/part-01655. (BLK),1
+d488e3e3,BLOCK* NameSystem.allocateBlock : /user/root/randtxt3/_temporary/_task_200811101024_0007_m_000186_0/part-00186. (BLK),1
+e24b67e3,Receiving block (BLK) src : /<*> : 60235 dest : /<*> : 50010,1
+eea12610,Receiving block (BLK) src : /<*> : 42572 dest : /<*> : 50010,1
+be5d5d5f,BLOCK* NameSystem.addStoredBlock : blockMap updated : <*> : 50010 is added to (BLK) size 28499417,1
+d71a9ba9,BLOCK* NameSystem.allocateBlock : /user/root/rand4/_temporary/_task_200811101024_0009_m_001281_0/part-01281. (BLK),1
+689c71f6,Receiving block (BLK) src : /<*> : 58148 dest : /<*> : 50010,1
+de9f8542,BLOCK* NameSystem.allocateBlock : /user/root/rand4/_temporary/_task_200811101024_0009_m_001061_0/part-01061. (BLK),1
+829afabf,Receiving block (BLK) src : /<*> : 36468 dest : /<*> : 50010,1
+e9c35f60,Receiving block (BLK) src : /<*> : 48934 dest : /<*> : 50010,1
+10d5552b,Receiving block (BLK) src : /<*> : 40127 dest : /<*> : 50010,1
+84b66d53,Receiving block (BLK) src : /<*> : 52094 dest : /<*> : 50010,1
+b1b57b42,BLOCK* NameSystem.addStoredBlock : blockMap updated : <*> : 50010 is added to (BLK) size 3543900,1
+e47a13bb,BLOCK* NameSystem.addStoredBlock : blockMap updated : <*> : 50010 is added to (BLK) size 3530010,1
+a36c7e65,Receiving block (BLK) src : /<*> : 50666 dest : /<*> : 50010,1
+a861d6bd,Receiving block (BLK) src : /<*> : 48778 dest : /<*> : 50010,1
+0b54fdf6,Receiving block (BLK) src : /<*> : 44375 dest : /<*> : 50010,1
+71f51654,Receiving block (BLK) src : /<*> : 49914 dest : /<*> : 50010,1
+11530ad7,Receiving block (BLK) src : /<*> : 55462 dest : /<*> : 50010,1
+a33fb355,Receiving block (BLK) src : /<*> : 33198 dest : /<*> : 50010,1
+acb6a5f6,Receiving block (BLK) src : /<*> : 40348 dest : /<*> : 50010,1
+b898f112,BLOCK* NameSystem.allocateBlock : /user/root/rand4/_temporary/_task_200811101024_0009_m_000176_0/part-00176. (BLK),1
+f851e228,BLOCK* NameSystem.allocateBlock : /user/root/rand4/_temporary/_task_200811101024_0009_m_000115_0/part-00115. (BLK),1
+b6775475,Receiving block (BLK) src : /<*> : 57008 dest : /<*> : 50010,1
+4087f7d7,Receiving block (BLK) src : /<*> : 42358 dest : /<*> : 50010,1
+266e2949,Receiving block (BLK) src : /<*> : 50481 dest : /<*> : 50010,1
+c200ed65,Receiving block (BLK) src : /<*> : 49600 dest : /<*> : 50010,1
+67421b7a,BLOCK* NameSystem.allocateBlock : /user/root/randtxt3/_temporary/_task_200811101024_0007_m_001662_0/part-01662. (BLK),1
+d059b44e,Receiving block (BLK) src : /<*> : 46793 dest : /<*> : 50010,1
+785c1f2b,Receiving block (BLK) src : /<*> : 60160 dest : /<*> : 50010,1
+77b4ed48,BLOCK* NameSystem.allocateBlock : /user/root/randtxt3/_temporary/_task_200811101024_0007_m_001230_0/part-01230. (BLK),1
+70694cf9,BLOCK* NameSystem.allocateBlock : /user/root/randtxt3/_temporary/_task_200811101024_0007_m_001560_0/part-01560. (BLK),1
+42a62b72,Receiving block (BLK) src : /<*> : 44516 dest : /<*> : 50010,1
+dd62b967,Receiving block (BLK) src : /<*> : 46421 dest : /<*> : 50010,1
+2b0d8328,Receiving block (BLK) src : /<*> : 34656 dest : /<*> : 50010,1
+05f14fe0,Receiving block (BLK) src : /<*> : 43317 dest : /<*> : 50010,1
+236ab063,BLOCK* NameSystem.addStoredBlock : blockMap updated : <*> : 50010 is added to (BLK) size 3552141,1
+8c950796,Receiving block (BLK) src : /<*> : 59629 dest : /<*> : 50010,1
+6418dc5b,Receiving block (BLK) src : /<*> : 34168 dest : /<*> : 50010,1
+63e60939,BLOCK* NameSystem.allocateBlock : /user/root/rand8/_temporary/_task_200811101024_0015_m_000737_0/part-00737. (BLK),1
+07c25103,Receiving block (BLK) src : /<*> : 57105 dest : /<*> : 50010,1
+673d198d,BLOCK* NameSystem.allocateBlock : /user/root/rand8/_temporary/_task_200811101024_0015_m_000480_0/part-00480. (BLK),1
+3ba9e8be,Receiving block (BLK) src : /<*> : 38158 dest : /<*> : 50010,1
+eac0930b,BLOCK* NameSystem.allocateBlock : /user/root/rand7/_temporary/_task_200811101024_0014_m_002007_0/part-02007. (BLK),1
+3d18ef30,Receiving block (BLK) src : /<*> : 57484 dest : /<*> : 50010,1
+5dc732f9,Received block (BLK) of size 3538321 from /<*>,1
+de25d246,Receiving block (BLK) src : /<*> : 36685 dest : /<*> : 50010,1
+290cc2ef,BLOCK* NameSystem.allocateBlock : /user/root/rand7/_temporary/_task_200811101024_0014_m_001642_0/part-01642. (BLK),1
+9084eed8,BLOCK* NameSystem.allocateBlock : /user/root/rand7/_temporary/_task_200811101024_0014_m_001940_0/part-01940. (BLK),1
+c95dd1bf,Receiving block (BLK) src : /<*> : 52741 dest : /<*> : 50010,1
+0839acc9,BLOCK* ask <*> : 50010 to delete (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK),1
+e449ca19,BLOCK* NameSystem.allocateBlock : /user/root/rand7/_temporary/_task_200811101024_0014_m_001649_0/part-01649. (BLK),1
+54616238,BLOCK* NameSystem.allocateBlock : /user/root/rand7/_temporary/_task_200811101024_0014_m_001394_0/part-01394. (BLK),1
+e983757f,Receiving block (BLK) src : /<*> : 52800 dest : /<*> : 50010,1
+4c8345b8,Receiving block (BLK) src : /<*> : 37060 dest : /<*> : 50010,1
+e3b21fc6,Receiving block (BLK) src : /<*> : 52748 dest : /<*> : 50010,1
+f835da33,Receiving block (BLK) src : /<*> : 51036 dest : /<*> : 50010,1
+45f56cea,Receiving block (BLK) src : /<*> : 35834 dest : /<*> : 50010,1
+bcc6a9a5,BLOCK* NameSystem.allocateBlock : /user/root/rand7/_temporary/_task_200811101024_0014_m_001348_0/part-01348. (BLK),1
+604163da,BLOCK* NameSystem.allocateBlock : /user/root/rand7/_temporary/_task_200811101024_0014_m_000973_0/part-00973. (BLK),1
+fe264e4b,Receiving block (BLK) src : /<*> : 53897 dest : /<*> : 50010,1
+ab04066e,BLOCK* NameSystem.allocateBlock : /user/root/rand7/_temporary/_task_200811101024_0014_m_001049_0/part-01049. (BLK),1
+c6b71277,Receiving block (BLK) src : /<*> : 45371 dest : /<*> : 50010,1
+34bc1a1d,Receiving block (BLK) src : /<*> : 35484 dest : /<*> : 50010,1
+fd3e9dca,Receiving block (BLK) src : /<*> : 47958 dest : /<*> : 50010,1
+d54be248,BLOCK* NameSystem.allocateBlock : /user/root/rand7/_temporary/_task_200811101024_0014_m_001736_0/part-01736. (BLK),1
+471109c2,Receiving block (BLK) src : /<*> : 57000 dest : /<*> : 50010,1
+d17e01b1,Receiving block (BLK) src : /<*> : 39499 dest : /<*> : 50010,1
+2ba099bf,Receiving block (BLK) src : /<*> : 49726 dest : /<*> : 50010,1
+6879af32,Receiving block (BLK) src : /<*> : 46843 dest : /<*> : 50010,1
+575d96cf,Receiving block (BLK) src : /<*> : 54431 dest : /<*> : 50010,1
+06965587,Receiving block (BLK) src : /<*> : 38028 dest : /<*> : 50010,1
+0919d739,BLOCK* NameSystem.allocateBlock : /user/root/randtxt9/_temporary/_task_200811101024_0016_m_000347_0/part-00347. (BLK),1
+a31a838b,Receiving block (BLK) src : /<*> : 47359 dest : /<*> : 50010,1
+537b46fc,Receiving block (BLK) src : /<*> : 55517 dest : /<*> : 50010,1
+3280d3c9,Receiving block (BLK) src : /<*> : 56512 dest : /<*> : 50010,1
+ea6d2af9,Receiving block (BLK) src : /<*> : 56526 dest : /<*> : 50010,1
+9e3491f1,BLOCK* NameSystem.addStoredBlock : blockMap updated : <*> : 50010 is added to (BLK) size 15715490,1
+d0c27461,Receiving block (BLK) src : /<*> : 47278 dest : /<*> : 50010,1
+b64c5165,BLOCK* NameSystem.allocateBlock : /user/root/rand8/_temporary/_task_200811101024_0015_m_001860_0/part-01860. (BLK),1
+aa229fb3,Receiving block (BLK) src : /<*> : 34801 dest : /<*> : 50010,1
+be10a1d6,Receiving block (BLK) src : /<*> : 35656 dest : /<*> : 50010,1
+620b2562,BLOCK* NameSystem.allocateBlock : /user/root/rand8/_temporary/_task_200811101024_0015_m_000882_0/part-00882. (BLK),1
+f3b1e47d,BLOCK* NameSystem.allocateBlock : /user/root/rand8/_temporary/_task_200811101024_0015_m_001473_0/part-01473. (BLK),1
+df77868f,BLOCK* NameSystem.allocateBlock : /user/root/rand8/_temporary/_task_200811101024_0015_m_001425_0/part-01425. (BLK),1
+2f6fa88c,Receiving block (BLK) src : /<*> : 57741 dest : /<*> : 50010,1
+1e8f69e8,Receiving block (BLK) src : /<*> : 54324 dest : /<*> : 50010,1
+5bf5b167,Receiving block (BLK) src : /<*> : 58496 dest : /<*> : 50010,1
+fd5ffaa0,Receiving block (BLK) src : /<*> : 41752 dest : /<*> : 50010,1
+71114a51,Receiving block (BLK) src : /<*> : 57736 dest : /<*> : 50010,1
+88256ff9,Receiving block (BLK) src : /<*> : 45766 dest : /<*> : 50010,1
+a0d6baf1,Receiving block (BLK) src : /<*> : 48900 dest : /<*> : 50010,1
+3f6c053b,BLOCK* NameSystem.allocateBlock : /user/root/rand8/_temporary/_task_200811101024_0015_m_001294_0/part-01294. (BLK),1
+a5cc9330,Receiving block (BLK) src : /<*> : 48892 dest : /<*> : 50010,1
+b1f02653,BLOCK* NameSystem.allocateBlock : /user/root/rand8/_temporary/_task_200811101024_0015_m_000939_0/part-00939. (BLK),1
+93df242a,BLOCK* NameSystem.allocateBlock : /user/root/rand8/_temporary/_task_200811101024_0015_m_001033_0/part-01033. (BLK),1
+0ed56201,BLOCK* NameSystem.addStoredBlock : blockMap updated : <*> : 50010 is added to (BLK) size 3546314,1
+9064615b,BLOCK* NameSystem.allocateBlock : /user/root/rand8/_temporary/_task_200811101024_0015_m_001757_0/part-01757. (BLK),1
+3bfcd128,Receiving block (BLK) src : /<*> : 55334 dest : /<*> : 50010,1
+4df01fa0,Receiving block (BLK) src : /<*> : 40740 dest : /<*> : 50010,1
+8f9ad13a,BLOCK* ask <*> : 50010 to replicate (BLK) to datanode(s) <*> : 50010,1
+71c2fa84,BLOCK* NameSystem.allocateBlock : /user/root/rand6/_temporary/_task_200811101024_0013_m_000079_0/part-00079. (BLK),1
+a08ad131,BLOCK* NameSystem.allocateBlock : /user/root/rand6/_temporary/_task_200811101024_0013_m_000451_0/part-00451. (BLK),1
+507899e2,Receiving block (BLK) src : /<*> : 53429 dest : /<*> : 50010,1
+729fc638,BLOCK* NameSystem.allocateBlock : /user/root/rand6/_temporary/_task_200811101024_0013_m_000197_0/part-00197. (BLK),1
+5c3a60d7,BLOCK* NameSystem.allocateBlock : /user/root/rand6/_temporary/_task_200811101024_0013_m_000153_0/part-00153. (BLK),1
+573493f7,Receiving block (BLK) src : /<*> : 41468 dest : /<*> : 50010,1
+0710236d,Receiving block (BLK) src : /<*> : 60327 dest : /<*> : 50010,1
+600e7e1e,Receiving block (BLK) src : /<*> : 51404 dest : /<*> : 50010,1
+ca175591,Receiving block (BLK) src : /<*> : 53084 dest : /<*> : 50010,1
+1355300c,Receiving block (BLK) src : /<*> : 42019 dest : /<*> : 50010,1
+9b26e7c1,BLOCK* NameSystem.allocateBlock : /user/root/randtxt5/_temporary/_task_200811101024_0012_m_001635_0/part-01635. (BLK),1
+cc21dbd0,Receiving block (BLK) src : /<*> : 47910 dest : /<*> : 50010,1
+8de958f0,Receiving block (BLK) src : /<*> : 40950 dest : /<*> : 50010,1
+86fcdc20,BLOCK* NameSystem.allocateBlock : /user/root/rand6/_temporary/_task_200811101024_0013_m_000077_0/part-00077. (BLK),1
+3f425607,BLOCK* NameSystem.allocateBlock : /user/root/randtxt5/_temporary/_task_200811101024_0012_m_001554_0/part-01554. (BLK),1
+a868c6c3,BLOCK* NameSystem.addStoredBlock : blockMap updated : <*> : 50010 is added to (BLK) size 28508403,1
+333ef99f,Receiving block (BLK) src : /<*> : 35776 dest : /<*> : 50010,1
+9255bceb,BLOCK* NameSystem.allocateBlock : /user/root/randtxt5/_temporary/_task_200811101024_0012_m_001529_0/part-01529. (BLK),1
+634c4c17,BLOCK* NameSystem.allocateBlock : /user/root/randtxt5/_temporary/_task_200811101024_0012_m_001314_0/part-01314. (BLK),1
+ead61643,Receiving block (BLK) src : /<*> : 53216 dest : /<*> : 50010,1
+887c2d5c,Receiving block (BLK) src : /<*> : 43819 dest : /<*> : 50010,1
+e6ce3a31,Receiving block (BLK) src : /<*> : 48508 dest : /<*> : 50010,1
+2f85bea8,BLOCK* NameSystem.allocateBlock : /user/root/randtxt5/_temporary/_task_200811101024_0012_m_000900_0/part-00900. (BLK),1
+5b45d3bb,BLOCK* NameSystem.allocateBlock : /user/root/randtxt5/_temporary/_task_200811101024_0012_m_001192_0/part-01192. (BLK),1
+b3a37146,Receiving block (BLK) src : /<*> : 45184 dest : /<*> : 50010,1
+224ac6dc,BLOCK* NameSystem.addStoredBlock : blockMap updated : <*> : 50010 is added to (BLK) size 28484260,1
+4662217c,BLOCK* NameSystem.addStoredBlock : blockMap updated : <*> : 50010 is added to (BLK) size 3550839,1
+345fb755,Received block (BLK) of size 10157271 from /<*>,1
+6c742d4a,BLOCK* NameSystem.allocateBlock : /user/root/randtxt5/_temporary/_task_200811101024_0012_m_001726_0/part-01726. (BLK),1
+d6dad85b,Received block (BLK) src : /<*> : 35617 dest : /<*> : 50010 of size 67108864,1
+96f39d26,Receiving block (BLK) src : /<*> : 55681 dest : /<*> : 50010,1
+c44fab27,BLOCK* NameSystem.allocateBlock : /user/root/rand6/_temporary/_task_200811101024_0013_m_000523_0/part-00523. (BLK),1
+3bae61d9,Receiving block (BLK) src : /<*> : 40589 dest : /<*> : 50010,1
+cb4c2f16,Receiving block (BLK) src : /<*> : 41990 dest : /<*> : 50010,1
+70c9b9f3,Receiving block (BLK) src : /<*> : 59179 dest : /<*> : 50010,1
+92e9d07a,Receiving block (BLK) src : /<*> : 56334 dest : /<*> : 50010,1
+787db887,Receiving block (BLK) src : /<*> : 58254 dest : /<*> : 50010,1
+be62647e,Receiving block (BLK) src : /<*> : 53947 dest : /<*> : 50010,1
+ccd8770c,Received block (BLK) of size 41287838 from /<*>,1
+534a3c8e,Receiving block (BLK) src : /<*> : 36437 dest : /<*> : 50010,1
+b69412fa,BLOCK* NameSystem.allocateBlock : /user/root/rand6/_temporary/_task_200811101024_0013_m_002009_1/part-02009. (BLK),1
+55932480,Receiving block (BLK) src : /<*> : 40641 dest : /<*> : 50010,1
+87d7ef70,Receiving block (BLK) src : /<*> : 55076 dest : /<*> : 50010,1
+7f9ac343,BLOCK* NameSystem.allocateBlock : /user/root/rand6/_temporary/_task_200811101024_0013_m_001983_0/part-01983. (BLK),1
+3868fd38,BLOCK* NameSystem.allocateBlock : /user/root/rand6/_temporary/_task_200811101024_0013_m_001835_0/part-01835. (BLK),1
+ea90fb57,Receiving block (BLK) src : /<*> : 40195 dest : /<*> : 50010,1
+8d9554ed,BLOCK* NameSystem.allocateBlock : /user/root/rand6/_temporary/_task_200811101024_0013_m_001850_0/part-01850. (BLK),1
+bd8e18d5,Receiving block (BLK) src : /<*> : 48694 dest : /<*> : 50010,1
+10dfa9e5,Receiving block (BLK) src : /<*> : 47296 dest : /<*> : 50010,1
+2a51b54b,Receiving block (BLK) src : /<*> : 43091 dest : /<*> : 50010,1
+eae54220,Received block (BLK) of size 3547785 from /<*>,1
+a2f0b88c,Receiving block (BLK) src : /<*> : 59757 dest : /<*> : 50010,1
+f414b326,Receiving block (BLK) src : /<*> : 55126 dest : /<*> : 50010,1
+ea21d53c,BLOCK* NameSystem.allocateBlock : /user/root/rand6/_temporary/_task_200811101024_0013_m_001195_0/part-01195. (BLK),1
+1147458c,Receiving block (BLK) src : /<*> : 59561 dest : /<*> : 50010,1
+2ee482ab,Receiving block (BLK) src : /<*> : 58661 dest : /<*> : 50010,1
+4b8c9a8d,BLOCK* NameSystem.addStoredBlock : blockMap updated : <*> : 50010 is added to (BLK) size 3541872,1
+a1de0769,Receiving block (BLK) src : /<*> : 58395 dest : /<*> : 50010,1
+a6f354d4,Receiving block (BLK) src : /<*> : 47130 dest : /<*> : 50010,1
+8220613a,BLOCK* NameSystem.allocateBlock : /user/root/rand6/_temporary/_task_200811101024_0013_m_000997_0/part-00997. (BLK),1
+600d6d75,Receiving block (BLK) src : /<*> : 49679 dest : /<*> : 50010,1
+6306c2b3,Receiving block (BLK) src : /<*> : 59051 dest : /<*> : 50010,1
+7874789b,Receiving block (BLK) src : /<*> : 59759 dest : /<*> : 50010,1
+6faa4efd,Receiving block (BLK) src : /<*> : 58281 dest : /<*> : 50010,1
+12bb5ca7,BLOCK* NameSystem.allocateBlock : /user/root/rand/_temporary/_task_200811101024_0001_m_000097_0/part-00097. (BLK),1
+1f9c96df,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir12/(BLK),1
+0b4fd8ac,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir20/(BLK),1
+cc50a192,BLOCK* NameSystem.allocateBlock : /user/root/rand/_temporary/_task_200811101024_0001_m_000206_0/part-00206. (BLK),1
+c73866bb,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir51/(BLK),1
+10949fff,Receiving block (BLK) src : /<*> : 53737 dest : /<*> : 50010,1
+07f9888e,Receiving block (BLK) src : /<*> : 50176 dest : /<*> : 50010,1
+b6f5ee8e,BLOCK* NameSystem.allocateBlock : /user/root/randtxt/_temporary/_task_200811092030_0003_m_001976_0/part-01976. (BLK),1
+711fddea,BLOCK* NameSystem.allocateBlock : /user/root/randtxt/_temporary/_task_200811092030_0003_m_001840_0/part-01840. (BLK),1
+ee61f94d,BLOCK* NameSystem.allocateBlock : /user/root/randtxt/_temporary/_task_200811092030_0003_m_001817_0/part-01817. (BLK),1
+2640a818,BLOCK* NameSystem.allocateBlock : /user/root/randtxt/_temporary/_task_200811092030_0003_m_001630_0/part-01630. (BLK),1
+bfec4571,BLOCK* NameSystem.allocateBlock : /user/root/randtxt/_temporary/_task_200811092030_0003_m_001661_0/part-01661. (BLK),1
+cbe09c98,Receiving block (BLK) src : /<*> : 43860 dest : /<*> : 50010,1
+30c9aaf6,BLOCK* NameSystem.allocateBlock : /user/root/randtxt/_temporary/_task_200811092030_0003_m_001728_0/part-01728. (BLK),1
+db5e1b34,BLOCK* NameSystem.allocateBlock : /user/root/randtxt/_temporary/_task_200811092030_0003_m_001377_0/part-01377. (BLK),1
+12ce628a,BLOCK* NameSystem.allocateBlock : /user/root/randtxt/_temporary/_task_200811092030_0003_m_001597_0/part-01597. (BLK),1
+b958f1ef,BLOCK* NameSystem.allocateBlock : /user/root/randtxt/_temporary/_task_200811092030_0003_m_001506_0/part-01506. (BLK),1
+41a95b21,BLOCK* NameSystem.allocateBlock : /user/root/randtxt/_temporary/_task_200811092030_0003_m_001365_0/part-01365. (BLK),1
+db2b964e,Receiving block (BLK) src : /<*> : 59379 dest : /<*> : 50010,1
+857cd250,Receiving block (BLK) src : /<*> : 38310 dest : /<*> : 50010,1
+c6c76149,Receiving block (BLK) src : /<*> : 48454 dest : /<*> : 50010,1
+b13370f6,BLOCK* NameSystem.allocateBlock : /user/root/rand/_temporary/_task_200811101024_0001_m_000056_0/part-00056. (BLK),1
+2f2b0aee,Receiving block (BLK) src : /<*> : 40849 dest : /<*> : 50010,1
+69c8d210,Receiving block (BLK) src : /<*> : 51077 dest : /<*> : 50010,1
+12977525,Receiving block (BLK) src : /<*> : 58984 dest : /<*> : 50010,1
+c17a21c0,Receiving block (BLK) src : /<*> : 52556 dest : /<*> : 50010,1
+5523a4a5,Receiving block (BLK) src : /<*> : 44457 dest : /<*> : 50010,1
+30c0fa45,Receiving block (BLK) src : /<*> : 41059 dest : /<*> : 50010,1
+792944d9,BLOCK* NameSystem.addStoredBlock : blockMap updated : <*> : 50010 is added to (BLK) size 3547172,1
+7784fb86,Receiving block (BLK) src : /<*> : 36059 dest : /<*> : 50010,1
+f1b3b799,Receiving block (BLK) src : /<*> : 33314 dest : /<*> : 50010,1
+7a9c5aa6,BLOCK* NameSystem.allocateBlock : /user/root/rand/_temporary/_task_200811101024_0001_m_001587_0/part-01587. (BLK),1
+a2e0c997,BLOCK* NameSystem.allocateBlock : /user/root/rand/_temporary/_task_200811101024_0001_m_001495_0/part-01495. (BLK),1
+95eafe4e,Receiving block (BLK) src : /<*> : 52234 dest : /<*> : 50010,1
+1ab14928,BLOCK* NameSystem.allocateBlock : /user/root/rand/_temporary/_task_200811101024_0001_m_001353_0/part-01353. (BLK),1
+cb11b11f,Receiving block (BLK) src : /<*> : 56999 dest : /<*> : 50010,1
+0a927637,Receiving block (BLK) src : /<*> : 43940 dest : /<*> : 50010,1
+4806bda5,BLOCK* NameSystem.allocateBlock : /user/root/rand/_temporary/_task_200811101024_0001_m_001197_0/part-01197. (BLK),1
+3cb452c1,Receiving block (BLK) src : /<*> : 44006 dest : /<*> : 50010,1
+db8ee794,Receiving block (BLK) src : /<*> : 46509 dest : /<*> : 50010,1
+79e8c72b,BLOCK* NameSystem.allocateBlock : /user/root/rand/_temporary/_task_200811101024_0001_m_000749_0/part-00749. (BLK),1
+b371b0ad,Receiving block (BLK) src : /<*> : 60076 dest : /<*> : 50010,1
+6b713849,Receiving block (BLK) src : /<*> : 46429 dest : /<*> : 50010,1
+e8adc496,BLOCK* NameSystem.allocateBlock : /user/root/rand/_temporary/_task_200811101024_0001_m_000121_0/part-00121. (BLK),1
+7c8c458e,Receiving block (BLK) src : /<*> : 33685 dest : /<*> : 50010,1
+753c8b9c,BLOCK* NameSystem.addStoredBlock : blockMap updated : <*> : 50010 is added to (BLK) size 3547304,1
+c443da68,BLOCK* NameSystem.addStoredBlock : blockMap updated : <*> : 50010 is added to (BLK) size 3549832,1
+cf916c7b,Receiving block (BLK) src : /<*> : 48488 dest : /<*> : 50010,1
+4e971de1,BLOCK* NameSystem.allocateBlock : /user/root/randtxt/_temporary/_task_200811092030_0003_m_001095_0/part-01095. (BLK),1
+e2b24eb2,Receiving block (BLK) src : /<*> : 55531 dest : /<*> : 50010,1
+014715cf,Receiving block (BLK) src : /<*> : 59324 dest : /<*> : 50010,1
+7fe4ee92,Receiving block (BLK) src : /<*> : 34703 dest : /<*> : 50010,1
+2f39ed5d,Receiving block (BLK) src : /<*> : 58995 dest : /<*> : 50010,1
+98e23dd4,Receiving block (BLK) src : /<*> : 35327 dest : /<*> : 50010,1
+2bee2da2,Receiving block (BLK) src : /<*> : 57419 dest : /<*> : 50010,1
+fe7948a3,Receiving block (BLK) src : /<*> : 56574 dest : /<*> : 50010,1
+c2c83a97,Receiving block (BLK) src : /<*> : 52922 dest : /<*> : 50010,1
+a7446e5b,BLOCK* NameSystem.allocateBlock : /user/root/rand/_temporary/_task_200811092030_0001_m_001866_0/part-01866. (BLK),1
+4f2b3c86,BLOCK* NameSystem.allocateBlock : /user/root/rand/_temporary/_task_200811092030_0001_m_001648_0/part-01648. (BLK),1
+c55c183b,Receiving block (BLK) src : /<*> : 51057 dest : /<*> : 50010,1
+e3184865,BLOCK* NameSystem.addStoredBlock : blockMap updated : <*> : 50010 is added to (BLK) size 3549917,1
+9f3eb4d8,Receiving block (BLK) src : /<*> : 41104 dest : /<*> : 50010,1
+2552876a,Receiving block (BLK) src : /<*> : 51754 dest : /<*> : 50010,1
+7b09659d,Receiving block (BLK) src : /<*> : 34085 dest : /<*> : 50010,1
+bbc5fb2a,Receiving block (BLK) src : /<*> : 37476 dest : /<*> : 50010,1
+9af6791d,Receiving block (BLK) src : /<*> : 52622 dest : /<*> : 50010,1
+dd34fa1c,BLOCK* NameSystem.allocateBlock : /user/root/rand/_temporary/_task_200811092030_0001_m_000487_0/part-00487. (BLK),1
+d34b044d,Receiving block (BLK) src : /<*> : 57542 dest : /<*> : 50010,1
+bc13a756,BLOCK* NameSystem.allocateBlock : /user/root/rand/_temporary/_task_200811092030_0001_m_000742_0/part-00742. (BLK),1
+88322596,BLOCK* NameSystem.allocateBlock : /user/root/rand/_temporary/_task_200811092030_0001_m_000590_0/part-00590. (BLK),1
+ae0c9fb4,Receiving block (BLK) src : /<*> : 53725 dest : /<*> : 50010,1
+b465de60,Receiving block (BLK) src : /<*> : 49851 dest : /<*> : 50010,1
+0a29838d,Receiving block (BLK) src : /<*> : 33145 dest : /<*> : 50010,1
+44b092e1,Received block (BLK) of size 3542967 from /<*>,1
+ec3cbde0,Receiving block (BLK) src : /<*> : 37449 dest : /<*> : 50010,1
+3cb21cbb,Receiving block (BLK) src : /<*> : 36289 dest : /<*> : 50010,1
+806477be,Receiving block (BLK) src : /<*> : 46714 dest : /<*> : 50010,1
+472128e3,BLOCK* NameSystem.allocateBlock : /user/root/randtxt/_temporary/_task_200811092030_0003_m_000705_0/part-00705. (BLK),1
+344ea39f,BLOCK* NameSystem.allocateBlock : /user/root/randtxt/_temporary/_task_200811092030_0003_m_000675_0/part-00675. (BLK),1
+96c6da7c,Receiving block (BLK) src : /<*> : 59752 dest : /<*> : 50010,1
+03c5a7da,BLOCK* NameSystem.allocateBlock : /user/root/randtxt/_temporary/_task_200811092030_0003_m_000392_0/part-00392. (BLK),1
+570ad03f,BLOCK* NameSystem.allocateBlock : /user/root/randtxt/_temporary/_task_200811092030_0003_m_000382_0/part-00382. (BLK),1
+6cb24fdb,Receiving block (BLK) src : /<*> : 56224 dest : /<*> : 50010,1
+1e2ec5b8,Receiving block (BLK) src : /<*> : 53344 dest : /<*> : 50010,1
+b5aeab11,Receiving block (BLK) src : /<*> : 33011 dest : /<*> : 50010,1
+d3edd82e,BLOCK* NameSystem.allocateBlock : /user/root/sortrand/_temporary/_task_200811092030_0002_r_000138_0/part-00138. (BLK),1
+c356e97f,Received block (BLK) of size 25933924 from /<*>,1
+a3062e94,BLOCK* NameSystem.allocateBlock : /user/root/sortrand/_temporary/_task_200811092030_0002_r_000296_0/part-00296. (BLK),1
+d648aea5,Receiving block (BLK) src : /<*> : 48648 dest : /<*> : 50010,1
+12adb6d9,Receiving block (BLK) src : /<*> : 41923 dest : /<*> : 50010,1
+5fd64055,Receiving block (BLK) src : /<*> : 33950 dest : /<*> : 50010,1
+775010d2,Receiving block (BLK) src : /<*> : 39332 dest : /<*> : 50010,1
+bf4066bb,Receiving block (BLK) src : /<*> : 39584 dest : /<*> : 50010,1
+d204890a,Receiving block (BLK) src : /<*> : 38871 dest : /<*> : 50010,1
+0df26be4,Receiving block (BLK) src : /<*> : 46385 dest : /<*> : 50010,1
+974580a5,BLOCK* NameSystem.allocateBlock : /user/root/sortrand/_temporary/_task_200811092030_0002_r_000169_0/part-00169. (BLK),1
+1ff157be,BLOCK* NameSystem.allocateBlock : /user/root/sortrand/_temporary/_task_200811092030_0002_r_000230_0/part-00230. (BLK),1
+bea156af,Receiving block (BLK) src : /<*> : 53397 dest : /<*> : 50010,1
+4753c346,Receiving block (BLK) src : /<*> : 49990 dest : /<*> : 50010,1
+e1f683a8,Receiving block (BLK) src : /<*> : 37374 dest : /<*> : 50010,1
+f627f44b,Receiving block (BLK) src : /<*> : 58165 dest : /<*> : 50010,1
+26732332,BLOCK* NameSystem.allocateBlock : /user/root/rand/_temporary/_task_200811101024_0001_m_000346_0/part-00346. (BLK),1
+a3001086,Receiving block (BLK) src : /<*> : 49611 dest : /<*> : 50010,1
+c4f974bf,Receiving block (BLK) src : /<*> : 57807 dest : /<*> : 50010,1
+2d57c050,Receiving block (BLK) src : /<*> : 58294 dest : /<*> : 50010,1
+6f7663b0,BLOCK* NameSystem.allocateBlock : /user/root/sortrand2/_temporary/_task_200811101024_0003_r_000210_0/part-00210. (BLK),1
+2b2f9df4,Receiving block (BLK) src : /<*> : 51033 dest : /<*> : 50010,1
+fca504cb,Receiving block (BLK) src : /<*> : 44191 dest : /<*> : 50010,1
+b4e9db3e,Receiving block (BLK) src : /<*> : 35757 dest : /<*> : 50010,1
+51c5bca1,Receiving block (BLK) src : /<*> : 45917 dest : /<*> : 50010,1
+52c1de1a,Receiving block (BLK) src : /<*> : 57828 dest : /<*> : 50010,1
+8c67d2e1,Receiving block (BLK) src : /<*> : 40307 dest : /<*> : 50010,1
+729d98f2,Receiving block (BLK) src : /<*> : 40486 dest : /<*> : 50010,1
+70fa0b40,Receiving block (BLK) src : /<*> : 35876 dest : /<*> : 50010,1
+d4ddd057,Receiving block (BLK) src : /<*> : 48872 dest : /<*> : 50010,1
+fa0112b4,BLOCK* NameSystem.allocateBlock : /user/root/sortrand2/_temporary/_task_200811101024_0003_r_000116_0/part-00116. (BLK),1
+69e63760,Receiving block (BLK) src : /<*> : 37518 dest : /<*> : 50010,1
+94f4157f,Receiving block (BLK) src : /<*> : 44166 dest : /<*> : 50010,1
+a54e4370,BLOCK* NameSystem.allocateBlock : /user/root/sortrand2/_temporary/_task_200811101024_0003_r_000257_0/part-00257. (BLK),1
+0f7d520d,Receiving block (BLK) src : /<*> : 55925 dest : /<*> : 50010,1
+64adfe79,BLOCK* NameSystem.allocateBlock : /user/root/sortrand2/_temporary/_task_200811101024_0003_r_000258_0/part-00258. (BLK),1
+b71bb4a2,Receiving block (BLK) src : /<*> : 33460 dest : /<*> : 50010,1
+0c63a43b,BLOCK* NameSystem.allocateBlock : /user/root/randtxt2/_temporary/_task_200811101024_0002_m_001968_1/part-01968. (BLK),1
+382ef00a,BLOCK* NameSystem.addStoredBlock : blockMap updated : <*> : 50010 is added to (BLK) size 28490269,1
+f1c0b6fb,BLOCK* NameSystem.addStoredBlock : blockMap updated : <*> : 50010 is added to (BLK) size 28489733,1
+83eab4c4,Receiving block (BLK) src : /<*> : 36915 dest : /<*> : 50010,1
+9e86505c,Receiving block (BLK) src : /<*> : 47658 dest : /<*> : 50010,1
+b414ba74,Receiving block (BLK) src : /<*> : 47660 dest : /<*> : 50010,1
+413f93d4,Receiving block (BLK) src : /<*> : 46913 dest : /<*> : 50010,1
+e89f1286,Receiving block (BLK) src : /<*> : 43937 dest : /<*> : 50010,1
+bcf5d155,Receiving block (BLK) src : /<*> : 51808 dest : /<*> : 50010,1
+ebd16a9e,Receiving block (BLK) src : /<*> : 34022 dest : /<*> : 50010,1
+2a7b13c8,Receiving block (BLK) src : /<*> : 53705 dest : /<*> : 50010,1
+078b29df,BLOCK* NameSystem.allocateBlock : /user/root/rand3/_temporary/_task_200811101024_0005_m_001091_0/part-01091. (BLK),1
+d1b883be,Receiving block (BLK) src : /<*> : 40699 dest : /<*> : 50010,1
+aba78a4f,Receiving block (BLK) src : /<*> : 35787 dest : /<*> : 50010,1
+622318e6,Receiving block (BLK) src : /<*> : 54793 dest : /<*> : 50010,1
+ea16a9de,BLOCK* NameSystem.allocateBlock : /user/root/rand3/_temporary/_task_200811101024_0005_m_000720_0/part-00720. (BLK),1
+c237c754,Received block (BLK) of size 3554889 from /<*>,1
+8bb69053,Receiving block (BLK) src : /<*> : 60609 dest : /<*> : 50010,1
+f8c69910,Received block (BLK) of size 3552954 from /<*>,1
+774dbd59,<*> : 50010 Starting thread to transfer block (BLK) to <*> : 50010,1
+b6ca6a78,Receiving block (BLK) src : /<*> : 57254 dest : /<*> : 50010,1
+045924d9,Receiving block (BLK) src : /<*> : 55490 dest : /<*> : 50010,1
+ef1ddd39,Receiving block (BLK) src : /<*> : 35590 dest : /<*> : 50010,1
+8c202eed,Receiving block (BLK) src : /<*> : 50122 dest : /<*> : 50010,1
+88fa275c,Receiving block (BLK) src : /<*> : 48041 dest : /<*> : 50010,1
+87e7cd81,Receiving block (BLK) src : /<*> : 43276 dest : /<*> : 50010,1
+8d34a9c3,Receiving block (BLK) src : /<*> : 46600 dest : /<*> : 50010,1
+ce2ebd76,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir8/(BLK),1
+558048c7,Receiving block (BLK) src : /<*> : 42885 dest : /<*> : 50010,1
+30ef27b1,Receiving block (BLK) src : /<*> : 46638 dest : /<*> : 50010,1
+fecc1598,Receiving block (BLK) src : /<*> : 43447 dest : /<*> : 50010,1
+9112f46e,Receiving block (BLK) src : /<*> : 60232 dest : /<*> : 50010,1
+d4af7f58,Receiving block (BLK) src : /<*> : 35639 dest : /<*> : 50010,1
+179d215a,BLOCK* NameSystem.allocateBlock : /user/root/sortrand2/_temporary/_task_200811101024_0003_r_000344_0/part-00344. (BLK),1
+4e25b1ca,BLOCK* NameSystem.allocateBlock : /user/root/sortrand2/_temporary/_task_200811101024_0003_r_000152_0/part-00152. (BLK),1
+fb29e1e6,Receiving block (BLK) src : /<*> : 38983 dest : /<*> : 50010,1
+f52feeee,BLOCK* NameSystem.allocateBlock : /user/root/sortrand2/_temporary/_task_200811101024_0003_r_000315_0/part-00315. (BLK),1
+2ae0f35e,Receiving block (BLK) src : /<*> : 53256 dest : /<*> : 50010,1
+fba78ded,Receiving block (BLK) src : /<*> : 51113 dest : /<*> : 50010,1
+bfc3dbfb,Receiving block (BLK) src : /<*> : 52079 dest : /<*> : 50010,1
+6f241d3c,Receiving block (BLK) src : /<*> : 46080 dest : /<*> : 50010,1
+80fa911d,Receiving block (BLK) src : /<*> : 60539 dest : /<*> : 50010,1
+53a8175f,Receiving block (BLK) src : /<*> : 60294 dest : /<*> : 50010,1
+0653b5b5,Receiving block (BLK) src : /<*> : 47086 dest : /<*> : 50010,1
+5bf07097,Receiving block (BLK) src : /<*> : 47734 dest : /<*> : 50010,1
+dc95767e,BLOCK* NameSystem.allocateBlock : /user/root/randtxt2/_temporary/_task_200811101024_0002_m_000809_0/part-00809. (BLK),1
+fc740eca,BLOCK* NameSystem.allocateBlock : /user/root/randtxt2/_temporary/_task_200811101024_0002_m_001080_0/part-01080. (BLK),1
+4e607061,Receiving block (BLK) src : /<*> : 58266 dest : /<*> : 50010,1
+5dd69ca9,Received block (BLK) of size 28492032 from /<*>,1
+383cb754,Receiving block (BLK) src : /<*> : 56599 dest : /<*> : 50010,1
+417bb307,Receiving block (BLK) src : /<*> : 53564 dest : /<*> : 50010,1
+9a2011e1,Receiving block (BLK) src : /<*> : 54766 dest : /<*> : 50010,1
+0b289810,BLOCK* NameSystem.allocateBlock : /user/root/randtxt2/_temporary/_task_200811101024_0002_m_001335_0/part-01335. (BLK),1
+78853a38,Received block (BLK) of size 3540106 from /<*>,1
+8f0ed5bb,Receiving block (BLK) src : /<*> : 34137 dest : /<*> : 50010,1
+ef61febd,Receiving block (BLK) src : /<*> : 35642 dest : /<*> : 50010,1
+5f34879a,Receiving block (BLK) src : /<*> : 53450 dest : /<*> : 50010,1
+19d0ca5d,Receiving block (BLK) src : /<*> : 34069 dest : /<*> : 50010,1
+167453b6,Receiving block (BLK) src : /<*> : 50123 dest : /<*> : 50010,1
+d5651cf2,BLOCK* NameSystem.allocateBlock : /user/root/randtxt2/_temporary/_task_200811101024_0002_m_000054_0/part-00054. (BLK),1
+bb198e69,Receiving block (BLK) src : /<*> : 43834 dest : /<*> : 50010,1
+46049754,Receiving block (BLK) src : /<*> : 57669 dest : /<*> : 50010,1
+1f1e4de2,Receiving block (BLK) src : /<*> : 57370 dest : /<*> : 50010,1
+400f9601,Receiving block (BLK) src : /<*> : 42844 dest : /<*> : 50010,1
+451bc776,BLOCK* NameSystem.allocateBlock : /user/root/randtxt2/_temporary/_task_200811101024_0002_m_000299_0/part-00299. (BLK),1
+92aa7fe4,Receiving block (BLK) src : /<*> : 44480 dest : /<*> : 50010,1
+fbc0f35e,Receiving block (BLK) src : /<*> : 49088 dest : /<*> : 50010,1
+fb702f94,Receiving block (BLK) src : /<*> : 59569 dest : /<*> : 50010,1
+78098cb0,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir21/(BLK),2
+533fef76,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir47/(BLK),2
+139f7288,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir61/(BLK),2
+bc3c7048,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir9/(BLK),2
+e964cded,BLOCK* NameSystem.allocateBlock : /user/root/sortrand/_temporary/_task_200811092030_0002_r_000318_0/part-00318. (BLK),2
+25a94024,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir58/(BLK),2
+c94010f1,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir17/(BLK),2
+7a4b6a38,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir3/(BLK),2
+08752a8a,BLOCK* ask <*> : 50010 to delete (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK) (BLK),2
+b6d7368f,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir52/(BLK),2
+3b2f3126,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir62/(BLK),2
+075a1e67,BLOCK* ask <*> : 50010 to delete (BLK),2
+67b50bb2,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir22/(BLK),2
+88825534,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir45/(BLK),2
+c00945cd,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir63/(BLK),2
+41aa961f,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir50/(BLK),2
+108e6514,BLOCK* NameSystem.allocateBlock : /user/root/randtxt5/_temporary/_task_200811101024_0012_m_001709_0/part-01709. (BLK),2
+5d371774,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir43/(BLK),2
+ba2c5935,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir25/(BLK),2
+1f79a076,Receiving block (BLK) src : /<*> : 54308 dest : /<*> : 50010,2
+3f4ab133,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir4/(BLK),3
+6963021e,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir37/(BLK),3
+fab3b0cb,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir48/(BLK),3
+99ca4be0,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir7/(BLK),3
+b22a2632,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir13/(BLK),3
+09f93db9,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir10/(BLK),3
+fcd2c0f7,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir11/(BLK),3
+2356b13f,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir23/(BLK),3
+195674be,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir55/(BLK),3
+6b96244d,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir60/(BLK),4
+d75ebb79,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir6/(BLK),4
+1564672d,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir54/(BLK),4
+9ff947e7,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir5/(BLK),4
+7ad8007f,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir41/(BLK),4
+21d3fb56,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir14/(BLK),4
+555b59db,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir53/(BLK),4
+78027265,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir56/(BLK),4
+f36e055a,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir28/(BLK),4
+01bf4339,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir59/(BLK),4
+ca4ce3f7,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir2/(BLK),4
+79bc7db2,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir18/(BLK),5
+32a7a1ae,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir31/(BLK),5
+86513584,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir0/(BLK),5
+8edbf6a0,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir40/(BLK),5
+5abc4647,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir46/(BLK),5
+03f2f106,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir19/(BLK),5
+ca539102,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir30/(BLK),5
+f5bcce93,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir42/(BLK),5
+9d07a989,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir16/(BLK),5
+e20a3f73,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir57/(BLK),6
+ce1f09ea,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir26/(BLK),6
+bda2b806,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir29/(BLK),6
+42181992,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir32/(BLK),6
+18625631,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir39/(BLK),6
+95394f4b,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir35/(BLK),6
+56f6c9a9,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir27/(BLK),6
+b03663a3,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir24/(BLK),6
+41c83730,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir15/(BLK),7
+4f5ad746,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir36/(BLK),7
+9dc8c241,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir1/(BLK),7
+0b3b8e14,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir38/(BLK),8
+dc6b41d7,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir33/(BLK),8
+5f807d13,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/subdir34/(BLK),11
+1271d6b6,Deleting block (BLK) file /mnt/hadoop/dfs/data/current/(BLK),15
+8f24aa61,Verification succeeded for (BLK),20
+f2fb025b,<*> : 50010 Served block (BLK) to /<*>,80
+fbee9fd0,<*> : 50010 : Got exception while serving (BLK) to /<*> :,80
+302a2300,PacketResponder 0 for block (BLK) terminating,100
+ede36145,PacketResponder 2 for block (BLK) terminating,103
+2620ba37,PacketResponder 1 for block (BLK) terminating,108
+bc190ce5,BLOCK* NameSystem.delete : (BLK) is added to invalidSet of <*> : 50010,224
+f2891995,Received block (BLK) of size 67108864 from /<*>,277
+6f0ee124,BLOCK* NameSystem.addStoredBlock : blockMap updated : <*> : 50010 is added to (BLK) size 67108864,294

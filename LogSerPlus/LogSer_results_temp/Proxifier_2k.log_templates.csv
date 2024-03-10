@@ -1,0 +1,195 @@
+EventId,EventTemplate,Occurrences
+882cb0f6,"clients4.google.com:443 close, 4552 bytes (4.44 <*>) sent, 1616 bytes (1.57 <*>) received, lifetime <*>",1
+46b3dac9,"c.trello.com:443 close, 18252 bytes (17.8 <*>) sent, 4768 bytes (4.65 <*>) received, lifetime <*>",1
+5e7009bb,"clients6.google.com:443 close, 16089 bytes (15.7 <*>) sent, 12420 bytes (12.1 <*>) received, lifetime <*>",1
+ea264f23,"play.google.com:443 close, 35212 bytes (34.3 <*>) sent, 22125 bytes (21.6 <*>) received, lifetime <*>",1
+c3dea288,"clients4.google.com:443 close, 8395 bytes (8.19 <*>) sent, 4455 bytes (4.35 <*>) received, lifetime <*>",1
+5eb647da,"play.google.com:443 close, 3874 bytes (3.78 <*>) sent, 2186 bytes (2.13 <*>) received, lifetime <*>",1
+14972ed7,"www.google.com:443 close, 1747 bytes (1.70 <*>) sent, 1218 bytes (1.18 <*>) received, lifetime <*>",1
+e8eefb55,"www.baidu.com:80 close, 11662 bytes (11.3 <*>) sent, 7986 bytes (7.79 <*>) received, lifetime <*>",1
+cdc02ba9,"f12.baidu.com:80 close, 1634 bytes (1.59 <*>) sent, 15284 bytes (14.9 <*>) received, lifetime <*>",1
+85b9f56a,"f12.baidu.com:80 close, 3281 bytes (3.20 <*>) sent, 102173 bytes (99.7 <*>) received, lifetime <*>",1
+fbc2dcb0,"static.blog.csdn.net:80 close, 2188 bytes (2.13 <*>) sent, 41402 bytes (40.4 <*>) received, lifetime <*>",1
+f6984e40,"dc.csdn.net:80 close, 1822 bytes (1.77 <*>) sent, 754 bytes received, lifetime <*>",1
+0c87d563,"beacon.tingyun.com:80 close, 42307 bytes (41.3 <*>) sent, 279 bytes received, lifetime <*>",1
+7c2bd65a,"c.csdnimg.cn:80 close, 1314 bytes (1.28 <*>) sent, 27289 bytes (26.6 <*>) received, lifetime <*>",1
+806251c1,"csdnimg.cn:80 close, 1278 bytes (1.24 <*>) sent, 6854 bytes (6.69 <*>) received, lifetime <*>",1
+a093f20d,"clients4.google.com:443 close, 20249 bytes (19.7 <*>) sent, 20243 bytes (19.7 <*>) received, lifetime <*>",1
+baf9d855,"engine.adzerk.net:443 close, 2508 bytes (2.44 <*>) sent, 7073 bytes (6.90 <*>) received, lifetime <*>",1
+2d6484f8,"clients6.google.com:443 close, 6703 bytes (6.54 <*>) sent, 5167 bytes (5.04 <*>) received, lifetime <*>",1
+d684a759,"www.google.com:443 close, 4012 bytes (3.91 <*>) sent, 6761 bytes (6.60 <*>) received, lifetime <*>",1
+d27653a3,"d.dropbox.com:443 close, 1337 bytes (1.30 <*>) sent, 4946 bytes (4.83 <*>) received, lifetime <*>",1
+c4209c52,"clients6.google.com:443 close, 7738 bytes (7.55 <*>) sent, 8620 bytes (8.41 <*>) received, lifetime <*>",1
+a974a045,"accounts.google.com:443 close, 2834 bytes (2.76 <*>) sent, 1881 bytes (1.83 <*>) received, lifetime <*>",1
+1dbfb8eb,"people-pa.clients6.google.com:443 close, 4301 bytes (4.20 <*>) sent, 15401 bytes (15.0 <*>) received, lifetime <*>",1
+55f35e96,"clients6.google.com:443 close, 5304 bytes (5.17 <*>) sent, 4396 bytes (4.29 <*>) received, lifetime <*>",1
+e6d90c9d,"data.grammarly.com:443 close, 1277 bytes (1.24 <*>) sent, 3833 bytes (3.74 <*>) received, lifetime <*>",1
+c7ba0918,"github.com:443 close, 9626 bytes (9.40 <*>) sent, 287127 bytes (280 <*>) received, lifetime <*>",1
+c49f8a3f,"lh3.googleusercontent.com:443 close, 2694 bytes (2.63 <*>) sent, 8050 bytes (7.86 <*>) received, lifetime <*>",1
+2ef5cc4b,"clients6.google.com:443 close, 2987 bytes (2.91 <*>) sent, 5913 bytes (5.77 <*>) received, lifetime <*>",1
+17663e0c,"pubads.g.doubleclick.net:443 close, 22150 bytes (21.6 <*>) sent, 60543 bytes (59.1 <*>) received, lifetime <*>",1
+ff32279f,"www.google-analytics.com:443 close, 1430 bytes (1.39 <*>) sent, 4938 bytes (4.82 <*>) received, lifetime <*>",1
+e728667f,"engine.adzerk.net:443 close, 2419 bytes (2.36 <*>) sent, 4742 bytes (4.63 <*>) received, lifetime <*>",1
+e4be0254,"clients2.google.com:443 close, 154863 bytes (151 <*>) sent, 321609 bytes (314 <*>) received, lifetime <*>",1
+1789a3e1,"csi.gstatic.com:443 close, 1397 bytes (1.36 <*>) sent, 5154 bytes (5.03 <*>) received, lifetime <*>",1
+3b0d61a7,"pixel.facebook.com:443 close, 1491 bytes (1.45 <*>) sent, 5027 bytes (4.90 <*>) received, lifetime <*>",1
+48054fbc,"www.google.com.hk:443 close, 3443 bytes (3.36 <*>) sent, 67897 bytes (66.3 <*>) received, lifetime <*>",1
+379f12e5,"github.com:443 close, 2774 bytes (2.70 <*>) sent, 27608 bytes (26.9 <*>) received, lifetime <*>",1
+b7ecb142,"avatars1.githubusercontent.com:443 close, 1145 bytes (1.11 <*>) sent, 666 bytes received, lifetime <*>",1
+1e66b181,"clients6.google.com:443 close, 3504 bytes (3.42 <*>) sent, 7037 bytes (6.87 <*>) received, lifetime <*>",1
+712fd553,"www.googleapis.com:443 close, 1792 bytes (1.75 <*>) sent, 6591 bytes (6.43 <*>) received, lifetime <*>",1
+1c0d7623,"avatars3.githubusercontent.com:443 close, 2194 bytes (2.14 <*>) sent, 11695 bytes (11.4 <*>) received, lifetime <*>",1
+349241f7,"live.github.com:443 close, 2931 bytes (2.86 <*>) sent, 2089 bytes (2.04 <*>) received, lifetime <*>",1
+15026e24,"www.google.com:443 close, 2285 bytes (2.23 <*>) sent, 1184 bytes (1.15 <*>) received, lifetime <*>",1
+3a52b031,"ogs.google.com:443 close, 2476 bytes (2.41 <*>) sent, 2643 bytes (2.58 <*>) received, lifetime <*>",1
+761df566,"client-cf.dropbox.com:443 close, 3460 bytes (3.37 <*>) sent, 5211 bytes (5.08 <*>) received, lifetime <*>",1
+1c33a84e,"d.dropbox.com:443 close, 6579 bytes (6.42 <*>) sent, 5944 bytes (5.80 <*>) received, lifetime <*>",1
+a56c531d,"play.google.com:443 close, 40925 bytes (39.9 <*>) sent, 33398 bytes (32.6 <*>) received, lifetime <*>",1
+daa52d54,"people-pa.clients6.google.com:443 close, 1836 bytes (1.79 <*>) sent, 4868 bytes (4.75 <*>) received, lifetime <*>",1
+a570c560,"www.google.com.hk:443 close, 4710 bytes (4.59 <*>) sent, 71939 bytes (70.2 <*>) received, lifetime <*>",1
+037d4761,"info.pinyin.sogou.com:80 close, 1041 bytes (1.01 <*>) sent, 607 bytes received, lifetime <*>",1
+b8b9dc3f,"client-lb.dropbox.com:443 close, 1531 bytes (1.49 <*>) sent, 16765 bytes (16.3 <*>) received, lifetime <*>",1
+69c219c9,"play.google.com:443 close, 8399 bytes (8.20 <*>) sent, 9521 bytes (9.29 <*>) received, lifetime <*>",1
+092e331a,"play.google.com:443 close, 6339 bytes (6.19 <*>) sent, 3969 bytes (3.87 <*>) received, lifetime <*>",1
+261e81b4,"www.googleadservices.com:443 close, 1188 bytes (1.16 <*>) sent, 5007 bytes (4.88 <*>) received, lifetime <*>",1
+7c58d671,"qa.sockets.stackexchange.com:443 close, 4755 bytes (4.64 <*>) sent, 4917 bytes (4.80 <*>) received, lifetime <*>",1
+049f6c6b,"13.client-channel.google.com:443 close, 14267 bytes (13.9 <*>) sent, 36698 bytes (35.8 <*>) received, lifetime <*>",1
+57f2765e,"clients6.google.com:443 close, 5015 bytes (4.89 <*>) sent, 2599 bytes (2.53 <*>) received, lifetime <*>",1
+983fd923,"clients6.google.com:443 close, 3215 bytes (3.13 <*>) sent, 1174 bytes (1.14 <*>) received, lifetime <*>",1
+757ac3c7,"bolt.dropbox.com:443 close, 15427 bytes (15.0 <*>) sent, 8268 bytes (8.07 <*>) received, lifetime <*>",1
+a410bff8,"clients6.google.com:443 close, 6895 bytes (6.73 <*>) sent, 3475 bytes (3.39 <*>) received, lifetime <*>",1
+15c15c3b,"clients4.google.com:443 close, 2302 bytes (2.24 <*>) sent, 5187 bytes (5.06 <*>) received, lifetime <*>",1
+9a8a2d25,"info.pinyin.sogou.com:80 close, 1035 bytes (1.01 <*>) sent, 40820 bytes (39.8 <*>) received, lifetime <*>",1
+0b2629d8,"client-cf.dropbox.com:443 close, 22083 bytes (21.5 <*>) sent, 71944 bytes (70.2 <*>) received, lifetime <*>",1
+dc1c2e03,"client-cf.dropbox.com:443 close, 9985 bytes (9.75 <*>) sent, 9719 bytes (9.49 <*>) received, lifetime <*>",1
+47c84f86,"video-hkg3-2.xx.fbcdn.net:443 close, 58373 bytes (57.0 <*>) sent, 8896991 bytes (8.48 <*>) received, lifetime <*>",1
+568188e3,"pagead2.googlesyndication.com:443 close, 16398 bytes (16.0 <*>) sent, 93642 bytes (91.4 <*>) received, lifetime <*>",1
+90205150,"play.google.com:443 close, 2130 bytes (2.08 <*>) sent, 1009 bytes received, lifetime <*>",1
+6ad6919c,"clients4.google.com:443 close, 7063 bytes (6.89 <*>) sent, 15399 bytes (15.0 <*>) received, lifetime <*>",1
+b3be2b1a,"trello.com:443 close, 2168 bytes (2.11 <*>) sent, 605 bytes received, lifetime <*>",1
+b4649023,"qa.sockets.stackexchange.com:443 close, 1603 bytes (1.56 <*>) sent, 527 bytes received, lifetime <*>",1
+2c832d22,"hangouts.google.com:443 close, 13281 bytes (12.9 <*>) sent, 19539 bytes (19.0 <*>) received, lifetime <*>",1
+fe73e03c,"pubads.g.doubleclick.net:443 close, 6044 bytes (5.90 <*>) sent, 22964 bytes (22.4 <*>) received, lifetime <*>",1
+71ec6fde,"suggestion.baidu.com:80 close, 1383 bytes (1.35 <*>) sent, 392 bytes received, lifetime <*>",1
+7f648df4,"r16---sn-i3b7knez.googlevideo.com:443 close, 6014 bytes (5.87 <*>) sent, 904350 bytes (883 <*>) received, lifetime <*>",1
+6b25ff65,"sb.scorecardresearch.com:443 close, 3818 bytes (3.72 <*>) sent, 6276 bytes (6.12 <*>) received, lifetime <*>",1
+1df03fda,"tc.dl.pinyin.sogoucdn.com:80 close, 1537 bytes (1.50 <*>) sent, 7856 bytes (7.67 <*>) received, lifetime <*>",1
+296b4634,"www.google.com:443 close, 3218 bytes (3.14 <*>) sent, 24541 bytes (23.9 <*>) received, lifetime <*>",1
+e4eb667a,"r2---sn-i3b7kne6.googlevideo.com:443 close, 17742 bytes (17.3 <*>) sent, 11581393 bytes (11.0 <*>) received, lifetime <*>",1
+4cd9013a,"static.doubleclick.net:443 close, 2553 bytes (2.49 <*>) sent, 641 bytes received, lifetime <*>",1
+aa9dde69,"yt3.ggpht.com:443 close, 7886 bytes (7.70 <*>) sent, 69275 bytes (67.6 <*>) received, lifetime <*>",1
+cbcd7c3a,"pagead2.googlesyndication.com:443 close, 8439 bytes (8.24 <*>) sent, 41643 bytes (40.6 <*>) received, lifetime <*>",1
+69701e13,"plus.google.com:443 close, 2130 bytes (2.08 <*>) sent, 1035 bytes (1.01 <*>) received, lifetime <*>",1
+f2530f1e,"www.google.com:443 close, 13303 bytes (12.9 <*>) sent, 2325 bytes (2.27 <*>) received, lifetime <*>",1
+035220c9,"scontent-hkg3-2.xx.fbcdn.net:443 close, 3732 bytes (3.64 <*>) sent, 804155 bytes (785 <*>) received, lifetime <*>",1
+087faa85,"play.google.com:443 close, 4837 bytes (4.72 <*>) sent, 7412 bytes (7.23 <*>) received, lifetime <*>",1
+90ce33d8,"www.weibo.com:80 close, 2741 bytes (2.67 <*>) sent, 4016 bytes (3.92 <*>) received, lifetime <*>",1
+23d6d48c,"notifications.google.com:443 close, 19334 bytes (18.8 <*>) sent, 8031 bytes (7.84 <*>) received, lifetime <*>",1
+295a6ef4,"strip.alicdn.com:80 close, 1596 bytes (1.55 <*>) sent, 29034 bytes (28.3 <*>) received, lifetime <*>",1
+d2707101,"www.baidu.com:80 close, 6719 bytes (6.56 <*>) sent, 644545 bytes (629 <*>) received, lifetime <*>",1
+3d6d7361,"pos.baidu.com:80 close, 1822 bytes (1.77 <*>) sent, 1370 bytes (1.33 <*>) received, lifetime <*>",1
+47d0ce32,"timg.baidu.com:80 close, 1299 bytes (1.26 <*>) sent, 4993 bytes (4.87 <*>) received, lifetime <*>",1
+02978771,"www.googletagservices.com:443 close, 1257 bytes (1.22 <*>) sent, 540 bytes received, lifetime <*>",1
+c489201f,"yt3.ggpht.com:443 close, 10542 bytes (10.2 <*>) sent, 356545 bytes (348 <*>) received, lifetime <*>",1
+9bc21685,"www.google.com:443 close, 1740 bytes (1.69 <*>) sent, 21911 bytes (21.3 <*>) received, lifetime <*>",1
+0fe48430,"safebrowsing.googleapis.com:443 close, 1344 bytes (1.31 <*>) sent, 1170 bytes (1.14 <*>) received, lifetime <*>",1
+027e79eb,"css.sohu.com:80 close, 3549 bytes (3.46 <*>) sent, 108371 bytes (105 <*>) received, lifetime <*>",1
+bae4a051,"clients6.google.com:443 close, 3216 bytes (3.14 <*>) sent, 2391 bytes (2.33 <*>) received, lifetime <*>",1
+c0a5f739,"i.ytimg.com:443 close, 2836 bytes (2.76 <*>) sent, 125622 bytes (122 <*>) received, lifetime <*>",1
+1841ab32,"r6---sn-i3b7kn7d.googlevideo.com:443 close, 12789 bytes (12.4 <*>) sent, 13833013 bytes (13.1 <*>) received, lifetime <*>",1
+1d707b7b,"odr.mookie1.com:443 close, 1045 bytes (1.02 <*>) sent, 5662 bytes (5.52 <*>) received, lifetime <*>",1
+d23f9eaf,"r6---sn-i3b7knez.googlevideo.com:443 close, 13118 bytes (12.8 <*>) sent, 3242984 bytes (3.09 <*>) received, lifetime <*>",1
+fbca3cc2,"pos.baidu.com:80 close, 3783 bytes (3.69 <*>) sent, 38448 bytes (37.5 <*>) received, lifetime <*>",1
+f201ddce,"www.weibo.com:80 close, 11058 bytes (10.7 <*>) sent, 451 bytes received, lifetime <*>",1
+36bd91ef,"suggestion.baidu.com:80 close, 1829 bytes (1.78 <*>) sent, 1039 bytes (1.01 <*>) received, lifetime <*>",1
+5904f2a0,"cm.g.doubleclick.net:443 close, 2197 bytes (2.14 <*>) sent, 1527 bytes (1.49 <*>) received, lifetime <*>",1
+0a644ebd,"oimagea7.ydstatic.com:80 close, 414 bytes sent, 41182 bytes (40.2 <*>) received, lifetime <*>",1
+53e7afb0,"app.4399.cn:80 close, 1381 bytes (1.34 <*>) sent, 38524 bytes (37.6 <*>) received, lifetime <*>",1
+ec1bcf68,"p.inte.sogou.com:80 close, 5061 bytes (4.94 <*>) sent, 1248 bytes (1.21 <*>) received, lifetime <*>",1
+7ecaa4f8,"BAYMSGR2012806.gateway.messenger.live.com:443 close, 13155 bytes (12.8 <*>) sent, 21737 bytes (21.2 <*>) received, lifetime <*>",1
+c3c4b90f,"www.gstatic.com:443 close, 1239 bytes (1.20 <*>) sent, 20185 bytes (19.7 <*>) received, lifetime <*>",1
+067d142a,"r2---sn-i3b7kn7r.googlevideo.com:443 close, 2883 bytes (2.81 <*>) sent, 90785 bytes (88.6 <*>) received, lifetime <*>",1
+f06b8f09,"proxy.cse.cuhk.edu.hk:5070 close, 1190 bytes (1.16 <*>) sent, 1671 bytes (1.63 <*>) received, lifetime <*>",1
+e524bce8,"proxy.cse.cuhk.edu.hk:5070 close, 1165 bytes (1.13 <*>) sent, 3098 bytes (3.02 <*>) received, lifetime <*>",1
+5431c875,"proxy.cse.cuhk.edu.hk:5070 close, 19904 bytes (19.4 <*>) sent, 27629 bytes (26.9 <*>) received, lifetime <*>",1
+def6c0c3,"proxy.cse.cuhk.edu.hk:5070 close, 1268 bytes (1.23 <*>) sent, 6274 bytes (6.12 <*>) received, lifetime <*>",1
+f183450e,"proxy.cse.cuhk.edu.hk:5070 close, 1327 bytes (1.29 <*>) sent, 3250 bytes (3.17 <*>) received, lifetime <*>",1
+38723cb3,"proxy.cse.cuhk.edu.hk:5070 close, 1107 bytes (1.08 <*>) sent, 29322 bytes (28.6 <*>) received, lifetime <*>",1
+08045eca,"proxy.cse.cuhk.edu.hk:5070 close, 7829 bytes (7.64 <*>) sent, 578548 bytes (564 <*>) received, lifetime <*>",1
+57c1ee06,"proxy.cse.cuhk.edu.hk:5070 close, 3425 bytes (3.34 <*>) sent, 212164 bytes (207 <*>) received, lifetime <*>",1
+30e36ee4,"r1---sn-i3belnez.googlevideo.com:443 close, 10046 bytes (9.81 <*>) sent, 5657896 bytes (5.39 <*>) received, lifetime <*>",1
+320e6866,"v.admaster.com.cn:80 close, 4121 bytes (4.02 <*>) sent, 4104 bytes (4.00 <*>) received, lifetime <*>",1
+92c67885,"183.62.156.1<*> close, 89652 bytes (87.5 <*>) sent, 599249 bytes (585 <*>) received, lifetime <*>",1
+5f40f2c3,"qqmail.tencent.com:80 close, 336 bytes sent, 2854 bytes (2.78 <*>) received, lifetime <*>",1
+7c452c6f,"showxml.qq.com:80 close, 600 bytes sent, 1716 bytes (1.67 <*>) received, lifetime <*>",1
+4a107caf,"2052.flash2-http.qq.com:80 close, 466 bytes sent, 125682 bytes (122 <*>) received, lifetime <*>",1
+8f593469,"i2.itc.cn:80 close, 1330 bytes (1.29 <*>) sent, 62141 bytes (60.6 <*>) received, lifetime <*>",1
+f460170e,"oimageb7.ydstatic.com:80 close, 357 bytes sent, 24275 bytes (23.7 <*>) received, lifetime <*>",1
+07b1987d,"www.google.com:443 close, 9034 bytes (8.82 <*>) sent, 3696 bytes (3.60 <*>) received, lifetime <*>",1
+ef3f8d00,"f10.baidu.com:80 close, 6956 bytes (6.79 <*>) sent, 101059 bytes (98.6 <*>) received, lifetime <*>",1
+ac0b49c9,"www.qulishi.com:80 close, 1581 bytes (1.54 <*>) sent, 79427 bytes (77.5 <*>) received, lifetime <*>",1
+3d934f32,"www.baidu.com:80 close, 2590 bytes (2.52 <*>) sent, 621 bytes received, lifetime <*>",1
+27a9eb40,"upload.3367.com:80 close, 2331 bytes (2.27 <*>) sent, 440133 bytes (429 <*>) received, lifetime <*>",1
+f8c1e537,"www.youtube.com:443 close, 30789 bytes (30.0 <*>) sent, 164940 bytes (161 <*>) received, lifetime <*>",1
+b89b7bab,"res.wx.qq.com:443 close, 1582 bytes (1.54 <*>) sent, 40194 bytes (39.2 <*>) received, lifetime <*>",1
+074ac51d,"www.google.com:443 close, 2020 bytes (1.97 <*>) sent, 17986 bytes (17.5 <*>) received, lifetime <*>",1
+3a3fda40,"dl-debug.dropbox.com:443 close, 163539 bytes (159 <*>) sent, 4712 bytes (4.60 <*>) received, lifetime <*>",1
+f7305e61,"long.open.weixin.qq.com:443 close, 1985 bytes (1.93 <*>) sent, 4832 bytes (4.71 <*>) received, lifetime <*>",1
+a6c0577f,"ping.pinyin.sogou.com:80 close, 1109 bytes (1.08 <*>) sent, 332 bytes received, lifetime <*>",1
+247c7e6f,"i7.baidu.com:80 close, 2813 bytes (2.74 <*>) sent, 23975 bytes (23.4 <*>) received, lifetime <*>",1
+1b26744a,"clients6.google.com:443 close, 4318 bytes (4.21 <*>) sent, 1951 bytes (1.90 <*>) received, lifetime <*>",1
+67fb5dd1,"live.github.com:443 close, 1207 bytes (1.17 <*>) sent, 452 bytes received, lifetime <*>",1
+6d3f4b2d,"pv.mini.sohu.com:80 close, 1941 bytes (1.89 <*>) sent, 1363 bytes (1.33 <*>) received, lifetime <*>",1
+7ac340d7,"www.google.com.hk:443 close, 24256 bytes (23.6 <*>) sent, 434160 bytes (423 <*>) received, lifetime <*>",1
+52203bb2,"play.google.com:443 close, 33864 bytes (33.0 <*>) sent, 22082 bytes (21.5 <*>) received, lifetime <*>",1
+bbfe0dae,"apis.google.com:443 close, 2498 bytes (2.43 <*>) sent, 5835 bytes (5.69 <*>) received, lifetime <*>",1
+7091ae05,"content.googleapis.com:443 close, 2094 bytes (2.04 <*>) sent, 623 bytes received, lifetime <*>",1
+ad2cc8ed,"www.zhihu.com:443 close, 1685 bytes (1.64 <*>) sent, 10151 bytes (9.91 <*>) received, lifetime <*>",1
+2e392362,"rs.sinajs.cn:80 close, 1187 bytes (1.15 <*>) sent, 472 bytes received, lifetime <*>",1
+7bd973fb,"www.google-analytics.com:443 close, 1770 bytes (1.72 <*>) sent, 5146 bytes (5.02 <*>) received, lifetime <*>",1
+8a20bf6d,"changyan.sohu.com:80 close, 6361 bytes (6.21 <*>) sent, 6197 bytes (6.05 <*>) received, lifetime <*>",1
+d9a49946,"pv.mini.sohu.com:80 close, 1510 bytes (1.47 <*>) sent, 1293 bytes (1.26 <*>) received, lifetime <*>",1
+d09c6236,"sclick.baidu.com:80 close, 1971 bytes (1.92 <*>) sent, 401 bytes received, lifetime <*>",1
+bb28b332,"client-cf.dropbox.com:443 close, 3934 bytes (3.84 <*>) sent, 5647 bytes (5.51 <*>) received, lifetime <*>",1
+5dcb0f9f,"client-cf.dropbox.com:443 close, 4478 bytes (4.37 <*>) sent, 16913 bytes (16.5 <*>) received, lifetime <*>",1
+f0b89707,"www.google.com.hk:443 close, 2411 bytes (2.35 <*>) sent, 2093 bytes (2.04 <*>) received, lifetime <*>",1
+6fbfc0a2,"block-edge.dropbox.com:443 close, 861480 bytes (841 <*>) sent, 5464 bytes (5.33 <*>) received, lifetime <*>",1
+7f98567c,"capi.grammarly.com:443 close, 4974 bytes (4.85 <*>) sent, 8661 bytes (8.45 <*>) received, lifetime <*>",1
+2a48b2ab,"3.client-channel.google.com:443 close, 27694 bytes (27.0 <*>) sent, 165991 bytes (162 <*>) received, lifetime <*>",1
+bfdabe82,"i9.baidu.com:80 close, 1671 bytes (1.63 <*>) sent, 4659 bytes (4.54 <*>) received, lifetime <*>",1
+abb1a655,"cidian.youdao.com:80 close, 2369 bytes (2.31 <*>) sent, 1583 bytes (1.54 <*>) received, lifetime <*>",1
+b46e1462,"www.evernote.com:443 close, 4733 bytes (4.62 <*>) sent, 8179 bytes (7.98 <*>) received, lifetime <*>",1
+57081d67,"dj1.baidu.com:80 close, 1369 bytes (1.33 <*>) sent, 289 bytes received, lifetime <*>",1
+2d1a5538,"www.baidu.com:80 close, 9987 bytes (9.75 <*>) sent, 148343 bytes (144 <*>) received, lifetime <*>",1
+1300a016,"clients6.google.com:443 close, 3025 bytes (2.95 <*>) sent, 6726 bytes (6.56 <*>) received, lifetime <*>",1
+8a7a9af9,"13.client-channel.google.com:443 close, 16473 bytes (16.0 <*>) sent, 42641 bytes (41.6 <*>) received, lifetime <*>",1
+03459252,"clients4.google.com:443 close, 11736 bytes (11.4 <*>) sent, 8496 bytes (8.29 <*>) received, lifetime <*>",1
+cd1258f3,"<*> close, <*> bytes (1.14 <*>) sent, 11041 bytes (10.7 <*>) received, lifetime <*>",2
+f4edb183,"d.dropbox.com:443 close, <*> bytes <*> <*>) sent, <*> bytes (4.85 <*>) received, lifetime <*>",2
+0bc8b87b,"<*> close, <*> bytes (1.02 <*>) sent, <*> bytes received, lifetime <*>",2
+8cfc5394,"<*> close, 1227 bytes (1.19 <*>) sent, <*> bytes <*> <*>) received, lifetime <*>",2
+607d18a9,"<*> close, <*> bytes <*> <*>) sent, 17802 bytes (17.3 <*>) received, lifetime <*>",2
+a48029b6,"<*> close, 1915 bytes (1.87 <*>) sent, <*> bytes <*> <*>) received, lifetime <*>",2
+ac1a8628,"<*> close, <*> bytes <*> <*>) sent, 2035 bytes (1.98 <*>) received, lifetime <*>",2
+7ba35a8e,"eclick.baidu.com:80 close, <*> bytes <*> <*>) sent, 311 bytes received, lifetime <*>",2
+be69f32b,183.62.156.1<*> open through proxy socks.cse.cuhk.edu.hk:5070 SOCKS5,2
+fbe5a08a,"client-cf.dropbox.com:443 close, 1573 bytes (1.53 <*>) sent, <*> bytes (16.3 <*>) received, lifetime <*>",3
+6813ad67,"f-log-extension.grammarly.io:443 close, <*> bytes (1.33 <*>) sent, <*> bytes <*> <*>) received, lifetime <*>",3
+821089d8,"client-cf.dropbox.com:443 close, 5129 bytes (5.00 <*>) sent, <*> bytes (16.6 <*>) received, lifetime <*>",3
+0ac0b4d8,<*> error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy closed the connection unexpectedly.,3
+5ec932dd,"proxy.cse.cuhk.edu.hk:5070 close, <*> bytes (1.10 <*>) sent, <*> bytes <*> <*>) received, lifetime <*>",3
+308288a7,"safebrowsing.googleapis.com:443 close, <*> bytes <*> <*>) sent, <*> bytes <*> <*>) received, lifetime <*>",4
+ed851912,"clients4.google.com:443 close, <*> bytes <*> <*>) sent, <*> bytes received, lifetime <*>",4
+e4bdced2,"www.googleapis.com:443 close, <*> bytes <*> <*>) sent, <*> bytes <*> <*>) received, lifetime <*>",4
+7207c95c,"long.open.weixin.qq.com:443 close, 1910 bytes (1.86 <*>) sent, 276 bytes received, lifetime <*>",5
+a9b16f9a,"clients6.google.com:443 close, <*> bytes <*> <*>) sent, <*> bytes received, lifetime <*>",5
+82b8fd57,"www.evernote.com:443 close, <*> bytes <*> <*>) sent, <*> bytes <*> <*>) received, lifetime <*>",8
+3ed31750,"<*> error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code <*>",17
+e576ea67,<*> error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001,20
+bd2110d9,<*> error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061,26
+cb4cfc43,<*> error : A connection request was canceled before the completion.,31
+8de4f8f9,"<*> close, <*> bytes sent, <*> bytes <*> <*>) received, lifetime <*>",103
+4603fbe2,"proxy.cse.cuhk.edu.hk:5070 close, <*> bytes <*> <*>) sent, <*> bytes <*> <*>) received, lifetime <*>",121
+e8614ee8,"proxy.cse.cuhk.edu.hk:5070 close, <*> bytes <*> sent, <*> bytes <*> received, lifetime <*>",145
+dff2fdce,"<*> close, <*> bytes sent, <*> bytes received, lifetime <*>",355
+a453f0e8,<*> open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,954

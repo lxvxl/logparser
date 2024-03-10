@@ -1,0 +1,28 @@
+EventId,EventTemplate,Occurrences
+7d8b6b51,"While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor.",1
+6fdecc45,Running instance usage audit for host cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us from <*>-<*>-<*> <*> <*> <*> to <*>-<*>-<*> <*> <*> <*>. <*> instances.,1
+732653ea,Successfully synced instances from host 'cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us'.,2
+41c623ba,The instance sync for host 'cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us' did not match. Re-created its InstanceList.,5
+e6ff7645,Base or swap file too young to remove /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,9
+c61d7e85,Final resource view name=cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us phys_ram=<*>MB used_ram=<*>MB phys_disk=<*>GB used_disk=<*>GB total_vcpus=<*> used_vcpus=<*> pci_stats=[],15
+76316dc9,"Total usable vcpus <*>, total allocated vcpus <*>",15
+304a219c,Auditing locally available compute resources for node cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us,15
+2cd466e5,Compute_service record updated for cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us,15
+829a8040,HTTP exception thrown No instances found for any event,21
+131c0427,"[instance (INST)] Attempting claim memory <*> MB, disk <*> GB, vcpus <*> CPU",21
+2e06fecb,Removing base or swap file /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,21
+6cacaad0,[instance (INST)] Took <*>.<*> seconds to deallocate network for instance.,21
+741c3d38,[instance (INST)] Deleting instance files /var/lib/nova/instances/(INST)_del,21
+166f9f09,"[instance (INST)] <*> <*> <*> MB, <*> <*>.<*> MB",22
+04f16e94,[instance (INST)] Took <*>.<*> seconds to build instance.,22
+74aabb51,Creating event network-vif-plugged (INST) for instance (INST),22
+5849d917,"[instance (INST)] <*> limit not specified, defaulting to unlimited",42
+717ca5a8,[instance (INST)] Took <*>.<*> seconds to <*> the instance on the hypervisor.,43
+8d12f4d0,[instance (INST)] During sync_power_state the instance has a pending task (spawning). Skip.,43
+f0d6b86f,[instance (INST)] Total <*> <*> <*> used <*>.<*> <*>,62
+a16852a5,image (INST) at (<*>checking,82
+55de4304,"image (INST) at (<*>in use on this node <*> local, <*> on other nodes sharing this instance storage",82
+68900064,[instance (INST)] VM <*> (Lifecycle Event),109
+b08341df,[instance (INST)] <*> <*> <*>,129
+46279cb0,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,142
+7fcf9eb5,<*> <*> <*>HTTP<*>status <*> len <*> time <*>.<*>,1017

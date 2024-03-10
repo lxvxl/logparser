@@ -1,0 +1,9 @@
+EventId,EventTemplate,Occurrences
+be69f32b,183.62.156.1<*> open through proxy socks.cse.cuhk.edu.hk:5070 SOCKS5,2
+0ac0b4d8,<*> error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy closed the connection unexpectedly.,3
+3ed31750,"<*> error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code <*>",17
+e576ea67,<*> error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001,20
+bd2110d9,<*> error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061,26
+cb4cfc43,<*> error : A connection request was canceled before the completion.,31
+818c9a05,"<*> close, <*> bytes <*> <*> sent, <*> bytes <*> received, lifetime <*>",947
+a453f0e8,<*> open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,954

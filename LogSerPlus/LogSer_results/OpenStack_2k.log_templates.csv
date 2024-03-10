@@ -1,0 +1,44 @@
+EventId,EventTemplate,Occurrences
+7d8b6b51,"While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor.",1
+6fdecc45,Running instance usage audit for host cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us from <*>-<*>-<*> <*> <*> <*> to <*>-<*>-<*> <*> <*> <*>. <*> instances.,1
+732653ea,Successfully synced instances from host 'cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us'.,2
+41c623ba,The instance sync for host 'cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us' did not match. Re-created its InstanceList.,5
+e6ff7645,Base or swap file too young to remove /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,9
+2cd466e5,Compute_service record updated for cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us,15
+c61d7e85,Final resource view name=cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us phys_ram=<*>MB used_ram=<*>MB phys_disk=<*>GB used_disk=<*>GB total_vcpus=<*> used_vcpus=<*> pci_stats=[],15
+76316dc9,"Total usable vcpus <*>, total allocated vcpus <*>",15
+304a219c,Auditing locally available compute resources for node cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us,15
+701a61cb,[instance (INST)] VM Stopped (Lifecycle Event),21
+2e06fecb,Removing base or swap file /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,21
+829a8040,HTTP exception thrown No instances found for any event,21
+131c0427,"[instance (INST)] Attempting claim memory <*> MB, disk <*> GB, vcpus <*> CPU",21
+9e90eb5d,"[instance (INST)] Total memory <*> MB, used <*>.<*> MB",21
+6cacaad0,[instance (INST)] Took <*>.<*> seconds to deallocate network for instance.,21
+a6afa4a1,"[instance (INST)] disk limit not specified, defaulting to unlimited",21
+d917ccaa,"[instance (INST)] Total vcpu <*> VCPU, used <*>.<*> VCPU",21
+bcf91d26,"[instance (INST)] vcpu limit not specified, defaulting to unlimited",21
+d89aabcf,[instance (INST)] Claim successful,21
+91e7fd0d,[instance (INST)] Creating image,21
+39d5c0f7,"[instance (INST)] memory limit <*>.<*> MB, free <*>.<*> MB",21
+0eedd8d9,"[instance (INST)] Total disk <*> GB, used <*>.<*> GB",21
+27cf4823,[instance (INST)] Deletion of <*>complete,21
+741c3d38,[instance (INST)] Deleting instance files /var/lib/nova/instances/(INST)_del,21
+42501341,[instance (INST)] Took <*>.<*> seconds to destroy the instance on the hypervisor.,21
+f9b80a5d,[instance (INST)] Instance destroyed successfully.,22
+600f9834,[instance (INST)] Terminating instance,22
+3aa67099,"<*> ""DELETE <*>HTTP<*>status <*> len <*> time <*>.<*>",22
+04f16e94,[instance (INST)] Took <*>.<*> seconds to build instance.,22
+19f2272b,[instance (INST)] Took <*>.<*> seconds to spawn the instance on the hypervisor.,22
+0cc7e96d,[instance (INST)] Instance spawned successfully.,22
+3c0a49d7,[instance (INST)] VM Started (Lifecycle Event),22
+74aabb51,Creating event network-vif-plugged (INST) for instance (INST),22
+c68e26ad,[instance (INST)] VM Paused (Lifecycle Event),22
+ef22ecc0,Unknown base file /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,30
+6d4eba6f,Removable base files /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,30
+8d12f4d0,[instance (INST)] During sync_power_state the instance has a pending task (spawning). Skip.,43
+d39d7c68,[instance (INST)] VM Resumed (Lifecycle Event),44
+4dba6664,"<*> ""POST <*>HTTP<*>status <*> len <*> time <*>.<*>",64
+55de4304,"image (INST) at (<*>in use on this node <*> local, <*> on other nodes sharing this instance storage",82
+181762c5,Active base files /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,82
+a16852a5,image (INST) at (<*>checking,82
+231762c7,"<*> ""GET <*>HTTP<*>status <*> len <*> time <*>.<*>",931

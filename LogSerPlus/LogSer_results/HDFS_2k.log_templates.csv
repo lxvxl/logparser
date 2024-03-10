@@ -1,0 +1,15 @@
+EventId,EventTemplate,Occurrences
+774dbd59,<*> : 50010 Starting thread to transfer block (BLK) to <*> : 50010,1
+8f9ad13a,BLOCK* ask <*> : 50010 to replicate (BLK) to datanode(s) <*> : 50010,1
+b239b454,Received block (BLK) src : /<*> : <*> dest : /<*> : 50010 of size 67108864,2
+2e8ca590,BLOCK* ask <*> : 50010 to delete (BLK) <*>,5
+8f24aa61,Verification succeeded for (BLK),20
+f2fb025b,<*> : 50010 Served block (BLK) to /<*>,80
+fbee9fd0,<*> : 50010 : Got exception while serving (BLK) to /<*> :,80
+a5146e07,BLOCK* NameSystem.allocateBlock : <*> (BLK),115
+bc190ce5,BLOCK* NameSystem.delete : (BLK) is added to invalidSet of <*> : 50010,224
+c83fddbf,Deleting block (BLK) file <*>,263
+5a79c3d2,Received block (BLK) of size <*> from /<*>,292
+e47340d4,Receiving block (BLK) src : /<*> : <*> dest : /<*> : 50010,292
+d3976bf5,PacketResponder <*> for block (BLK) terminating,311
+0410fb6b,BLOCK* NameSystem.addStoredBlock : blockMap updated : <*> : 50010 is added to (BLK) size <*>,314

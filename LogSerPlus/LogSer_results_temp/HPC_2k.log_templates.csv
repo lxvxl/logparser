@@ -1,0 +1,372 @@
+EventId,EventTemplate,Occurrences
+935385dd,Component State Change : Component \042SCSI-WWID : 01000010 : 6005-08b4-0001-00c6-0006-3000-003d-0000\042 is in the unavailable state ((HWID)),1
+25a6a125,ClusterFileSystem : ServerFileSystem domain cluster_usr_backup is no longer served by node node-160,1
+5ceae511,ClusterFileSystem : ServerFileSystem domain root25_local is no longer served by node node-216,1
+8491c818,ClusterFileSystem : ServerFileSystem domain root8_domain is no longer served by node node-167,1
+3d584e68,ClusterFileSystem : ServerFileSystem domain storage211 is no longer served by node node-4,1
+5e88f78f,ClusterFileSystem : ServerFileSystem domain root14_tmp is no longer served by node node-45,1
+8050434b,ClusterFileSystem : ServerFileSystem domain root23_local is no longer served by node node-182,1
+f4c65313,ClusterFileSystem : ServerFileSystem domain root12_tmp is no longer served by node node-11,1
+a699b640,ClusterFileSystem : ServerFileSystem domain storage534 is no longer served by node node-18,1
+cdf10ff2,ClusterFileSystem : ServerFileSystem domain root6_domain is no longer served by node node-37,1
+0d856175,ClusterFileSystem : ServerFileSystem domain root14_local is no longer served by node node-77,1
+bf894727,ClusterFileSystem : ServerFileSystem domain root19_domain is no longer served by node node-114,1
+b86decb8,ClusterFileSystem : ServerFileSystem domain storage343 is no longer served by node node-11,1
+c0c9cdc8,ClusterFileSystem : ServerFileSystem domain storage1422 is no longer served by node node-245,1
+992e6a1a,ClusterFileSystem : ServerFileSystem domain root5_tmp is no longer served by node node-228,1
+1c249e57,ClusterFileSystem : ServerFileSystem domain root28_domain is no longer served by node node-187,1
+32ee6b4b,ClusterFileSystem : ServerFileSystem domain root5_domain is no longer served by node node-196,1
+df467f6c,ClusterFileSystem : ServerFileSystem domain root12_domain is no longer served by node node-11,1
+92aa5fb5,ClusterFileSystem : ServerFileSystem domain root_domain is no longer served by node node-128,1
+7f166a24,ClusterFileSystem : ServerFileSystem domain root29_local is no longer served by node node-28,1
+b0c27172,ClusterFileSystem : ServerFileSystem domain root24_local is no longer served by node node-247,1
+39c68fc0,ClusterFileSystem : ServerFileSystem domain root17_domain is no longer served by node node-240,1
+2706b4fa,boot (command 2092) Error : HALT asserted\ cannot continue,1
+fc3695d9,risBoot (command 1903) Error : Timed out while waiting for SRM prompt : <ABORT code completed>,1
+74365a10,ambient = 37,1
+36da96fe,ambient = 23,1
+86d6833d,inconsistent nodesets node-31 0x1fffffffe <ok> node-0 0xfffffffe <ok> node-1 0xfffffffe <ok> node-2 0xfffffffe <ok> node-30 0xfffffffe <ok>,1
+3b38bec1,closing,1
+1ee85f6c,starting,1
+13856549,inconsistent nodesets node-1 0x000001fc <ok> node-2 0x000001fc <ok> node-7 0x000001fc <ok> node-4 0x000001fc <ok> node-6 0x000001fc <ok> node-5 0x000001fc <ok> node-3 0x000001fc <ok> node-14 0x0003fdfc <ok> node-13 0x0003fdfc <ok> node-12 0x0003fdfc <ok> node-10 0x0003fdfc <ok> node-16 0x0003fdfc <ok> node-15 0x0003fdfc <ok>,1
+252f035f,not-responding,1
+1793c40e,inconsistent nodesets node-32 0x00000002 <ok> node-34 0x000001fe <ok> node-33 0x000001fe <ok> node-35 0x000001fe <ok>,1
+445dbb18,inconsistent nodesets node-160 0x0001edfe <ok> node-161 0x1001fdfe <ok> node-162 0x1001fdfe <ok> node-163 0x1001fdfe <ok>,1
+9faec153,ClusterFileSystem : ServerFileSystem domain root28_domain is no longer served by node node-219,1
+516c163a,ClusterFileSystem : ServerFileSystem domain root1_domain_backup is no longer served by node node-96,1
+b2c6fdb9,ClusterFileSystem : ServerFileSystem domain root1_tmp_backup is no longer served by node node-96,1
+d22cf7da,ClusterFileSystem : ServerFileSystem domain cluster_var_backup is no longer served by node node-224,1
+65453e09,ClusterFileSystem : ServerFileSystem domain cluster_usr_backup is no longer served by node node-192,1
+0d534ec4,ClusterFileSystem : ServerFileSystem domain sc_cluster_backup is no longer served by node node-0,1
+8fa5c80e,ClusterFileSystem : ServerFileSystem domain root18_tmp is no longer served by node node-241,1
+bde73f88,Failed subcommands 3406,1
+bc0b2756,ClusterFileSystem : ServerFileSystem domain root26_domain is no longer served by node node-57,1
+aa56253e,ClusterFileSystem : ServerFileSystem domain root28_domain is no longer served by node node-96,1
+11d891f7,Fan speeds ( 3552 3534 3391 4299 3515 3479 ),1
+0753c0fd,Fan speeds ( 3552 3534 3375 4192 3515 3479 ),1
+79f5ef1c,NIFF : node node-73 has detected an available network connection on network 0.0.0.0 via interface alt0,1
+688b5b2b,Fan speeds ( 3552 3534 3375 4166 3515 3479 ),1
+f2af71f1,Fan speeds ( 3552 3534 3375 4470 3515 3479 ),1
+277df4de,Fan speeds ( 3552 3534 3375 11637 3515 3479 ),1
+1a56db26,ServerFileSystem : An ServerFileSystem domain panic has occurred on storage442,1
+0bfcea8e,NIFF : node node-162 detected a failed network connection on network 5.5.224.0 via interface alt0,1
+aeb57f8a,NIFF : node node-69 detected a failed network connection on network 5.5.224.0 via interface alt0,1
+6a00867e,ClusterFileSystem : There is no server for ServerFileSystem domain storage321,1
+5eb6bf97,ClusterFileSystem : There is no server for ServerFileSystem domain storage531,1
+be2ac5b9,ClusterFileSystem : There is no server for ServerFileSystem domain storage832,1
+ee114022,ClusterFileSystem : There is no server for ServerFileSystem domain storage132,1
+d959d938,ClusterFileSystem : There is no server for ServerFileSystem domain storage411,1
+f077bab6,ClusterFileSystem : There is no server for ServerFileSystem domain storage1311,1
+04d480d4,ClusterFileSystem : There is no server for ServerFileSystem domain storage142,1
+3ef1092b,ClusterFileSystem : There is no server for ServerFileSystem domain storage1432,1
+5b4c7e2d,Fan speeds ( 3534 3534 3375 4272 3497 3479 ),1
+1196f679,ClusterFileSystem : ServerFileSystem domain root30_domain is no longer served by node node-0,1
+cdd0d91a,Fan speeds ( 3534 3534 3375 4470 3497 3479 ),1
+5452c51c,Command has been aborted,1
+70d85f69,ClusterFileSystem : ServerFileSystem domain root10_domain is no longer served by node node-224,1
+7a61c1ca,ClusterFileSystem : ServerFileSystem domain root9_domain is no longer served by node node-224,1
+621f9abb,ClusterFileSystem : ServerFileSystem domain root3_domain is no longer served by node node-128,1
+6de3142c,ClusterFileSystem : ServerFileSystem domain root_domain is no longer served by node node-160,1
+12746bce,ClusterFileSystem : ServerFileSystem domain cluster_root_backup is no longer served by node node-96,1
+181346b0,ServerFileSystem : ServerFileSystem domain root26_local is full,1
+6d067649,ServerFileSystem : ServerFileSystem domain root25_local is full,1
+1c250ca8,ServerFileSystem : ServerFileSystem domain root3_local is full,1
+aede526d,ServerFileSystem : ServerFileSystem domain root1_local is full,1
+ca492c32,ServerFileSystem : ServerFileSystem domain root7_local is full,1
+740a1487,ServerFileSystem : ServerFileSystem domain root26_tmp is full,1
+f28a9023,ServerFileSystem : ServerFileSystem domain root13_local is full,1
+9192a591,ServerFileSystem : ServerFileSystem domain root10_local is full,1
+5c3866fb,ServerFileSystem : ServerFileSystem domain root14_local is full,1
+4f81b9d1,Link error on broadcast tree Interconnect-1T00 : 00 : 3 : 6,1
+d3c58961,Link error on broadcast tree Interconnect-0T00 : 00 : 2 : 1,1
+e13d082a,power/control problem,1
+8c1fbc76,Fan speeds ( 3534 3534 3375 4115 3497 3479 ),1
+b3f664d2,ClusterFileSystem : There is no server for ServerFileSystem domain storage112,1
+06ca5616,NIFF : node node-129 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+832e5d50,NIFF : node node-24 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+583ca1ce,NIFF : node node-150 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+070ef51a,NIFF : node node-46 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+573fee66,NIFF : node node-204 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+beafa0f2,NIFF : node node-86 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+f690d090,NIFF : node node-240 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+b146b9b2,NIFF : node node-29 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+1d49a4ec,NIFF : node node-253 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+b63a68db,NIFF : node node-19 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+e8aea695,NIFF : node node-190 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+0c397008,NIFF : node node-23 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+2bcd3b8b,NIFF : node node-233 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+8a6a9a39,NIFF : node node-7 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+64473a20,NIFF : node node-106 has detected an available network connection on network 0.0.0.0 via interface alt0,1
+887308a2,NIFF : node node-45 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+8bfd587c,NIFF : node node-143 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+4efa8363,NIFF : node node-139 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+b3d0a0af,NIFF : node node-193 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+ebba7834,NIFF : node node-42 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+da2a4680,NIFF : node node-142 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+e2d74910,NIFF : node node-91 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+d2dd8d74,NIFF : node node-244 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+10aa48d2,NIFF : node node-161 has detected an available network connection on network 0.0.0.0 via interface alt0,1
+f93a7602,NIFF : node node-178 has detected an available network connection on network 0.0.0.0 via interface alt0,1
+aef57893,NIFF : node node-77 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+ec24cccd,NIFF : node node-248 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+6ea6bfa4,NIFF : node node-94 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+1c9422c6,NIFF : node node-218 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+aa5bfb13,NIFF : node node-189 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+ddae77eb,NIFF : node node-221 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+82550b5d,NIFF : node node-187 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+323ef795,NIFF : node node-212 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+e0408a34,NIFF : node node-183 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+bb450008,NIFF : node node-205 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+321e462e,NIFF : node node-202 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+0ec069aa,NIFF : node node-69 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+ce691bfe,NIFF : node node-17 has detected an available network connection on network 0.0.0.0 via interface alt0,1
+e67576c7,NIFF : node node-144 has detected an available network connection on network 10.96.0.0 via interface scip0,1
+242d1757,NIFF : node node-182 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+2cd62ddc,NIFF : node node-26 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+6b53ad49,NIFF : node node-148 has detected an available network connection on network 5.5.226.0 via interface alt0,1
+eac5631b,NIFF : node node-104 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+c4c4333e,NIFF : node node-113 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+ff3f92a8,NIFF : node node-9 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+efca3b0b,NIFF : node node-75 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+1c3ca6c4,NIFF : node node-176 has detected an available network connection on network 5.5.226.0 via interface alt0,1
+ae394191,NIFF : node node-155 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+fe31e296,NIFF : node node-205 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+68d2568a,NIFF : node node-186 has detected an available network connection on network 5.5.226.0 via interface alt0,1
+7006f8f0,NIFF : node node-163 has detected an available network connection on network 0.0.0.0 via interface alt0,1
+34258e82,NIFF : node node-189 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+96822c8c,NIFF : node node-173 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+e4de740a,NIFF : node node-252 has detected an available network connection on network 5.5.226.0 via interface alt0,1
+d4c08638,NIFF : node node-73 has detected an available network connection on network 5.5.226.0 via interface alt0,1
+84d857c9,NIFF : node node-142 has detected an available network connection on network 0.0.0.0 via interface alt0,1
+a2416c23,NIFF : node node-120 has detected an available network connection on network 5.5.226.0 via interface alt0,1
+0b34fca3,NIFF : node node-26 has detected an available network connection on network 5.5.226.0 via interface alt0,1
+5601f12b,NIFF : node node-241 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+a55061d0,NIFF : node node-17 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+e65bf6be,NIFF : node node-232 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+1981ad63,NIFF : node node-237 has detected an available network connection on network 5.5.226.0 via interface alt0,1
+1fc8885c,NIFF : node node-152 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+95bee728,NIFF : node node-208 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+e7195665,NIFF : node node-139 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+0d18cb6a,NIFF : node node-72 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+bfd16f76,NIFF : node node-203 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+cd971ee5,NIFF : node node-87 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+67f699a1,NIFF : node node-29 has detected an available network connection on network 0.0.0.0 via interface alt0,1
+2199e83b,NIFF : node node-188 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+6a2fe4e9,NIFF : node node-255 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+b0c18a7d,NIFF : node node-151 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+bf6e4b1e,NIFF : node node-44 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+e39459cb,NIFF : node node-45 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+2991ebae,NIFF : node node-130 has detected an available network connection on network 10.96.0.0 via interface scip0,1
+ca5fdf72,NIFF : node node-30 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+8643cc31,NIFF : node node-244 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+f78b2d3b,NIFF : node node-234 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+46b9de35,NIFF : node node-254 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+a19f654a,NIFF : node node-202 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+191a90be,NIFF : node node-214 has detected an available network connection on network 5.5.226.0 via interface alt0,1
+92197ef6,NIFF : node node-217 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+92604dd1,NIFF : node node-157 has detected an available network connection on network 5.5.226.0 via interface alt0,1
+e82c2c86,ClusterFileSystem : There is no server for ServerFileSystem domain storage622,1
+ea9546c9,Fan speeds ( 3552 3534 3375 4530 3515 3479 ),1
+3282ef4c,NIFF : node node-171 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+32e1c6b9,wait (command 2257),1
+317f900a,ClusterFileSystem : There is no server for ServerFileSystem domain storage221,1
+c65c5d12,boot (command 2257),1
+1c4d762b,wait (command 2322),1
+93595f6a,wait (command 2354),1
+11390fc9,wait (command 2347),1
+5b5f106b,wait (command 3319),1
+b9820297,boot (command 2368),1
+ff54cd9d,boot (command 3317),1
+74820ebb,boot (command 2392),1
+6a8edb9c,boot (command 3318),1
+1e941e59,boot (command 3320),1
+97bf7ca3,boot (command 3194),1
+a72611af,boot (command 2406),1
+d7f26b5b,boot (command 2417),1
+19b8fe64,wait (command 2270),1
+c19bd12d,boot (command 3138),1
+aedf5c23,wait (command 2302),1
+fe5a7f92,boot (command 2183),1
+33639bc3,wait (command 3519),1
+a3441393,wait (command 2154),1
+1fe33b07,boot (command 2141),1
+d4d9cf8b,boot (command 2110),1
+1ce6a083,wait (command 3525),1
+8d48a298,boot (command 2160),1
+1b40641f,wait (command 3523),1
+9551a473,boot (command 3473),1
+bbce4426,boot (command 3413),1
+82ba10da,wait (command 3412),1
+97a3d23e,boot (command 3334),1
+2407af8b,wait (command 3334),1
+bbdf6b9d,halt (command 2221),1
+0239ec87,wait (command 2201),1
+e71e41d1,wait (command 2199),1
+f1ce57ce,wait (command 2189),1
+1db0a779,wait (command 3141),1
+aee9e160,wait (command 3078),1
+9dc79e3a,wait (command 3079),1
+49902d8e,wait (command 2549),1
+1819d719,boot (command 2584),1
+0add518e,wait (command 2582),1
+a5a5b09e,boot (command 2602),1
+696574c5,boot (command 2619),1
+a39f1d13,wait (command 2449),1
+93ca7762,wait (command 2607),1
+e9f82903,boot (command 2625),1
+ae52ea8b,wait (command 2484),1
+9a8c8ff4,boot (command 2514),1
+f673a71d,wait (command 2513),1
+0546f75e,wait (command 2511),1
+c9650e6b,boot (command 2517),1
+bd8d669b,wait (command 2517),1
+db671ef1,boot (command 2520),1
+43d490c5,wait (command 2424),1
+9ae53f67,boot (command 2550),1
+03f2e2fc,boot (command 2548),1
+635227f9,boot (command 2538),1
+c31182ec,wait (command 3087),1
+267a4147,halt (command 2992),1
+5346aec4,boot (command 2999),1
+21d00072,wait (command 2963),1
+433e0a54,boot (command 2960),1
+dc639b12,wait (command 2909),1
+3d643d7e,wait (command 2885),1
+59793395,wait (command 2468),1
+1a1db873,wait (command 2900),1
+c952da3c,boot (command 2423),1
+c6ae7ec9,boot (command 2790),1
+edf984d0,wait (command 2800),1
+28a90931,wait (command 2763),1
+e1fc771c,wait (command 2682),1
+0b2df7c1,boot (command 2686),1
+6c729696,wait (command 2683),1
+4e9c8a90,wait (command 2823),1
+67697bfa,boot (command 3512),1
+7a07afa6,boot (command 3519),1
+fcdebe54,boot (command 3572),1
+ae1c9a56,boot (command 1910),1
+3c719c86,boot (command 1978),1
+ffb01677,psu failure\ ambient = 31,1
+0d2f58f6,boot (command 1967),1
+e3573773,Targeting domains : node-D2 and nodes : node-84,1
+f188fb93,Targeting domains : node-D2 and nodes : node-[64-95] child of command 3488,1
+5fd98954,wait (command 1975),1
+bcfe6c1b,boot (command 1911),1
+bfc02dc4,boot (command 1999),1
+3cd82c3b,Targeting domains : node-D[0\ 5] and nodes : node-[27\ 191],1
+2989473d,Targeting domains : node-D0 and nodes : node-0,1
+f0cd1fc3,boot (command 1981),1
+c13dac6d,Targeting domains : node-D0 and nodes : node-[8-31] child of command 2489,1
+e652cb76,Targeting domains : node-D4 and nodes : node-[128-135] child of command 2401,1
+2de0b153,boot (command 1973),1
+87766bbc,Targeting domains : node-D7 and nodes : node-[224\ 228\ 232],1
+c76d5d80,halt (command 1982),1
+4ce5f910,Targeting domains : node-D4 and nodes : node-[136-159] child of command 1964,1
+c92d1290,ClusterFileSystem : There is no server for ServerFileSystem domain storage234,1
+b29754c7,ClusterFileSystem : There is no server for ServerFileSystem domain storage1412,1
+320824a8,ClusterFileSystem : There is no server for ServerFileSystem domain storage1331,1
+83642830,ClusterFileSystem : There is no server for ServerFileSystem domain storage1031,1
+148a1d43,ClusterFileSystem : There is no server for ServerFileSystem domain storage242,1
+0833f9c5,ClusterFileSystem : There is no server for ServerFileSystem domain storage1644,1
+f93bcf00,ClusterFileSystem : There is no server for ServerFileSystem domain storage1542,1
+6966f84f,ClusterFileSystem : There is no server for ServerFileSystem domain storage1612,1
+c62b5dea,clusterAddMember (command 1902),1
+57cb4769,bootGenvmunix (command 1903),1
+1b47e0d5,ClusterFileSystem : There is no server for ServerFileSystem domain storage141,1
+8047ffd3,ClusterFileSystem : There is no server for ServerFileSystem domain storage1144,1
+22d115c3,ClusterFileSystem : There is no server for ServerFileSystem domain storage131,1
+f2bdfb20,clusterAddMember (command 1900),1
+c395eb80,ClusterFileSystem : There is no server for ServerFileSystem domain storage934,1
+e5e34e3d,risBoot (command 1903),1
+1c634be7,ClusterFileSystem : There is no server for ServerFileSystem domain storage1534,1
+77db4d71,ClusterFileSystem : There is no server for ServerFileSystem domain storage1024,1
+8c3eb9ed,ClusterFileSystem : There is no server for ServerFileSystem domain storage444,1
+a4e807e3,boot (command 3579),1
+b4dd80bb,Targeting domains : node-D3 and nodes : node-[104-127] child of command 1963,1
+c387c5ef,wait (command 4219),1
+9b1493f0,boot (command 3928),1
+b20ca547,boot (command 3951),1
+c3572f5d,wait (command 3847),1
+d767d786,wait (command 3837),1
+6c7c0c57,wait (command 3709),1
+43e44461,wait (command 3698),1
+87faafe4,boot (command 3696),1
+46daa8cc,wait (command 3690),1
+f5b17a75,boot (command 3639),1
+da51b845,wait (command 3649),1
+ea185e75,boot (command 3624),1
+3b850e12,wait (command 3609),1
+3850a3ec,boot (command 3615),1
+77df8997,wait (command 3612),1
+4ef3909d,boot (command 3580),1
+07239c41,wait (command 1973),1
+6b5c0748,boot (command 3964),1
+3c235758,boot (command 3939),1
+1b73feb0,boot (command 2152),1
+c8a64f43,wait (command 4221),1
+85dacf7d,boot (command 4223),1
+118d61cf,bootGenvmunix (command 4185),1
+c8b01b77,wait (command 2057),1
+1e665159,boot (command 4170),1
+ad69ffd0,boot (command 4176),1
+ce95de6e,wait (command 4145),1
+aecad7b3,wait (command 3973),1
+17d3b168,boot (command 4109),1
+7cb854f0,wait (command 4116),1
+36ba04ca,boot (command 4118),1
+be430178,wait (command 4110),1
+07389e85,wait (command 4061),1
+f886c5ef,boot (command 4024),1
+68f34eec,wait (command 4117),1
+91f2febe,boot (command 2464),1
+cd3ec402,boot (command 2316),2
+cad3be95,NIFF : node node-176 has detected an available network connection on network 10.128.0.0 via interface ee0,2
+a752c0ae,NIFF : node node-44 has detected an available network connection on network 5.5.224.0 via interface alt0,2
+ae3bb90f,wait (command 2217),2
+6cdc44db,ClusterFileSystem : There is no server for ServerFileSystem domain storage742,2
+138ec158,NIFF : node node-84 has detected an available network connection on network 10.128.0.0 via interface ee0,2
+a579026d,wait (command 4176),2
+8fe2c969,wait (command 3981),2
+3b219fff,Temperature (41C) exceeds warning threshold,2
+0c9893ad,Link error on broadcast tree Interconnect-1T00 : 00 : 2 : 0,2
+512dd0aa,ClusterFileSystem : There is no server for ServerFileSystem domain storage1231,2
+49c0be82,Fan speeds ( 3552 3534 3375 4245 3515 3479 ),2
+97c795cc,Fan speeds ( 3552 3552 3391 **** 3515 3497 ),2
+7979de14,wait (command 2817),2
+fce4c828,boot (command 3169),2
+4d8f64d1,ClusterFileSystem : There is no server for ServerFileSystem domain storage1622,2
+ec34cda9,ServerFileSystem : ServerFileSystem domain root22_local is full,3
+70dc7674,boot (command 2616),3
+e76da2b6,psu failure\ ambient = 28,4
+117ef0a9,ambient = 24,4
+c76a5e84,active,5
+cb8dedee,ambient = 34,9
+db5aa7f9,Link in reset,9
+b4e25afc,Command has completed successfully,10
+f35b7adb,Fan speeds ( 3534 3534 3375 **** 3497 3479 ),10
+3cd7f5c3,ambient = 36,10
+c444eac5,ambient = 35,11
+64490688,Component State Change : Component \042alt0\042 is in the unavailable state ((HWID)),11
+ec4e03ec,Link error,13
+641961b9,Link ok,13
+61326117,blocked,15
+3e37f471,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),15
+a38f5f25,ambient = 32,16
+3d1f50dd,ambient = 26,19
+7e85bcb6,critical,20
+eddfa6e1,ambient = 25,20
+e23b90a5,ambient = 28,30
+e1d2f832,ambient = 27,30
+b155930e,ambient = 31,32
+6a5ad6d7,ambient = 29,34
+269e25a9,ambient = 33,34
+3c739517,ambient = 30,41
+5c2f1ea4,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),52
+551adf73,link errors remain current,56
+b02b9741,not responding,60
+8cfafe98,configured out,91
+75101dcd,running,162
+7b83d3f0,warning,205
+fea08751,normal,206
+9050ee25,Linkerror event interval expired,394

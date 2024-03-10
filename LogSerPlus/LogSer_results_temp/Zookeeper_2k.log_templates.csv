@@ -1,0 +1,44 @@
+EventId,EventTemplate,Occurrences
+d459c04c,Starting quorum peer,1
+9d86801d,Sending DIFF,1
+e1caa208,"New election. My id = 1, proposed zxid=0x700000000",1
+0aa902cb,Unexpected Exception :,1
+50c4131a,"Server environment : zookeeper.version=3.4.5--1, built on 06/10/2013 17 : 26 GMT",1
+91284968,Got user-level KeeperException when processing sessionid : 0x34ed93485090001 type : create cxid : 0x55b8bb0f zxid : 0x100000010 txntype : -1 reqpath : n/a Error Path : /home/curi/.zookeeper Error : KeeperErrorCode = NodeExists for /home/curi/.zookeeper,1
+ab965f3e,"Have smaller server identifier, so dropping the connection : (2, 1)",1
+7af2af14,My election bind port : <*><*> : 3888,1
+b7ec72cc,Follower sid : 3 : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@33557fe4,1
+34ddcad5,Server environment : java.class.path=/etc/zookeeper/conf : /usr/share/java/jline.jar : /usr/share/java/log4j-1.2.jar : /usr/share/java/xercesImpl.jar : /usr/share/java/xmlParserAPIs.jar : /usr/share/java/netty.jar : /usr/share/java/slf4j-api.jar : /usr/share/java/slf4j-log4j12.jar : /usr/share/java/zookeeper.jar,1
+93650f1c,Have quorum of supporters; starting up and setting last processed zxid : 0xb00000000,1
+c7ef5ae9,shutdown of request processor complete,1
+9cb3def4,First is 0x0,1
+a9459b27,Reading snapshot /var/lib/zookeeper/version-2/snapshot.b00000084,1
+b82832d4,Server environment : java.vendor=Oracle Corporation,2
+a1237171,FOLLOWING - LEADER ELECTION TOOK - <*>,2
+25c21275,Snapshotting : <*> to <*>,2
+c172d526,FOLLOWING,2
+4c5926a1,Getting a snapshot from leader,2
+cacf42f4,Exception causing close of session 0x0 due to java.io.IOException : ZooKeeperServer not running,3
+63f9f4f6,Revalidating client : <*>,3
+00078e14,LOOKING,4
+dac22ff5,Closed socket connection for client <*> : <*> (no session established for client),4
+e7b3280f,Server environment : <*>,7
+331b4187,<*> set to <*>,8
+0cf47064,Unexpected exception causing shutdown while sock still open,12
+52fbc8ce,"Notification : <*> (n.leader), <*> (n.zxid), <*> (n.round), <*> (n.state), <*> (n.sid), <*> (n.peerEPoch), <*> (my state)",12
+edf37e2e,******* GOODBYE <*> : <*> ********,19
+ecefe136,caught end of stream exception,37
+7a72cde4,Notification time out : <*>,37
+c3412894,Connection request from old client <*> : <*> will be dropped if server is in r-o mode,39
+f8c6d06b,Expiring session <*> timeout of <*> exceeded,40
+720e4067,Client attempting to <*> <*> <*> at <*> : <*>,44
+0032b99c,Closed socket connection for client <*> : <*> which had sessionid <*>,44
+ad92ce41,Processed session termination for sessionid : <*>,47
+2737b3a7,Accepted socket connection from <*> : <*>,48
+8d665281,Established session <*> with negotiated timeout <*> for client <*> : <*>,50
+ed0a5e6c,Cannot open channel to <*> at election address <*> : 3888,86
+7a2ec7d0,Send worker leaving thread,262
+273e53f2,Interrupting SendWorker,266
+036ce310,Connection broken for id <*> my id = <*> error =,291
+752b2426,Received connection request <*> : <*>,299
+45a3ec5d,Interrupted while waiting for message on queue,314
